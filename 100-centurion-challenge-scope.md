@@ -1,7 +1,7 @@
 # 100: Centurion Challenge — Scope & Plan
 
 ## Concept
-A browser-based football (soccer) team-builder, in the spirit of 82-0 / 38-0 / 73-9. Build a Premier League squad from a $1B budget, drafted from a spin-based system pulling real players across the world's top leagues. Simulate a 38-game season against the other 19 real PL clubs and see how close you get to Manchester City's 2017-18 Centurions record — 100 points.
+A browser-based football (soccer) team-builder. Build a Premier League squad from a $1B budget, drafted from a spin-based system pulling real players across the world's top leagues. Simulate a 38-game season against the other 19 real PL clubs and see how close you get to Manchester City's 2017-18 Centurions record — 100 points.
 
 **Name:** 100: Centurion Challenge (short form: 100pts)
 
@@ -11,7 +11,7 @@ A browser-based football (soccer) team-builder, in the spirit of 82-0 / 38-0 / 7
 
 ## Core Loop
 1. Lock a formation (4-3-3, 4-4-2, 3-5-2, etc.) — sets starting slots + bench slots.
-2. Draft a 15-16 player squad (11 starters + 4-5 bench) under a $1B budget using the spin-and-shortlist system.
+2. Draft a 16 player squad (11 starters + 5 bench) under a $1B budget using the spin-and-shortlist system.
 3. Before the season starts, run a Monte Carlo simulation (thousands of simulated seasons) and show your probability of hitting 100+ points, plus average points, alongside the 19 real PL opponents' own model-generated strength ratings.
 4. Play through one "canon" season, week by week, with results and a live table.
 5. End-of-season summary: final points, comparison to the Centurions/Invincibles/other historic marks, best XI you could have drafted with hindsight (nice touch borrowed from 73-9).
