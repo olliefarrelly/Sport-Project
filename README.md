@@ -90,7 +90,7 @@ All real, current Premier League clubs, rated using the *exact same model* as th
 
 **Stretch goals (layer in later):**
 - Style tags + synergy system (Option B from earlier: 4-5 broad tags like High Press, Target Man, Ball-Playing CB, with simple compatibility bonuses/penalties)
-- Bidding system against AI competitors for players
+- Bidding system for players (have to bid instead of paying transfermarkt value - more for young players, less for older)
 - Injuries/suspensions/form dips affecting bench rotation over the season
 - Full standalone site + leaderboard/save persistence (vs. playing purely within a chat artifact)
 
