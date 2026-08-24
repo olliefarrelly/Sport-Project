@@ -100,3 +100,33 @@ All real, current Premier League clubs, rated using the *exact same model* as th
 - Single-file HTML/JS artifact — matches how the reference games (82-0, 38-0, 73-9) are built, avoids a build step, and is trivially shareable/playable.
 - Player/team dataset compiled once (via research) into a static JSON file shipped with the game — not live-fetched at runtime.
 - In-memory game state only for v1 (no persistent storage needed unless we build toward a real standalone site later).
+
+## Repo Structure
+
+```
+100pts/
+├── README.md
+├── docs/
+│   └── scope.md
+├── data/
+│   ├── raw/
+│   └── processed/
+├── pipeline/
+│   ├── scrape_fbref.py
+│   ├── scrape_transfermarkt.py
+│   ├── rating_model.py
+│   ├── price_model.py
+│   └── build_player_pool.py
+├── game/
+│   ├── index.html
+│   ├── sim/
+│   │   ├── match_engine.js
+│   │   ├── team_strength.js
+│   │   └── season_sim.js
+│   ├── draft/
+│   │   └── spin.js
+│   └── ui/
+├── schema/
+│   └── types.md
+└── .gitignore
+```
