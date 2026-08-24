@@ -102,28 +102,31 @@ All real, current Premier League clubs, rated using the *exact same model* as th
 - In-memory game state only for v1 (no persistent storage needed unless we build toward a real standalone site later).
 
 ## Repo Structure
+
+```
 100pts/
 ├── README.md
 ├── docs/
-│   └── scope.md              # your scope doc, methodology notes
+│   └── scope.md
 ├── data/
-│   ├── raw/                  # untouched scraped FBref/Transfermarkt dumps
-│   └── processed/            # cleaned, final player_pool.json etc.
+│   ├── raw/
+│   └── processed/
 ├── pipeline/
 │   ├── scrape_fbref.py
 │   ├── scrape_transfermarkt.py
-│   ├── rating_model.py       # performance_rating formula
-│   ├── price_model.py        # market_value + volatility formula
-│   └── build_player_pool.py  # combines everything into data/processed/player_pool.json
+│   ├── rating_model.py
+│   ├── price_model.py
+│   └── build_player_pool.py
 ├── game/
-│   ├── index.html            # or your front-end entry point
+│   ├── index.html
 │   ├── sim/
-│   │   ├── match_engine.js   # Poisson match sim
-│   │   ├── team_strength.js  # aggregation logic
-│   │   └── season_sim.js     # Monte Carlo + week-by-week season loop
+│   │   ├── match_engine.js
+│   │   ├── team_strength.js
+│   │   └── season_sim.js
 │   ├── draft/
-│   │   └── spin.js           # spin/shortlist/re-spin logic
-│   └── ui/                   # front-end components/screens
+│   │   └── spin.js
+│   └── ui/
 ├── schema/
-│   └── types.md (or .ts)     # the shared data contract you lock in Step 1
+│   └── types.md
 └── .gitignore
+```
