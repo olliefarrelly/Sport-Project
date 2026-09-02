@@ -55,3 +55,14 @@ ORDER BY position, n DESC
 unique(big5$sub_position)
 sum(is.na(big5$sub_position))
 unique(big5$league)
+
+
+
+downloads_path <- file.path(path.expand("~"), "Downloads")
+downloads_path
+
+write.csv(big5, file.path(downloads_path, "big5_market_values.csv"), row.names = FALSE)
+
+
+file.exists(file.path(downloads_path, "big5_market_values.csv"))
+file.path(downloads_path, "big5_market_values.csv")
