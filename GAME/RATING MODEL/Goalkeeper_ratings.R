@@ -66,63 +66,22 @@ gk_ratings <- matched_final |>
   mutate(
     save_pct_percentile = percent_rank(Save_pct_shrunk) * 100,
     ga90_percentile = percent_rank(-GA_90_shrunk) * 100,
-    cs90_percentile = percent_rank(CS_90_shrunk) * 100
+    cs90_percentile = percent_rank(CS_90_shrunk) * 100,
+    mv_percentile = percent_rank(market_value_in_eur) * 100
   ) |>
   mutate(
     gk_rating = round(
-      0.40 * save_pct_percentile +
-        0.40 * ga90_percentile +
-        0.20 * cs90_percentile,
-      1
-    )
-  ) |>
-  arrange(desc(gk_rating))
-
-dim(gk_ratings)
-gk_ratings |> select(Player, Squad, Min, Save_pct, Save_pct_shrunk, GA_90, GA_90_shrunk, gk_rating, low_sample) |> head(15)
-
-
-
-
-gk_ratings |> filter(low_sample == TRUE) |> select(Player, Squad, Min, gk_rating) |> arrange(desc(gk_rating)) |> head(10)
-
-
-
-
-gk_ratings <- matched_final |>
-  filter(sub_position == "Goalkeeper") |>
-  mutate(
-    CS_90 = if_else(nineties > 0, round(CS / nineties, 2), NA_real_)
-  ) |>
-  mutate(
-    league_avg_cs90 = mean(CS_90, na.rm = TRUE)
-  ) |>
-  mutate(
-    shrink_weight = nineties / (nineties + k),
-    Save_pct_shrunk = shrink_weight * Save_pct + (1 - shrink_weight) * league_avg_save_pct,
-    GA_90_shrunk = shrink_weight * GA_90 + (1 - shrink_weight) * league_avg_ga90,
-    CS_90_shrunk = shrink_weight * CS_90 + (1 - shrink_weight) * league_avg_cs90
-  ) |>
-  mutate(
-    save_pct_percentile = percent_rank(Save_pct_shrunk) * 100,
-    ga90_percentile = percent_rank(-GA_90_shrunk) * 100,
-    cs90_percentile = percent_rank(CS_90_shrunk) * 100
-  ) |>
-  mutate(
-    gk_rating = round(
-      0.40 * save_pct_percentile +
-        0.40 * ga90_percentile +
-        0.20 * cs90_percentile,
+      0.34 * save_pct_percentile +
+        0.34 * ga90_percentile +
+        0.17 * cs90_percentile +
+        0.15 * mv_percentile,
       1
     )
   ) |>
   mutate(
-    gk_rating = if_else(Min < 450, pmin(gk_rating, 65), gk_rating)   # hard cap for low-minute keepers
+    gk_rating = if_else(Min < 450, pmin(gk_rating, 65), gk_rating)
   ) |>
   arrange(desc(gk_rating))
 
 dim(gk_ratings)
-
-
-gk_ratings |> filter(Min < 450) |> select(Player, Squad, Min, gk_rating) |> arrange(desc(gk_rating)) |> head(10)gk_ratings |> filter(Min < 450) |> select(Player, Squad, Min, gk_rating) |> arrange(desc(gk_rating)) |> head(10)
-
+gk_ratings |> select(Player, Squad, Min, Save_pct, GA_90, market_value_in_eur, gk_rating, low_sample) |> head(15)
