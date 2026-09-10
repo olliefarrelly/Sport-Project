@@ -189,5 +189,12 @@ nrow(matched_final)
 
 
 
-write.csv(matched_final, file.path(downloads_path, "matched_players_final.csv"), row.names = FALSE)
-transfer_final <- matched_final
+
+
+write.csv(transfer_final, file.path(downloads_path, "transfer_final.csv"), row.names = FALSE)
+
+file.exists(file.path(downloads_path, "transfer_final.csv"))
+list.files(downloads_path)
+
+
+normalizePath(file.path(downloads_path, "transfer_final.csv"))
