@@ -25,11 +25,15 @@
 # comparable scale before combining them.
 #
 # STEP 3 - WEIGHTED COMPOSITE SCORE
-# The three percentiles are combined into one gk_rating:
-#   40% Save% (core shot-stopping skill)
-#   40% GA_90, inverted (fewer goals conceded = higher score)
-#   20% Clean sheets per 90 (team outcome, so weighted lower since
+# Four percentiles are combined into one gk_rating:
+#   34% Save% (core shot-stopping skill)
+#   34% GA_90, inverted (fewer goals conceded = higher score)
+#   17% Clean sheets per 90 (team outcome, so weighted lower since
 #       it's influenced by the defense in front of the keeper too)
+#   15% Market value (real-world scouting/reputation signal, helps
+#       correct cases where raw stats over/under-rate a keeper due
+#       to factors the stats can't see, e.g. quality of defense in
+#       front of them, big-game reputation, consistency over time)
 #
 # STEP 4 - HARD CAP FOR UNPROVEN KEEPERS
 # Shrinkage alone can't fully stop a lucky small sample from still
