@@ -120,3 +120,18 @@ cam_ratings <- build_mid_ratings(matched_final, "Attacking Midfield", cam_weight
 
 dim(cam_ratings)
 cam_ratings |> select(Player, Squad, Min, Ast_90, Gls_90, market_value_in_eur, mid_rating, low_sample) |> head(15)
+
+
+
+# ============================================================
+# FINAL RESCALING STEP (cross-position comparability)
+# ============================================================
+# See wing-mid script for full rationale. In short: mid_rating
+# here is only comparable to other CAMs. Before this feeds into
+# team attack/defence aggregation alongside other positions, it
+# needs to be re-expressed as "how good relative to positional
+# peers" on a consistent 0-100 scale.
+
+cam_ratings <- rescale_position_rating(cam_ratings, "mid_rating")
+
+cam_ratings |> select(Player, Squad, Min, mid_rating, final_rating, low_sample) |> head(15)
