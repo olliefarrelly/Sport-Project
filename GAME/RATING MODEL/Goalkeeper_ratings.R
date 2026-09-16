@@ -89,3 +89,15 @@ gk_ratings <- matched_final |>
 
 dim(gk_ratings)
 gk_ratings |> select(Player, Squad, Min, Save_pct, GA_90, market_value_in_eur, gk_rating, low_sample) |> head(15)
+
+
+# ============================================================
+# FINAL RESCALING STEP (cross-position comparability)
+# ============================================================
+# See wing-mid script for full rationale. gk_rating here is only
+# comparable to other goalkeepers — needs rescaling before feeding
+# into team attack/defence aggregation alongside other positions.
+
+gk_ratings <- rescale_position_rating(gk_ratings, "gk_rating")
+
+gk_ratings |> select(Player, Squad, Min, gk_rating, final_rating, low_sample) |> head(15)
