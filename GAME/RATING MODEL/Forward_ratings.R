@@ -55,3 +55,17 @@ forward_ratings <- fwd_pool |>
 
 dim(forward_ratings)
 forward_ratings |> select(Player, Squad, Min, Gls, market_value_in_eur, fwd_rating, low_sample) |> head(15)
+
+
+# ============================================================
+# FINAL RESCALING STEP (cross-position comparability)
+# ============================================================
+# See wing-mid script for full rationale. fwd_rating here is only
+# comparable to other forwards (Centre-Forward, Second Striker,
+# Left/Right Winger, treated as one combined pool) — needs
+# rescaling before feeding into team attack/defence aggregation
+# alongside other positions.
+
+forward_ratings <- rescale_position_rating(forward_ratings, "fwd_rating")
+
+forward_ratings |> select(Player, Squad, Min, fwd_rating, final_rating, low_sample) |> head(15)
