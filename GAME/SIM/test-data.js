@@ -6,3 +6,13 @@ function convertToTeamStrengthFormat(realPlayer, slotSubPosition) {
     slotSubPosition: slotSubPosition
   };
 }
+
+
+
+const salah = playerRatingsMaster.find(p => p.Player.includes("Salah"));
+
+const realXI = [
+  convertToTeamStrengthFormat(salah, "Right Winger")
+];
+
+console.log(realXI);
