@@ -120,3 +120,15 @@ cdm_ratings <- build_mid_ratings(matched_final, "Defensive Midfield", cdm_weight
 
 dim(cdm_ratings)
 cdm_ratings |> select(Player, Squad, Min, TklW_90, Int_90, market_value_in_eur, mid_rating, low_sample) |> head(15)
+
+
+# ============================================================
+# FINAL RESCALING STEP (cross-position comparability)
+# ============================================================
+# See wing-mid script for full rationale. mid_rating here is only
+# comparable to other CDMs — needs rescaling before feeding into
+# team attack/defence aggregation alongside other positions.
+
+cdm_ratings <- rescale_position_rating(cdm_ratings, "mid_rating")
+
+cdm_ratings |> select(Player, Squad, Min, mid_rating, final_rating, low_sample) |> head(15)
