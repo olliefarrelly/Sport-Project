@@ -6,7 +6,7 @@
 # Same shrinkage -> percentile -> weighted composite -> cap structure
 # as the other position models.
 # ============================================================
-
+library(tidyverse)
 k <- 10
 
 cb_pool <- matched_final |>
@@ -52,3 +52,16 @@ cb_ratings |> select(Player, Squad, Min, Int_90, TklW_90, Fls_90, market_value_i
 
 matched_final |> filter(str_detect(Player, "Saliba|Dijk|Marquinhos")) |> 
   select(Player, Squad, sub_position, Min, Int_90, TklW_90, market_value_in_eur)
+
+
+# ============================================================
+# FINAL RESCALING STEP (cross-position comparability)
+# ============================================================
+# See wing-mid script for full rationale. cb_rating here is only
+# comparable to other Centre-Backs — needs rescaling before
+# feeding into team attack/defence aggregation alongside other
+# positions.
+
+cb_ratings <- rescale_position_rating(cb_ratings, "cb_rating")
+
+cb_ratings |> select(Player, Squad, Min, cb_rating, final_rating, low_sample) |> head(15)
