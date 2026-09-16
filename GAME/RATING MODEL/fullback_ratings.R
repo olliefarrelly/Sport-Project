@@ -8,6 +8,12 @@
 # Same shrinkage -> percentile -> weighted composite -> cap structure
 # as the other position models.
 # ============================================================
+
+library(tidyverse)
+library(dplyr)
+library(stringr)
+library(stringi)
+
 season_totals <- players_data |>
   group_by(Player, Born) |>
   summarise(
@@ -142,3 +148,16 @@ matched_final |> filter(str_detect(Player, "Davies|Hakimi|Alexander-Arnold|Cucur
 
 fb_ratings |> filter(str_detect(Player, "Hakimi|Davies|Cucurella|Alexander-Arnold")) |> 
   select(Player, Squad, Min, Int_90, TklW_90, Crs_90, market_value_in_eur, fb_rating, low_sample)
+
+
+# ============================================================
+# FINAL RESCALING STEP (cross-position comparability)
+# ============================================================
+# See wing-mid script for full rationale. fb_rating here is only
+# comparable to other Full-Backs (Left-Back + Right-Back combined
+# pool) — needs rescaling before feeding into team attack/defence
+# aggregation alongside other positions.
+
+fb_ratings <- rescale_position_rating(fb_ratings, "fb_rating")
+
+fb_ratings |> select(Player, Squad, Min, fb_rating, final_rating, low_sample) |> head(15)
