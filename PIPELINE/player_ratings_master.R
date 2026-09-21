@@ -19,7 +19,16 @@ dim(player_ratings_master)
 
 library(jsonlite)
 
+
+
+
+
+player_ratings_master <- bind_rows(
+  gk_final, fwd_final, cb_final, fb_final, cdm_final, cm_final, cam_final, lrm_final
+)
+
+dim(player_ratings_master)
+
+
 json_data <- toJSON(player_ratings_master, pretty = TRUE, auto_unbox = TRUE)
 writeLines(paste0("const playerRatingsMaster = ", json_data, ";"), "player_ratings_master.js")
-
-getwd()

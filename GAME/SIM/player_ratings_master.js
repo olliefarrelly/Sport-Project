@@ -6605,11 +6605,11 @@ const playerRatingsMaster = [
     "final_rating": 0
   },
   {
-    "Player": "Malang Sarr",
-    "Squad": "Lens",
+    "Player": "Abdukodir Khusanov",
+    "Squad": "Manchester City",
     "sub_position": "Centre-Back",
-    "Min": 2925,
-    "market_value_in_eur": 20000000,
+    "Min": 1432,
+    "market_value_in_eur": 50000000,
     "final_rating": 100
   },
   {
@@ -6621,52 +6621,12 @@ const playerRatingsMaster = [
     "final_rating": 99.8
   },
   {
-    "Player": "Abdukodir Khusanov",
-    "Squad": "Manchester City",
+    "Player": "Malang Sarr",
+    "Squad": "Lens",
     "sub_position": "Centre-Back",
-    "Min": 1432,
-    "market_value_in_eur": 50000000,
-    "final_rating": 99.5
-  },
-  {
-    "Player": "Oumar Solet",
-    "Squad": "Udinese",
-    "sub_position": "Centre-Back",
-    "Min": 2959,
-    "market_value_in_eur": 23000000,
-    "final_rating": 99.3
-  },
-  {
-    "Player": "David Affengruber",
-    "Squad": "Elche",
-    "sub_position": "Centre-Back",
-    "Min": 2949,
+    "Min": 2925,
     "market_value_in_eur": 20000000,
-    "final_rating": 99.1
-  },
-  {
-    "Player": "Sadibou Sané",
-    "Squad": "Metz",
-    "sub_position": "Centre-Back",
-    "Min": 1940,
-    "market_value_in_eur": 7000000,
-    "final_rating": 98.9
-  },
-  {
-    "Player": "Albian Hajdari",
-    "Squad": "Hoffenheim",
-    "sub_position": "Centre-Back",
-    "Min": 2434,
-    "market_value_in_eur": 25000000,
-    "final_rating": 98.6
-  },
-  {
-    "Player": "Cristian Romero",
-    "Squad": "Tottenham Hotspur",
-    "sub_position": "Centre-Back",
-    "Min": 1868,
-    "market_value_in_eur": 45000000,
-    "final_rating": 98.4
+    "final_rating": 99.5
   },
   {
     "Player": "Gerard Martín",
@@ -6674,95 +6634,7 @@ const playerRatingsMaster = [
     "sub_position": "Centre-Back",
     "Min": 2119,
     "market_value_in_eur": 35000000,
-    "final_rating": 98.2
-  },
-  {
-    "Player": "Amos Pieper",
-    "Squad": "Werder Bremen",
-    "sub_position": "Centre-Back",
-    "Min": 1502,
-    "market_value_in_eur": 4000000,
-    "final_rating": 98
-  },
-  {
-    "Player": "Chris Richards",
-    "Squad": "Crystal Palace",
-    "sub_position": "Centre-Back",
-    "Min": 2827,
-    "market_value_in_eur": 28000000,
-    "final_rating": 97.5
-  },
-  {
-    "Player": "Leny Yoro",
-    "Squad": "Manchester Utd",
-    "sub_position": "Centre-Back",
-    "Min": 1740,
-    "market_value_in_eur": 50000000,
-    "final_rating": 97.5
-  },
-  {
-    "Player": "Olivier Boscagli",
-    "Squad": "Brighton",
-    "sub_position": "Centre-Back",
-    "Min": 802,
-    "market_value_in_eur": 15000000,
-    "final_rating": 97.3
-  },
-  {
-    "Player": "Nnamdi Collins",
-    "Squad": "Eintracht Frankfurt",
-    "sub_position": "Centre-Back",
-    "Min": 1500,
-    "market_value_in_eur": 20000000,
-    "final_rating": 96.8
-  },
-  {
-    "Player": "Piero Hincapié",
-    "Squad": "Arsenal",
-    "sub_position": "Centre-Back",
-    "Min": 1882,
-    "market_value_in_eur": 50000000,
-    "final_rating": 96.8
-  },
-  {
-    "Player": "Kike Salas",
-    "Squad": "Sevilla",
-    "sub_position": "Centre-Back",
-    "Min": 2203,
-    "market_value_in_eur": 14000000,
-    "final_rating": 96.6
-  },
-  {
-    "Player": "Nicolás Capaldo",
-    "Squad": "Hamburger SV",
-    "sub_position": "Centre-Back",
-    "Min": 2001,
-    "market_value_in_eur": 8000000,
-    "final_rating": 96.4
-  },
-  {
-    "Player": "Giorgio Scalvini",
-    "Squad": "Atalanta",
-    "sub_position": "Centre-Back",
-    "Min": 1808,
-    "market_value_in_eur": 38000000,
-    "final_rating": 96.2
-  },
-  {
-    "Player": "Honest Ahanor",
-    "Squad": "Atalanta",
-    "sub_position": "Centre-Back",
-    "Min": 1377,
-    "market_value_in_eur": 30000000,
-    "final_rating": 95.9
-  },
-  {
-    "Player": "Victor Nelsson",
-    "Squad": "Hellas Verona",
-    "sub_position": "Centre-Back",
-    "Min": 3315,
-    "market_value_in_eur": 6000000,
-    "final_rating": 95.7
+    "final_rating": 99.3
   },
   {
     "Player": "Willian Pacho",
@@ -6770,7 +6642,87 @@ const playerRatingsMaster = [
     "sub_position": "Centre-Back",
     "Min": 1914,
     "market_value_in_eur": 80000000,
-    "final_rating": 95.5
+    "final_rating": 99.1
+  },
+  {
+    "Player": "Piero Hincapié",
+    "Squad": "Arsenal",
+    "sub_position": "Centre-Back",
+    "Min": 1882,
+    "market_value_in_eur": 50000000,
+    "final_rating": 98.9
+  },
+  {
+    "Player": "Giorgio Scalvini",
+    "Squad": "Atalanta",
+    "sub_position": "Centre-Back",
+    "Min": 1808,
+    "market_value_in_eur": 38000000,
+    "final_rating": 98.6
+  },
+  {
+    "Player": "Oumar Solet",
+    "Squad": "Udinese",
+    "sub_position": "Centre-Back",
+    "Min": 2959,
+    "market_value_in_eur": 23000000,
+    "final_rating": 98.4
+  },
+  {
+    "Player": "Marc Guéhi",
+    "Squad": "Crystal Palace",
+    "sub_position": "Centre-Back",
+    "Min": 3150,
+    "market_value_in_eur": 70000000,
+    "final_rating": 98.2
+  },
+  {
+    "Player": "Dayot Upamecano",
+    "Squad": "Bayern Munich",
+    "sub_position": "Centre-Back",
+    "Min": 1794,
+    "market_value_in_eur": 70000000,
+    "final_rating": 98
+  },
+  {
+    "Player": "Honest Ahanor",
+    "Squad": "Atalanta",
+    "sub_position": "Centre-Back",
+    "Min": 1377,
+    "market_value_in_eur": 30000000,
+    "final_rating": 97.7
+  },
+  {
+    "Player": "Samson Baidoo",
+    "Squad": "Lens",
+    "sub_position": "Centre-Back",
+    "Min": 1827,
+    "market_value_in_eur": 25000000,
+    "final_rating": 97.5
+  },
+  {
+    "Player": "Chris Richards",
+    "Squad": "Crystal Palace",
+    "sub_position": "Centre-Back",
+    "Min": 2827,
+    "market_value_in_eur": 28000000,
+    "final_rating": 97.3
+  },
+  {
+    "Player": "Jacobo Ramón",
+    "Squad": "Como",
+    "sub_position": "Centre-Back",
+    "Min": 2742,
+    "market_value_in_eur": 30000000,
+    "final_rating": 97.1
+  },
+  {
+    "Player": "James Hill",
+    "Squad": "Bournemouth",
+    "sub_position": "Centre-Back",
+    "Min": 2106,
+    "market_value_in_eur": 23000000,
+    "final_rating": 96.6
   },
   {
     "Player": "Maxence Lacroix",
@@ -6778,31 +6730,15 @@ const playerRatingsMaster = [
     "sub_position": "Centre-Back",
     "Min": 3085,
     "market_value_in_eur": 50000000,
-    "final_rating": 95.2
+    "final_rating": 96.6
   },
   {
-    "Player": "Abdoulaye Faye",
-    "Squad": "Lorient",
+    "Player": "Olivier Boscagli",
+    "Squad": "Brighton",
     "sub_position": "Centre-Back",
-    "Min": 1444,
-    "market_value_in_eur": 4500000,
-    "final_rating": 95
-  },
-  {
-    "Player": "Daniele Ghilardi",
-    "Squad": "Roma",
-    "sub_position": "Centre-Back",
-    "Min": 1097,
-    "market_value_in_eur": 18000000,
-    "final_rating": 94.8
-  },
-  {
-    "Player": "Kacper Potulski",
-    "Squad": "Mainz 05",
-    "sub_position": "Centre-Back",
-    "Min": 1065,
-    "market_value_in_eur": 18000000,
-    "final_rating": 94.6
+    "Min": 802,
+    "market_value_in_eur": 15000000,
+    "final_rating": 96.4
   },
   {
     "Player": "Isak Hien",
@@ -6810,6 +6746,70 @@ const playerRatingsMaster = [
     "sub_position": "Centre-Back",
     "Min": 1970,
     "market_value_in_eur": 22000000,
+    "final_rating": 96.2
+  },
+  {
+    "Player": "Mario Gila",
+    "Squad": "Lazio",
+    "sub_position": "Centre-Back",
+    "Min": 2472,
+    "market_value_in_eur": 30000000,
+    "final_rating": 95.9
+  },
+  {
+    "Player": "Ismaëlo Ganiou",
+    "Squad": "Lens",
+    "sub_position": "Centre-Back",
+    "Min": 2014,
+    "market_value_in_eur": 20000000,
+    "final_rating": 95.7
+  },
+  {
+    "Player": "Waldemar Anton",
+    "Squad": "Dortmund",
+    "sub_position": "Centre-Back",
+    "Min": 2880,
+    "market_value_in_eur": 18000000,
+    "final_rating": 95.5
+  },
+  {
+    "Player": "Juan Foyth",
+    "Squad": "Villarreal",
+    "sub_position": "Centre-Back",
+    "Min": 934,
+    "market_value_in_eur": 8000000,
+    "final_rating": 95
+  },
+  {
+    "Player": "Lucas Beraldo",
+    "Squad": "Paris Saint-Germain",
+    "sub_position": "Centre-Back",
+    "Min": 1567,
+    "market_value_in_eur": 22000000,
+    "final_rating": 95
+  },
+  {
+    "Player": "Jan Paul van Hecke",
+    "Squad": "Brighton",
+    "sub_position": "Centre-Back",
+    "Min": 3210,
+    "market_value_in_eur": 45000000,
+    "final_rating": 94.6
+  },
+  {
+    "Player": "Murillo",
+    "Squad": "Nottingham Forest",
+    "sub_position": "Centre-Back",
+    "Min": 2130,
+    "market_value_in_eur": 50000000,
+    "final_rating": 94.6
+  },
+  {
+    "Player": "Berat Djimsiti",
+    "Squad": "Atalanta",
+    "sub_position": "Centre-Back",
+    "Min": 2525,
+    "market_value_in_eur": 4000000,
     "final_rating": 94.3
   },
   {
@@ -6821,60 +6821,108 @@ const playerRatingsMaster = [
     "final_rating": 94.1
   },
   {
-    "Player": "Berat Djimsiti",
-    "Squad": "Atalanta",
+    "Player": "Albian Hajdari",
+    "Squad": "Hoffenheim",
     "sub_position": "Centre-Back",
-    "Min": 2525,
-    "market_value_in_eur": 4000000,
+    "Min": 2434,
+    "market_value_in_eur": 25000000,
     "final_rating": 93.9
   },
   {
-    "Player": "Juan Foyth",
-    "Squad": "Villarreal",
+    "Player": "Nico Schlotterbeck",
+    "Squad": "Dortmund",
     "sub_position": "Centre-Back",
-    "Min": 934,
-    "market_value_in_eur": 8000000,
+    "Min": 2520,
+    "market_value_in_eur": 55000000,
     "final_rating": 93.7
   },
   {
-    "Player": "Adam Dźwigała",
-    "Squad": "St Pauli",
+    "Player": "Pau Cubarsí",
+    "Squad": "Barcelona",
     "sub_position": "Centre-Back",
-    "Min": 1288,
-    "market_value_in_eur": 800000,
+    "Min": 2703,
+    "market_value_in_eur": 80000000,
+    "final_rating": 93.4
+  },
+  {
+    "Player": "Marc Pubill",
+    "Squad": "Atlético Madrid",
+    "sub_position": "Centre-Back",
+    "Min": 1381,
+    "market_value_in_eur": 35000000,
     "final_rating": 93.2
   },
   {
-    "Player": "Tim Siersleben",
-    "Squad": "Heidenheim",
+    "Player": "Nathan Ngoy",
+    "Squad": "Lille",
     "sub_position": "Centre-Back",
-    "Min": 1081,
-    "market_value_in_eur": 1800000,
-    "final_rating": 93.2
-  },
-  {
-    "Player": "Dominik Kohr",
-    "Squad": "Mainz 05",
-    "sub_position": "Centre-Back",
-    "Min": 2338,
-    "market_value_in_eur": 2000000,
+    "Min": 2405,
+    "market_value_in_eur": 25000000,
     "final_rating": 93
   },
   {
-    "Player": "Ismaëlo Ganiou",
-    "Squad": "Lens",
+    "Player": "David Affengruber",
+    "Squad": "Elche",
     "sub_position": "Centre-Back",
-    "Min": 2014,
+    "Min": 2949,
     "market_value_in_eur": 20000000,
     "final_rating": 92.8
   },
   {
-    "Player": "Antonio Caracciolo",
-    "Squad": "Pisa",
+    "Player": "Jarrad Branthwaite",
+    "Squad": "Everton",
     "sub_position": "Centre-Back",
-    "Min": 3073,
-    "market_value_in_eur": 800000,
+    "Min": 680,
+    "market_value_in_eur": 40000000,
+    "final_rating": 92.5
+  },
+  {
+    "Player": "Alessandro Bastoni",
+    "Squad": "Inter",
+    "sub_position": "Centre-Back",
+    "Min": 2239,
+    "market_value_in_eur": 65000000,
     "final_rating": 92.3
+  },
+  {
+    "Player": "Daniele Ghilardi",
+    "Squad": "Roma",
+    "sub_position": "Centre-Back",
+    "Min": 1097,
+    "market_value_in_eur": 18000000,
+    "final_rating": 92.1
+  },
+  {
+    "Player": "Cristian Romero",
+    "Squad": "Tottenham Hotspur",
+    "sub_position": "Centre-Back",
+    "Min": 1868,
+    "market_value_in_eur": 45000000,
+    "final_rating": 91.9
+  },
+  {
+    "Player": "Cristhian Mosquera",
+    "Squad": "Arsenal",
+    "sub_position": "Centre-Back",
+    "Min": 994,
+    "market_value_in_eur": 40000000,
+    "final_rating": 91.6
+  },
+  {
+    "Player": "Obite N'Dicka",
+    "Squad": "Roma",
+    "sub_position": "Centre-Back",
+    "Min": 2680,
+    "market_value_in_eur": 35000000,
+    "final_rating": 91.4
+  },
+  {
+    "Player": "Fikayo Tomori",
+    "Squad": "Milan",
+    "sub_position": "Centre-Back",
+    "Min": 2554,
+    "market_value_in_eur": 17000000,
+    "final_rating": 91.2
   },
   {
     "Player": "Johan Vásquez",
@@ -6882,23 +6930,39 @@ const playerRatingsMaster = [
     "sub_position": "Centre-Back",
     "Min": 3215,
     "market_value_in_eur": 12000000,
-    "final_rating": 92.3
+    "final_rating": 91
   },
   {
-    "Player": "Junior Diaz",
-    "Squad": "Brest",
+    "Player": "Joško Gvardiol",
+    "Squad": "Manchester City",
     "sub_position": "Centre-Back",
-    "Min": 1562,
-    "market_value_in_eur": 6000000,
-    "final_rating": 91.9
-  },
-  {
-    "Player": "Marc Guéhi",
-    "Squad": "Crystal Palace",
-    "sub_position": "Centre-Back",
-    "Min": 3150,
+    "Min": 1372,
     "market_value_in_eur": 70000000,
-    "final_rating": 91.9
+    "final_rating": 90.7
+  },
+  {
+    "Player": "Jhon Lucumí",
+    "Squad": "Bologna",
+    "sub_position": "Centre-Back",
+    "Min": 2287,
+    "market_value_in_eur": 22000000,
+    "final_rating": 90.5
+  },
+  {
+    "Player": "Loïc Bade",
+    "Squad": "Leverkusen",
+    "sub_position": "Centre-Back",
+    "Min": 1653,
+    "market_value_in_eur": 20000000,
+    "final_rating": 90
+  },
+  {
+    "Player": "Trevoh Chalobah",
+    "Squad": "Chelsea",
+    "sub_position": "Centre-Back",
+    "Min": 2783,
+    "market_value_in_eur": 40000000,
+    "final_rating": 90
   },
   {
     "Player": "Diego Llorente",
@@ -6906,23 +6970,15 @@ const playerRatingsMaster = [
     "sub_position": "Centre-Back",
     "Min": 1229,
     "market_value_in_eur": 2500000,
-    "final_rating": 91.6
+    "final_rating": 89.4
   },
   {
-    "Player": "Konstantinos Mavropanos",
-    "Squad": "West Ham United",
+    "Player": "Jan Ziółkowski",
+    "Squad": "Roma",
     "sub_position": "Centre-Back",
-    "Min": 2534,
-    "market_value_in_eur": 18000000,
-    "final_rating": 91.2
-  },
-  {
-    "Player": "Warmed Omari",
-    "Squad": "Hamburger SV",
-    "sub_position": "Centre-Back",
-    "Min": 1605,
-    "market_value_in_eur": 4000000,
-    "final_rating": 91.2
+    "Min": 517,
+    "market_value_in_eur": 12000000,
+    "final_rating": 89.4
   },
   {
     "Player": "Stefan Posch",
@@ -6930,7 +6986,7 @@ const playerRatingsMaster = [
     "sub_position": "Centre-Back",
     "Min": 1788,
     "market_value_in_eur": 6000000,
-    "final_rating": 90.7
+    "final_rating": 89.4
   },
   {
     "Player": "Thilo Kehrer",
@@ -6938,15 +6994,31 @@ const playerRatingsMaster = [
     "sub_position": "Centre-Back",
     "Min": 2353,
     "market_value_in_eur": 12000000,
-    "final_rating": 90.7
+    "final_rating": 89.1
   },
   {
-    "Player": "Leonardo Balerdi",
-    "Squad": "Marseille",
+    "Player": "Dávid Hancko",
+    "Squad": "Atlético Madrid",
     "sub_position": "Centre-Back",
-    "Min": 2001,
-    "market_value_in_eur": 18000000,
-    "final_rating": 90.3
+    "Min": 2432,
+    "market_value_in_eur": 35000000,
+    "final_rating": 88.9
+  },
+  {
+    "Player": "Alessandro Buongiorno",
+    "Squad": "Napoli",
+    "sub_position": "Centre-Back",
+    "Min": 2521,
+    "market_value_in_eur": 30000000,
+    "final_rating": 88.7
+  },
+  {
+    "Player": "Leny Yoro",
+    "Squad": "Manchester Utd",
+    "sub_position": "Centre-Back",
+    "Min": 1740,
+    "market_value_in_eur": 50000000,
+    "final_rating": 88.5
   },
   {
     "Player": "Matias Moreno",
@@ -6954,86 +7026,14 @@ const playerRatingsMaster = [
     "sub_position": "Centre-Back",
     "Min": 2252,
     "market_value_in_eur": 6000000,
-    "final_rating": 90.3
-  },
-  {
-    "Player": "Christian Mawissa",
-    "Squad": "Monaco",
-    "sub_position": "Centre-Back",
-    "Min": 1191,
-    "market_value_in_eur": 15000000,
-    "final_rating": 90
-  },
-  {
-    "Player": "James Hill",
-    "Squad": "Bournemouth",
-    "sub_position": "Centre-Back",
-    "Min": 2106,
-    "market_value_in_eur": 23000000,
-    "final_rating": 89.8
-  },
-  {
-    "Player": "Alidu Seidu",
-    "Squad": "Rennes",
-    "sub_position": "Centre-Back",
-    "Min": 1186,
-    "market_value_in_eur": 6000000,
-    "final_rating": 89.4
-  },
-  {
-    "Player": "Niklas Stark",
-    "Squad": "Werder Bremen",
-    "sub_position": "Centre-Back",
-    "Min": 697,
-    "market_value_in_eur": 2500000,
-    "final_rating": 89.4
-  },
-  {
-    "Player": "Facundo Medina",
-    "Squad": "Marseille",
-    "sub_position": "Centre-Back",
-    "Min": 1365,
-    "market_value_in_eur": 18000000,
-    "final_rating": 88.7
-  },
-  {
-    "Player": "Keven Schlotterbeck",
-    "Squad": "Augsburg",
-    "sub_position": "Centre-Back",
-    "Min": 2031,
-    "market_value_in_eur": 6000000,
-    "final_rating": 88.7
-  },
-  {
-    "Player": "Willi Orban",
-    "Squad": "RB Leipzig",
-    "sub_position": "Centre-Back",
-    "Min": 2949,
-    "market_value_in_eur": 5000000,
-    "final_rating": 88.7
-  },
-  {
-    "Player": "Juan Rodríguez",
-    "Squad": "Cagliari",
-    "sub_position": "Centre-Back",
-    "Min": 1310,
-    "market_value_in_eur": 10000000,
     "final_rating": 88.2
   },
   {
-    "Player": "Samson Baidoo",
-    "Squad": "Lens",
+    "Player": "Manuel Akanji",
+    "Squad": "Inter",
     "sub_position": "Centre-Back",
-    "Min": 1827,
-    "market_value_in_eur": 25000000,
-    "final_rating": 88.2
-  },
-  {
-    "Player": "Cenk Özkacar",
-    "Squad": "Köln",
-    "sub_position": "Centre-Back",
-    "Min": 1791,
-    "market_value_in_eur": 4000000,
+    "Min": 2821,
+    "market_value_in_eur": 17000000,
     "final_rating": 88
   },
   {
@@ -7042,199 +7042,15 @@ const playerRatingsMaster = [
     "sub_position": "Centre-Back",
     "Min": 3288,
     "market_value_in_eur": 25000000,
-    "final_rating": 87.8
-  },
-  {
-    "Player": "Jonathan Gradit",
-    "Squad": "Lens",
-    "sub_position": "Centre-Back",
-    "Min": 807,
-    "market_value_in_eur": 2500000,
     "final_rating": 87.6
   },
   {
-    "Player": "Jacobo Ramón",
-    "Squad": "Como",
+    "Player": "Éder Militão",
+    "Squad": "Real Madrid",
     "sub_position": "Centre-Back",
-    "Min": 2742,
-    "market_value_in_eur": 30000000,
-    "final_rating": 87.3
-  },
-  {
-    "Player": "Dayot Upamecano",
-    "Squad": "Bayern Munich",
-    "sub_position": "Centre-Back",
-    "Min": 1794,
-    "market_value_in_eur": 70000000,
-    "final_rating": 86.9
-  },
-  {
-    "Player": "Moustapha Mbow",
-    "Squad": "Paris FC",
-    "sub_position": "Centre-Back",
-    "Min": 2717,
-    "market_value_in_eur": 9000000,
-    "final_rating": 86.9
-  },
-  {
-    "Player": "César Azpilicueta",
-    "Squad": "Sevilla",
-    "sub_position": "Centre-Back",
-    "Min": 1213,
-    "market_value_in_eur": 1000000,
-    "final_rating": 86.4
-  },
-  {
-    "Player": "Daley Blind",
-    "Squad": "Girona",
-    "sub_position": "Centre-Back",
-    "Min": 2606,
-    "market_value_in_eur": 1200000,
-    "final_rating": 86.4
-  },
-  {
-    "Player": "Arthur Theate",
-    "Squad": "Eintracht Frankfurt",
-    "sub_position": "Centre-Back",
-    "Min": 2141,
-    "market_value_in_eur": 17000000,
-    "final_rating": 86.2
-  },
-  {
-    "Player": "Fabio Chiarodia",
-    "Squad": "Gladbach",
-    "sub_position": "Centre-Back",
-    "Min": 674,
-    "market_value_in_eur": 3000000,
-    "final_rating": 86
-  },
-  {
-    "Player": "Michel Mboula",
-    "Squad": "Metz",
-    "sub_position": "Centre-Back",
-    "Min": 746,
-    "market_value_in_eur": 900000,
-    "final_rating": 85.7
-  },
-  {
-    "Player": "Unai Núñez",
-    "Squad": "Hellas Verona",
-    "sub_position": "Centre-Back",
-    "Min": 2176,
-    "market_value_in_eur": 3500000,
-    "final_rating": 85.5
-  },
-  {
-    "Player": "Murillo",
-    "Squad": "Nottingham Forest",
-    "sub_position": "Centre-Back",
-    "Min": 2130,
-    "market_value_in_eur": 50000000,
-    "final_rating": 85.3
-  },
-  {
-    "Player": "Jan Ziółkowski",
-    "Squad": "Roma",
-    "sub_position": "Centre-Back",
-    "Min": 517,
-    "market_value_in_eur": 12000000,
-    "final_rating": 85.1
-  },
-  {
-    "Player": "Florian Lejeune",
-    "Squad": "Rayo Vallecano",
-    "sub_position": "Centre-Back",
-    "Min": 3230,
-    "market_value_in_eur": 1800000,
-    "final_rating": 84.8
-  },
-  {
-    "Player": "Emre Can",
-    "Squad": "Dortmund",
-    "sub_position": "Centre-Back",
-    "Min": 621,
-    "market_value_in_eur": 3000000,
-    "final_rating": 84.6
-  },
-  {
-    "Player": "Benoît Badiashile",
-    "Squad": "Chelsea",
-    "sub_position": "Centre-Back",
-    "Min": 471,
-    "market_value_in_eur": 15000000,
-    "final_rating": 84.4
-  },
-  {
-    "Player": "Jordan Torunarigha",
-    "Squad": "Hamburger SV",
-    "sub_position": "Centre-Back",
-    "Min": 1962,
-    "market_value_in_eur": 4000000,
-    "final_rating": 84.2
-  },
-  {
-    "Player": "Jarrad Branthwaite",
-    "Squad": "Everton",
-    "sub_position": "Centre-Back",
-    "Min": 680,
-    "market_value_in_eur": 40000000,
-    "final_rating": 83.9
-  },
-  {
-    "Player": "Waldemar Anton",
-    "Squad": "Dortmund",
-    "sub_position": "Centre-Back",
-    "Min": 2880,
-    "market_value_in_eur": 18000000,
-    "final_rating": 83.7
-  },
-  {
-    "Player": "Chrislain Matsima",
-    "Squad": "Augsburg",
-    "sub_position": "Centre-Back",
-    "Min": 1489,
-    "market_value_in_eur": 22000000,
-    "final_rating": 83.3
-  },
-  {
-    "Player": "Jan Paul van Hecke",
-    "Squad": "Brighton",
-    "sub_position": "Centre-Back",
-    "Min": 3210,
-    "market_value_in_eur": 45000000,
-    "final_rating": 83.3
-  },
-  {
-    "Player": "Loïc Bade",
-    "Squad": "Leverkusen",
-    "sub_position": "Centre-Back",
-    "Min": 1653,
+    "Min": 1139,
     "market_value_in_eur": 20000000,
-    "final_rating": 83
-  },
-  {
-    "Player": "Nidal Celik",
-    "Squad": "Lens",
-    "sub_position": "Centre-Back",
-    "Min": 616,
-    "market_value_in_eur": 7000000,
-    "final_rating": 82.8
-  },
-  {
-    "Player": "Nico Elvedi",
-    "Squad": "Gladbach",
-    "sub_position": "Centre-Back",
-    "Min": 2966,
-    "market_value_in_eur": 8000000,
-    "final_rating": 82.6
-  },
-  {
-    "Player": "Jordan Lefort",
-    "Squad": "Angers",
-    "sub_position": "Centre-Back",
-    "Min": 3060,
-    "market_value_in_eur": 1000000,
-    "final_rating": 82.1
+    "final_rating": 87.6
   },
   {
     "Player": "Jorge Cuenca",
@@ -7242,15 +7058,63 @@ const playerRatingsMaster = [
     "sub_position": "Centre-Back",
     "Min": 938,
     "market_value_in_eur": 8000000,
-    "final_rating": 82.1
+    "final_rating": 87.3
   },
   {
-    "Player": "Robin Koch",
-    "Squad": "Eintracht Frankfurt",
+    "Player": "Kacper Potulski",
+    "Squad": "Mainz 05",
     "sub_position": "Centre-Back",
-    "Min": 2833,
-    "market_value_in_eur": 10000000,
-    "final_rating": 81.9
+    "Min": 1065,
+    "market_value_in_eur": 18000000,
+    "final_rating": 87.1
+  },
+  {
+    "Player": "Pierre Kalulu",
+    "Squad": "Juventus",
+    "sub_position": "Centre-Back",
+    "Min": 3281,
+    "market_value_in_eur": 32000000,
+    "final_rating": 86.9
+  },
+  {
+    "Player": "Robin Le Normand",
+    "Squad": "Atlético Madrid",
+    "sub_position": "Centre-Back",
+    "Min": 1789,
+    "market_value_in_eur": 20000000,
+    "final_rating": 86.7
+  },
+  {
+    "Player": "Junior Diaz",
+    "Squad": "Brest",
+    "sub_position": "Centre-Back",
+    "Min": 1562,
+    "market_value_in_eur": 6000000,
+    "final_rating": 86.4
+  },
+  {
+    "Player": "Gianluca Mancini",
+    "Squad": "Roma",
+    "sub_position": "Centre-Back",
+    "Min": 3059,
+    "market_value_in_eur": 15000000,
+    "final_rating": 86.2
+  },
+  {
+    "Player": "Castello Lukeba",
+    "Squad": "RB Leipzig",
+    "sub_position": "Centre-Back",
+    "Min": 2176,
+    "market_value_in_eur": 50000000,
+    "final_rating": 86
+  },
+  {
+    "Player": "Sven Botman",
+    "Squad": "Newcastle United",
+    "sub_position": "Centre-Back",
+    "Min": 1835,
+    "market_value_in_eur": 35000000,
+    "final_rating": 85.7
   },
   {
     "Player": "Aaron Anselmino",
@@ -7258,23 +7122,7 @@ const playerRatingsMaster = [
     "sub_position": "Centre-Back",
     "Min": 384,
     "market_value_in_eur": 10000000,
-    "final_rating": 80.3
-  },
-  {
-    "Player": "Abdoulaye Bamba",
-    "Squad": "Angers",
-    "sub_position": "Centre-Back",
-    "Min": 255,
-    "market_value_in_eur": 200000,
-    "final_rating": 80.3
-  },
-  {
-    "Player": "Ethan Pinnock",
-    "Squad": "Brentford",
-    "sub_position": "Centre-Back",
-    "Min": 318,
-    "market_value_in_eur": 3000000,
-    "final_rating": 80.3
+    "final_rating": 84.8
   },
   {
     "Player": "Kyllian Antonio",
@@ -7282,7 +7130,7 @@ const playerRatingsMaster = [
     "sub_position": "Centre-Back",
     "Min": 190,
     "market_value_in_eur": 3000000,
-    "final_rating": 80.3
+    "final_rating": 84.8
   },
   {
     "Player": "Levi Colwill",
@@ -7290,7 +7138,7 @@ const playerRatingsMaster = [
     "sub_position": "Centre-Back",
     "Min": 225,
     "market_value_in_eur": 50000000,
-    "final_rating": 80.3
+    "final_rating": 84.8
   },
   {
     "Player": "Max Alleyne",
@@ -7298,15 +7146,95 @@ const playerRatingsMaster = [
     "sub_position": "Centre-Back",
     "Min": 135,
     "market_value_in_eur": 8000000,
-    "final_rating": 80.3
+    "final_rating": 84.8
   },
   {
-    "Player": "Saba Goglichidze",
-    "Squad": "Udinese",
+    "Player": "Leonardo Balerdi",
+    "Squad": "Marseille",
     "sub_position": "Centre-Back",
-    "Min": 424,
-    "market_value_in_eur": 3500000,
-    "final_rating": 80.3
+    "Min": 2001,
+    "market_value_in_eur": 18000000,
+    "final_rating": 84.6
+  },
+  {
+    "Player": "Kike Salas",
+    "Squad": "Sevilla",
+    "sub_position": "Centre-Back",
+    "Min": 2203,
+    "market_value_in_eur": 14000000,
+    "final_rating": 84.4
+  },
+  {
+    "Player": "Jarell Quansah",
+    "Squad": "Leverkusen",
+    "sub_position": "Centre-Back",
+    "Min": 2299,
+    "market_value_in_eur": 45000000,
+    "final_rating": 84.2
+  },
+  {
+    "Player": "Jaydee Canvot",
+    "Squad": "Crystal Palace",
+    "sub_position": "Centre-Back",
+    "Min": 1516,
+    "market_value_in_eur": 28000000,
+    "final_rating": 83.5
+  },
+  {
+    "Player": "Jonathan Tah",
+    "Squad": "Bayern Munich",
+    "sub_position": "Centre-Back",
+    "Min": 2018,
+    "market_value_in_eur": 28000000,
+    "final_rating": 83.5
+  },
+  {
+    "Player": "Lisandro Martínez",
+    "Squad": "Manchester Utd",
+    "sub_position": "Centre-Back",
+    "Min": 1233,
+    "market_value_in_eur": 40000000,
+    "final_rating": 83.5
+  },
+  {
+    "Player": "Moustapha Mbow",
+    "Squad": "Paris FC",
+    "sub_position": "Centre-Back",
+    "Min": 2717,
+    "market_value_in_eur": 9000000,
+    "final_rating": 83.3
+  },
+  {
+    "Player": "Dean Huijsen",
+    "Squad": "Real Madrid",
+    "sub_position": "Centre-Back",
+    "Min": 2034,
+    "market_value_in_eur": 60000000,
+    "final_rating": 82.8
+  },
+  {
+    "Player": "Jonathan Gradit",
+    "Squad": "Lens",
+    "sub_position": "Centre-Back",
+    "Min": 807,
+    "market_value_in_eur": 2500000,
+    "final_rating": 82.8
+  },
+  {
+    "Player": "Ousmane Camara",
+    "Squad": "Angers",
+    "sub_position": "Centre-Back",
+    "Min": 2718,
+    "market_value_in_eur": 8000000,
+    "final_rating": 82.4
+  },
+  {
+    "Player": "William Saliba",
+    "Squad": "Arsenal",
+    "sub_position": "Centre-Back",
+    "Min": 2614,
+    "market_value_in_eur": 100000000,
+    "final_rating": 82.4
   },
   {
     "Player": "Nicolò Bertola",
@@ -7314,30 +7242,102 @@ const playerRatingsMaster = [
     "sub_position": "Centre-Back",
     "Min": 1763,
     "market_value_in_eur": 7000000,
+    "final_rating": 81.9
+  },
+  {
+    "Player": "Wesley Fofana",
+    "Squad": "Chelsea",
+    "sub_position": "Centre-Back",
+    "Min": 1722,
+    "market_value_in_eur": 28000000,
+    "final_rating": 81.9
+  },
+  {
+    "Player": "Willi Orban",
+    "Squad": "RB Leipzig",
+    "sub_position": "Centre-Back",
+    "Min": 2949,
+    "market_value_in_eur": 5000000,
+    "final_rating": 81.7
+  },
+  {
+    "Player": "Konstantinos Mavropanos",
+    "Squad": "West Ham United",
+    "sub_position": "Centre-Back",
+    "Min": 2534,
+    "market_value_in_eur": 18000000,
+    "final_rating": 81.4
+  },
+  {
+    "Player": "Finn Jeltsch",
+    "Squad": "Stuttgart",
+    "sub_position": "Centre-Back",
+    "Min": 1511,
+    "market_value_in_eur": 35000000,
+    "final_rating": 80.8
+  },
+  {
+    "Player": "Gabriel Magalhães",
+    "Squad": "Arsenal",
+    "sub_position": "Centre-Back",
+    "Min": 2751,
+    "market_value_in_eur": 75000000,
+    "final_rating": 80.8
+  },
+  {
+    "Player": "Rúben Dias",
+    "Squad": "Manchester City",
+    "sub_position": "Centre-Back",
+    "Min": 2141,
+    "market_value_in_eur": 55000000,
+    "final_rating": 80.8
+  },
+  {
+    "Player": "Nicolás Capaldo",
+    "Squad": "Hamburger SV",
+    "sub_position": "Centre-Back",
+    "Min": 2001,
+    "market_value_in_eur": 8000000,
+    "final_rating": 80.5
+  },
+  {
+    "Player": "Odilon Kossounou",
+    "Squad": "Atalanta",
+    "sub_position": "Centre-Back",
+    "Min": 988,
+    "market_value_in_eur": 15000000,
     "final_rating": 80.1
   },
   {
-    "Player": "Dan-Axel Zagadou",
-    "Squad": "Stuttgart",
+    "Player": "Tarik Muharemovic",
+    "Squad": "Sassuolo",
     "sub_position": "Centre-Back",
-    "Min": 209,
-    "market_value_in_eur": 2000000,
-    "final_rating": 79.6
-  },
-  {
-    "Player": "Mohammed Salisu",
-    "Squad": "Monaco",
-    "sub_position": "Centre-Back",
-    "Min": 1080,
-    "market_value_in_eur": 10000000,
-    "final_rating": 79.6
-  },
-  {
-    "Player": "Nathan Ngoy",
-    "Squad": "Lille",
-    "sub_position": "Centre-Back",
-    "Min": 2405,
+    "Min": 2835,
     "market_value_in_eur": 25000000,
+    "final_rating": 80.1
+  },
+  {
+    "Player": "Marquinhos",
+    "Squad": "Paris Saint-Germain",
+    "sub_position": "Centre-Back",
+    "Min": 1052,
+    "market_value_in_eur": 28000000,
+    "final_rating": 79.9
+  },
+  {
+    "Player": "Rafa Marín",
+    "Squad": "Villarreal",
+    "sub_position": "Centre-Back",
+    "Min": 1979,
+    "market_value_in_eur": 12000000,
+    "final_rating": 79.6
+  },
+  {
+    "Player": "Gautier Lloris",
+    "Squad": "Le Havre",
+    "sub_position": "Centre-Back",
+    "Min": 2398,
+    "market_value_in_eur": 3000000,
     "final_rating": 79.4
   },
   {
@@ -7349,748 +7349,28 @@ const playerRatingsMaster = [
     "final_rating": 79.2
   },
   {
-    "Player": "Gautier Lloris",
-    "Squad": "Le Havre",
-    "sub_position": "Centre-Back",
-    "Min": 2398,
-    "market_value_in_eur": 3000000,
-    "final_rating": 79
-  },
-  {
-    "Player": "Konstantinos Koulierakis",
-    "Squad": "Wolfsburg",
-    "sub_position": "Centre-Back",
-    "Min": 2482,
-    "market_value_in_eur": 25000000,
-    "final_rating": 78.7
-  },
-  {
-    "Player": "Lucas Beraldo",
-    "Squad": "Paris Saint-Germain",
-    "sub_position": "Centre-Back",
-    "Min": 1567,
-    "market_value_in_eur": 22000000,
-    "final_rating": 78.3
-  },
-  {
-    "Player": "Mario Gila",
-    "Squad": "Lazio",
-    "sub_position": "Centre-Back",
-    "Min": 2472,
-    "market_value_in_eur": 30000000,
-    "final_rating": 78.3
-  },
-  {
-    "Player": "Eray Cömert",
-    "Squad": "Valencia",
-    "sub_position": "Centre-Back",
-    "Min": 1337,
-    "market_value_in_eur": 2500000,
-    "final_rating": 78.1
-  },
-  {
-    "Player": "Danilho Doekhi",
-    "Squad": "Union Berlin",
-    "sub_position": "Centre-Back",
-    "Min": 3060,
-    "market_value_in_eur": 13000000,
-    "final_rating": 77.8
-  },
-  {
-    "Player": "Marc Pubill",
-    "Squad": "Atlético Madrid",
-    "sub_position": "Centre-Back",
-    "Min": 1381,
-    "market_value_in_eur": 35000000,
-    "final_rating": 77.4
-  },
-  {
-    "Player": "Tarik Muharemovic",
-    "Squad": "Sassuolo",
-    "sub_position": "Centre-Back",
-    "Min": 2835,
-    "market_value_in_eur": 25000000,
-    "final_rating": 77.4
-  },
-  {
-    "Player": "Arouna Sangante",
-    "Squad": "Le Havre",
-    "sub_position": "Centre-Back",
-    "Min": 2324,
-    "market_value_in_eur": 8000000,
-    "final_rating": 77.1
-  },
-  {
-    "Player": "Alejandro Francés",
-    "Squad": "Girona",
-    "sub_position": "Centre-Back",
-    "Min": 1116,
-    "market_value_in_eur": 3000000,
-    "final_rating": 76.9
-  },
-  {
-    "Player": "Juan Jesus",
-    "Squad": "Napoli",
-    "sub_position": "Centre-Back",
-    "Min": 1675,
-    "market_value_in_eur": 1500000,
-    "final_rating": 76.7
-  },
-  {
-    "Player": "Uroš Radaković",
-    "Squad": "Nantes",
-    "sub_position": "Centre-Back",
-    "Min": 101,
-    "market_value_in_eur": 400000,
-    "final_rating": 76.5
-  },
-  {
-    "Player": "Bryan Okoh",
-    "Squad": "Auxerre",
-    "sub_position": "Centre-Back",
-    "Min": 1005,
-    "market_value_in_eur": 4000000,
-    "final_rating": 76
-  },
-  {
-    "Player": "Jeffrey Gouweleeuw",
-    "Squad": "Augsburg",
-    "sub_position": "Centre-Back",
-    "Min": 848,
-    "market_value_in_eur": 1000000,
-    "final_rating": 76
-  },
-  {
-    "Player": "Jérémy Jacquet",
-    "Squad": "Rennes",
-    "sub_position": "Centre-Back",
-    "Min": 1671,
-    "market_value_in_eur": 55000000,
-    "final_rating": 75.8
-  },
-  {
-    "Player": "Valentín Gómez",
-    "Squad": "Real Betis",
-    "sub_position": "Centre-Back",
-    "Min": 1882,
-    "market_value_in_eur": 12000000,
-    "final_rating": 75.6
-  },
-  {
-    "Player": "Maximilian Wöber",
-    "Squad": "Werder Bremen",
-    "sub_position": "Centre-Back",
-    "Min": 37,
-    "market_value_in_eur": 3000000,
-    "final_rating": 75.3
-  },
-  {
-    "Player": "Yerson Mosquera",
-    "Squad": "Wolves",
-    "sub_position": "Centre-Back",
-    "Min": 2136,
-    "market_value_in_eur": 12000000,
-    "final_rating": 75.1
-  },
-  {
-    "Player": "Daniele Rugani",
-    "Squad": "Fiorentina",
-    "sub_position": "Centre-Back",
-    "Min": 577,
-    "market_value_in_eur": 2000000,
-    "final_rating": 74.9
-  },
-  {
-    "Player": "Adam Masina",
-    "Squad": "Torino",
-    "sub_position": "Centre-Back",
-    "Min": 235,
-    "market_value_in_eur": 1000000,
-    "final_rating": 74.7
-  },
-  {
-    "Player": "Abdoulaye Ndiaye",
-    "Squad": "Parma",
-    "sub_position": "Centre-Back",
-    "Min": 780,
-    "market_value_in_eur": 6000000,
-    "final_rating": 74.2
-  },
-  {
-    "Player": "Daniel Elfadli",
-    "Squad": "Hamburger SV",
-    "sub_position": "Centre-Back",
-    "Min": 1253,
-    "market_value_in_eur": 3000000,
-    "final_rating": 74.2
-  },
-  {
-    "Player": "Filippo Terracciano",
-    "Squad": "Cremonese",
-    "sub_position": "Centre-Back",
-    "Min": 3011,
-    "market_value_in_eur": 4500000,
-    "final_rating": 73.8
-  },
-  {
-    "Player": "Timo Hübers",
-    "Squad": "Köln",
-    "sub_position": "Centre-Back",
-    "Min": 675,
-    "market_value_in_eur": 1500000,
-    "final_rating": 73.8
-  },
-  {
-    "Player": "Marco Friedl",
-    "Squad": "Werder Bremen",
-    "sub_position": "Centre-Back",
-    "Min": 2546,
-    "market_value_in_eur": 10000000,
-    "final_rating": 73.5
-  },
-  {
-    "Player": "Radu Drăgușin",
-    "Squad": "Tottenham Hotspur",
-    "sub_position": "Centre-Back",
-    "Min": 517,
-    "market_value_in_eur": 16000000,
-    "final_rating": 73.3
-  },
-  {
-    "Player": "Kevin Danso",
-    "Squad": "Tottenham Hotspur",
-    "sub_position": "Centre-Back",
-    "Min": 1494,
-    "market_value_in_eur": 20000000,
-    "final_rating": 72.9
-  },
-  {
-    "Player": "Tomoya Ando",
-    "Squad": "St Pauli",
-    "sub_position": "Centre-Back",
-    "Min": 1260,
-    "market_value_in_eur": 3000000,
-    "final_rating": 72.9
-  },
-  {
-    "Player": "Fikayo Tomori",
-    "Squad": "Milan",
-    "sub_position": "Centre-Back",
-    "Min": 2554,
-    "market_value_in_eur": 17000000,
-    "final_rating": 72.6
-  },
-  {
-    "Player": "Nico Schlotterbeck",
-    "Squad": "Dortmund",
-    "sub_position": "Centre-Back",
-    "Min": 2520,
-    "market_value_in_eur": 55000000,
-    "final_rating": 72.4
-  },
-  {
-    "Player": "Diogo Leite",
-    "Squad": "Union Berlin",
-    "sub_position": "Centre-Back",
-    "Min": 1963,
-    "market_value_in_eur": 12000000,
-    "final_rating": 71.7
-  },
-  {
-    "Player": "Nayef Aguerd",
-    "Squad": "Marseille",
-    "sub_position": "Centre-Back",
-    "Min": 1576,
-    "market_value_in_eur": 15000000,
-    "final_rating": 71.7
-  },
-  {
-    "Player": "Ozan Kabak",
-    "Squad": "Hoffenheim",
-    "sub_position": "Centre-Back",
-    "Min": 1751,
-    "market_value_in_eur": 15000000,
-    "final_rating": 71.7
-  },
-  {
-    "Player": "Jon Martin",
-    "Squad": "Real Sociedad",
-    "sub_position": "Centre-Back",
-    "Min": 2250,
-    "market_value_in_eur": 25000000,
-    "final_rating": 71.5
-  },
-  {
-    "Player": "Luka Vušković",
-    "Squad": "Hamburger SV",
-    "sub_position": "Centre-Back",
-    "Min": 2442,
-    "market_value_in_eur": 60000000,
-    "final_rating": 71
-  },
-  {
-    "Player": "Ousmane Camara",
-    "Squad": "Angers",
-    "sub_position": "Centre-Back",
-    "Min": 2718,
-    "market_value_in_eur": 8000000,
-    "final_rating": 71
-  },
-  {
-    "Player": "Zach Abbott",
-    "Squad": "Nottingham Forest",
-    "sub_position": "Centre-Back",
-    "Min": 164,
-    "market_value_in_eur": 4000000,
-    "final_rating": 70.8
-  },
-  {
-    "Player": "Jhon Lucumí",
-    "Squad": "Bologna",
-    "sub_position": "Centre-Back",
-    "Min": 2287,
-    "market_value_in_eur": 22000000,
-    "final_rating": 70.6
-  },
-  {
-    "Player": "Eivind Helland",
-    "Squad": "Bologna",
-    "sub_position": "Centre-Back",
-    "Min": 484,
-    "market_value_in_eur": 8000000,
-    "final_rating": 70.4
-  },
-  {
-    "Player": "Jahmai Simpson-Pusey",
-    "Squad": "Köln",
-    "sub_position": "Centre-Back",
-    "Min": 863,
-    "market_value_in_eur": 9000000,
-    "final_rating": 69.9
-  },
-  {
-    "Player": "Raphael Le Guen",
-    "Squad": "Brest",
-    "sub_position": "Centre-Back",
-    "Min": 375,
-    "market_value_in_eur": 800000,
-    "final_rating": 69.9
-  },
-  {
-    "Player": "Wesley Fofana",
-    "Squad": "Chelsea",
-    "sub_position": "Centre-Back",
-    "Min": 1722,
-    "market_value_in_eur": 28000000,
-    "final_rating": 69.7
-  },
-  {
-    "Player": "Aïssa Mandi",
-    "Squad": "Lille",
-    "sub_position": "Centre-Back",
-    "Min": 2424,
-    "market_value_in_eur": 1000000,
-    "final_rating": 69.2
-  },
-  {
-    "Player": "Stefan de Vrij",
-    "Squad": "Inter",
-    "sub_position": "Centre-Back",
-    "Min": 670,
-    "market_value_in_eur": 3000000,
-    "final_rating": 69.2
-  },
-  {
-    "Player": "Alessandro Buongiorno",
-    "Squad": "Napoli",
-    "sub_position": "Centre-Back",
-    "Min": 2521,
-    "market_value_in_eur": 30000000,
-    "final_rating": 68.8
-  },
-  {
-    "Player": "Veljko Milosavljević",
-    "Squad": "Bournemouth",
-    "sub_position": "Centre-Back",
-    "Min": 368,
-    "market_value_in_eur": 20000000,
-    "final_rating": 68.8
-  },
-  {
-    "Player": "Kojo Peprah Oppong",
-    "Squad": "Nice",
-    "sub_position": "Centre-Back",
-    "Min": 2425,
-    "market_value_in_eur": 10000000,
-    "final_rating": 68.6
-  },
-  {
-    "Player": "Noahkai Banks",
-    "Squad": "Augsburg",
-    "sub_position": "Centre-Back",
-    "Min": 1725,
-    "market_value_in_eur": 20000000,
-    "final_rating": 68.3
-  },
-  {
-    "Player": "Hauke Wahl",
-    "Squad": "St Pauli",
-    "sub_position": "Centre-Back",
-    "Min": 2592,
-    "market_value_in_eur": 1500000,
-    "final_rating": 67.9
-  },
-  {
-    "Player": "Maxime Estève",
-    "Squad": "Burnley",
-    "sub_position": "Centre-Back",
-    "Min": 2932,
-    "market_value_in_eur": 28000000,
-    "final_rating": 67.9
-  },
-  {
-    "Player": "Obite N'Dicka",
-    "Squad": "Roma",
-    "sub_position": "Centre-Back",
-    "Min": 2680,
-    "market_value_in_eur": 35000000,
-    "final_rating": 67.6
-  },
-  {
-    "Player": "Abdel Abqar",
-    "Squad": "Getafe",
-    "sub_position": "Centre-Back",
-    "Min": 1437,
-    "market_value_in_eur": 3500000,
-    "final_rating": 67.2
-  },
-  {
-    "Player": "Jaydee Canvot",
-    "Squad": "Crystal Palace",
-    "sub_position": "Centre-Back",
-    "Min": 1516,
-    "market_value_in_eur": 28000000,
-    "final_rating": 67.2
-  },
-  {
-    "Player": "Castello Lukeba",
-    "Squad": "RB Leipzig",
-    "sub_position": "Centre-Back",
-    "Min": 2176,
-    "market_value_in_eur": 50000000,
-    "final_rating": 66.7
-  },
-  {
-    "Player": "Saúl Coco",
-    "Squad": "Torino",
-    "sub_position": "Centre-Back",
-    "Min": 3088,
-    "market_value_in_eur": 7500000,
-    "final_rating": 66.7
-  },
-  {
-    "Player": "Telli Siwe",
-    "Squad": "Auxerre",
-    "sub_position": "Centre-Back",
-    "Min": 315,
-    "market_value_in_eur": 1000000,
-    "final_rating": 66.5
-  },
-  {
-    "Player": "Mouctar Diakhaby",
-    "Squad": "Valencia",
-    "sub_position": "Centre-Back",
-    "Min": 543,
-    "market_value_in_eur": 1500000,
-    "final_rating": 66.3
-  },
-  {
-    "Player": "Alessandro Bastoni",
-    "Squad": "Inter",
-    "sub_position": "Centre-Back",
-    "Min": 2239,
-    "market_value_in_eur": 65000000,
-    "final_rating": 65.6
-  },
-  {
-    "Player": "Guillermo Maripán",
-    "Squad": "Torino",
-    "sub_position": "Centre-Back",
-    "Min": 2145,
-    "market_value_in_eur": 2000000,
-    "final_rating": 65.6
-  },
-  {
-    "Player": "Jean-Clair Todibo",
-    "Squad": "West Ham United",
-    "sub_position": "Centre-Back",
-    "Min": 1814,
-    "market_value_in_eur": 22000000,
-    "final_rating": 65.6
-  },
-  {
-    "Player": "Cristhian Mosquera",
-    "Squad": "Arsenal",
-    "sub_position": "Centre-Back",
-    "Min": 994,
-    "market_value_in_eur": 40000000,
-    "final_rating": 65.4
-  },
-  {
-    "Player": "Finn Jeltsch",
-    "Squad": "Stuttgart",
-    "sub_position": "Centre-Back",
-    "Min": 1511,
-    "market_value_in_eur": 35000000,
-    "final_rating": 64.9
-  },
-  {
-    "Player": "Pietro Comuzzo",
-    "Squad": "Fiorentina",
-    "sub_position": "Centre-Back",
-    "Min": 1696,
-    "market_value_in_eur": 18000000,
-    "final_rating": 64.9
-  },
-  {
-    "Player": "Sven Botman",
-    "Squad": "Newcastle United",
-    "sub_position": "Centre-Back",
-    "Min": 1835,
-    "market_value_in_eur": 35000000,
-    "final_rating": 64.7
-  },
-  {
-    "Player": "Ardian Ismajli",
-    "Squad": "Torino",
-    "sub_position": "Centre-Back",
-    "Min": 1906,
-    "market_value_in_eur": 5000000,
-    "final_rating": 64
-  },
-  {
-    "Player": "Michael Keane",
-    "Squad": "Everton",
-    "sub_position": "Centre-Back",
-    "Min": 2591,
-    "market_value_in_eur": 3000000,
-    "final_rating": 64
-  },
-  {
-    "Player": "Sebastiaan Bornauw",
-    "Squad": "Leeds United",
-    "sub_position": "Centre-Back",
-    "Min": 429,
-    "market_value_in_eur": 8000000,
-    "final_rating": 64
-  },
-  {
-    "Player": "Malick Thiaw",
-    "Squad": "Newcastle United",
-    "sub_position": "Centre-Back",
-    "Min": 2965,
-    "market_value_in_eur": 45000000,
-    "final_rating": 63.8
-  },
-  {
-    "Player": "Joe Gomez",
-    "Squad": "Liverpool",
-    "sub_position": "Centre-Back",
-    "Min": 607,
-    "market_value_in_eur": 13000000,
-    "final_rating": 63.6
-  },
-  {
-    "Player": "Pedro Bigas",
-    "Squad": "Elche",
-    "sub_position": "Centre-Back",
-    "Min": 2063,
-    "market_value_in_eur": 300000,
-    "final_rating": 63.3
-  },
-  {
-    "Player": "Gianluca Mancini",
-    "Squad": "Roma",
-    "sub_position": "Centre-Back",
-    "Min": 3059,
-    "market_value_in_eur": 15000000,
-    "final_rating": 63.1
-  },
-  {
-    "Player": "Arthur Chaves",
-    "Squad": "Augsburg",
-    "sub_position": "Centre-Back",
-    "Min": 1069,
-    "market_value_in_eur": 5000000,
-    "final_rating": 62.7
-  },
-  {
-    "Player": "Trevoh Chalobah",
-    "Squad": "Chelsea",
-    "sub_position": "Centre-Back",
-    "Min": 2783,
-    "market_value_in_eur": 40000000,
-    "final_rating": 62.7
-  },
-  {
-    "Player": "Pau Cubarsí",
-    "Squad": "Barcelona",
-    "sub_position": "Centre-Back",
-    "Min": 2703,
-    "market_value_in_eur": 80000000,
-    "final_rating": 62.4
-  },
-  {
-    "Player": "David Costas",
-    "Squad": "Oviedo",
-    "sub_position": "Centre-Back",
-    "Min": 2066,
-    "market_value_in_eur": 1200000,
-    "final_rating": 62.2
-  },
-  {
-    "Player": "Alberto Dossena",
-    "Squad": "Cagliari",
-    "sub_position": "Centre-Back",
-    "Min": 859,
-    "market_value_in_eur": 6000000,
-    "final_rating": 61.5
-  },
-  {
-    "Player": "Aurele Amenda",
-    "Squad": "Eintracht Frankfurt",
-    "sub_position": "Centre-Back",
-    "Min": 1678,
-    "market_value_in_eur": 10000000,
-    "final_rating": 61.5
-  },
-  {
-    "Player": "Jeanuël Belocian",
-    "Squad": "Wolfsburg",
-    "sub_position": "Centre-Back",
-    "Min": 1546,
-    "market_value_in_eur": 12000000,
-    "final_rating": 61.5
-  },
-  {
-    "Player": "Formose Mendy",
-    "Squad": "Lorient",
-    "sub_position": "Centre-Back",
-    "Min": 135,
-    "market_value_in_eur": 4500000,
-    "final_rating": 61.3
-  },
-  {
-    "Player": "Ben Davies",
-    "Squad": "Tottenham Hotspur",
-    "sub_position": "Centre-Back",
-    "Min": 137,
-    "market_value_in_eur": 3000000,
-    "final_rating": 60.9
-  },
-  {
-    "Player": "Branimir Mlacic",
-    "Squad": "Udinese",
-    "sub_position": "Centre-Back",
-    "Min": 166,
-    "market_value_in_eur": 5000000,
-    "final_rating": 60.9
-  },
-  {
-    "Player": "Lautaro Valenti",
-    "Squad": "Parma",
-    "sub_position": "Centre-Back",
-    "Min": 2252,
-    "market_value_in_eur": 2000000,
-    "final_rating": 60.6
-  },
-  {
-    "Player": "Matthijs de Ligt",
-    "Squad": "Manchester Utd",
-    "sub_position": "Centre-Back",
-    "Min": 1170,
-    "market_value_in_eur": 30000000,
-    "final_rating": 60.2
-  },
-  {
-    "Player": "Maxim Leitsch",
-    "Squad": "Mainz 05",
-    "sub_position": "Centre-Back",
-    "Min": 162,
-    "market_value_in_eur": 800000,
-    "final_rating": 60.2
-  },
-  {
-    "Player": "John Donald",
-    "Squad": "Elche",
-    "sub_position": "Centre-Back",
-    "Min": 665,
-    "market_value_in_eur": 1000000,
-    "final_rating": 59.7
-  },
-  {
     "Player": "Pau Navarro",
     "Squad": "Villarreal",
     "sub_position": "Centre-Back",
     "Min": 1921,
     "market_value_in_eur": 15000000,
-    "final_rating": 59.7
+    "final_rating": 79
   },
   {
-    "Player": "Robin Le Normand",
-    "Squad": "Atlético Madrid",
+    "Player": "Facundo Medina",
+    "Squad": "Marseille",
     "sub_position": "Centre-Back",
-    "Min": 1789,
-    "market_value_in_eur": 20000000,
-    "final_rating": 59.5
+    "Min": 1365,
+    "market_value_in_eur": 18000000,
+    "final_rating": 78.3
   },
   {
-    "Player": "Wout Faes",
-    "Squad": "Monaco",
+    "Player": "Florian Lejeune",
+    "Squad": "Rayo Vallecano",
     "sub_position": "Centre-Back",
-    "Min": 1141,
-    "market_value_in_eur": 10000000,
-    "final_rating": 59.3
-  },
-  {
-    "Player": "Leopold Querfeld",
-    "Squad": "Union Berlin",
-    "sub_position": "Centre-Back",
-    "Min": 2705,
-    "market_value_in_eur": 20000000,
-    "final_rating": 59
-  },
-  {
-    "Player": "Aitor Paredes",
-    "Squad": "Athletic Club",
-    "sub_position": "Centre-Back",
-    "Min": 1630,
-    "market_value_in_eur": 7500000,
-    "final_rating": 58.8
-  },
-  {
-    "Player": "Kōta Takai",
-    "Squad": "Gladbach",
-    "sub_position": "Centre-Back",
-    "Min": 342,
-    "market_value_in_eur": 5000000,
-    "final_rating": 58.4
-  },
-  {
-    "Player": "Odilon Kossounou",
-    "Squad": "Atalanta",
-    "sub_position": "Centre-Back",
-    "Min": 988,
-    "market_value_in_eur": 15000000,
-    "final_rating": 58.4
-  },
-  {
-    "Player": "Marc Bartra",
-    "Squad": "Real Betis",
-    "sub_position": "Centre-Back",
-    "Min": 1978,
-    "market_value_in_eur": 900000,
-    "final_rating": 57.9
+    "Min": 3230,
+    "market_value_in_eur": 1800000,
+    "final_rating": 78.3
   },
   {
     "Player": "Mario Hermoso",
@@ -8098,63 +7378,127 @@ const playerRatingsMaster = [
     "sub_position": "Centre-Back",
     "Min": 2085,
     "market_value_in_eur": 7000000,
-    "final_rating": 57.9
+    "final_rating": 78.3
   },
   {
-    "Player": "Jarell Quansah",
-    "Squad": "Leverkusen",
+    "Player": "Arouna Sangante",
+    "Squad": "Le Havre",
     "sub_position": "Centre-Back",
-    "Min": 2299,
-    "market_value_in_eur": 45000000,
-    "final_rating": 57.7
+    "Min": 2324,
+    "market_value_in_eur": 8000000,
+    "final_rating": 78.1
   },
   {
-    "Player": "Lilian Brassier",
+    "Player": "Valentín Gómez",
+    "Squad": "Real Betis",
+    "sub_position": "Centre-Back",
+    "Min": 1882,
+    "market_value_in_eur": 12000000,
+    "final_rating": 77.8
+  },
+  {
+    "Player": "Christian Mawissa",
+    "Squad": "Monaco",
+    "sub_position": "Centre-Back",
+    "Min": 1191,
+    "market_value_in_eur": 15000000,
+    "final_rating": 77.6
+  },
+  {
+    "Player": "Sam Beukema",
+    "Squad": "Napoli",
+    "sub_position": "Centre-Back",
+    "Min": 1681,
+    "market_value_in_eur": 22000000,
+    "final_rating": 77.4
+  },
+  {
+    "Player": "Nnamdi Collins",
+    "Squad": "Eintracht Frankfurt",
+    "sub_position": "Centre-Back",
+    "Min": 1500,
+    "market_value_in_eur": 20000000,
+    "final_rating": 77.1
+  },
+  {
+    "Player": "Jérémy Jacquet",
     "Squad": "Rennes",
     "sub_position": "Centre-Back",
-    "Min": 2250,
-    "market_value_in_eur": 12000000,
-    "final_rating": 57.5
+    "Min": 1671,
+    "market_value_in_eur": 55000000,
+    "final_rating": 76.7
   },
   {
-    "Player": "Luca Reggiani",
-    "Squad": "Dortmund",
+    "Player": "Strahinja Pavlović",
+    "Squad": "Milan",
     "sub_position": "Centre-Back",
-    "Min": 511,
-    "market_value_in_eur": 10000000,
-    "final_rating": 57.2
+    "Min": 2869,
+    "market_value_in_eur": 40000000,
+    "final_rating": 76.7
   },
   {
-    "Player": "Éder Militão",
-    "Squad": "Real Madrid",
+    "Player": "Abdel Abqar",
+    "Squad": "Getafe",
     "sub_position": "Centre-Back",
-    "Min": 1139,
+    "Min": 1437,
+    "market_value_in_eur": 3500000,
+    "final_rating": 76
+  },
+  {
+    "Player": "Ibrahima Konaté",
+    "Squad": "Liverpool",
+    "sub_position": "Centre-Back",
+    "Min": 3090,
+    "market_value_in_eur": 45000000,
+    "final_rating": 76
+  },
+  {
+    "Player": "Lloyd Kelly",
+    "Squad": "Juventus",
+    "sub_position": "Centre-Back",
+    "Min": 2996,
+    "market_value_in_eur": 23000000,
+    "final_rating": 76
+  },
+  {
+    "Player": "Abdoulaye Ndiaye",
+    "Squad": "Parma",
+    "sub_position": "Centre-Back",
+    "Min": 780,
+    "market_value_in_eur": 6000000,
+    "final_rating": 75.8
+  },
+  {
+    "Player": "Veljko Milosavljević",
+    "Squad": "Bournemouth",
+    "sub_position": "Centre-Back",
+    "Min": 368,
     "market_value_in_eur": 20000000,
-    "final_rating": 57
+    "final_rating": 75.3
   },
   {
-    "Player": "Antoine Mendy",
-    "Squad": "Nice",
+    "Player": "Victor Nelsson",
+    "Squad": "Hellas Verona",
     "sub_position": "Centre-Back",
-    "Min": 2097,
+    "Min": 3315,
+    "market_value_in_eur": 6000000,
+    "final_rating": 75.3
+  },
+  {
+    "Player": "Juan Rodríguez",
+    "Squad": "Cagliari",
+    "sub_position": "Centre-Back",
+    "Min": 1310,
     "market_value_in_eur": 10000000,
-    "final_rating": 56.3
+    "final_rating": 74.7
   },
   {
-    "Player": "Clément Akpa",
-    "Squad": "Auxerre",
+    "Player": "Luka Vušković",
+    "Squad": "Hamburger SV",
     "sub_position": "Centre-Back",
-    "Min": 1944,
-    "market_value_in_eur": 9000000,
-    "final_rating": 56.3
-  },
-  {
-    "Player": "Joško Gvardiol",
-    "Squad": "Manchester City",
-    "sub_position": "Centre-Back",
-    "Min": 1372,
-    "market_value_in_eur": 70000000,
-    "final_rating": 56.3
+    "Min": 2442,
+    "market_value_in_eur": 60000000,
+    "final_rating": 74.7
   },
   {
     "Player": "Ronald Araújo",
@@ -8162,375 +7506,15 @@ const playerRatingsMaster = [
     "sub_position": "Centre-Back",
     "Min": 1071,
     "market_value_in_eur": 20000000,
-    "final_rating": 56.1
+    "final_rating": 74.7
   },
   {
-    "Player": "Manuel Akanji",
-    "Squad": "Inter",
+    "Player": "Amos Pieper",
+    "Squad": "Werder Bremen",
     "sub_position": "Centre-Back",
-    "Min": 2821,
-    "market_value_in_eur": 17000000,
-    "final_rating": 55.9
-  },
-  {
-    "Player": "Calvin Bassey",
-    "Squad": "Fulham",
-    "sub_position": "Centre-Back",
-    "Min": 2534,
-    "market_value_in_eur": 28000000,
-    "final_rating": 55.4
-  },
-  {
-    "Player": "Yeray Álvarez",
-    "Squad": "Athletic Club",
-    "sub_position": "Centre-Back",
-    "Min": 513,
-    "market_value_in_eur": 900000,
-    "final_rating": 55.4
-  },
-  {
-    "Player": "José María Giménez",
-    "Squad": "Atlético Madrid",
-    "sub_position": "Centre-Back",
-    "Min": 1178,
-    "market_value_in_eur": 9000000,
-    "final_rating": 55
-  },
-  {
-    "Player": "Sebastian Otoa",
-    "Squad": "Genoa",
-    "sub_position": "Centre-Back",
-    "Min": 829,
-    "market_value_in_eur": 2500000,
-    "final_rating": 55
-  },
-  {
-    "Player": "Eddy Kouadio",
-    "Squad": "Fiorentina",
-    "sub_position": "Centre-Back",
-    "Min": 72,
-    "market_value_in_eur": 2500000,
-    "final_rating": 54.8
-  },
-  {
-    "Player": "Luca Marianucci",
-    "Squad": "Torino",
-    "sub_position": "Centre-Back",
-    "Min": 694,
-    "market_value_in_eur": 7000000,
-    "final_rating": 54.1
-  },
-  {
-    "Player": "Ruben Kluivert",
-    "Squad": "Lyon",
-    "sub_position": "Centre-Back",
-    "Min": 772,
-    "market_value_in_eur": 8000000,
-    "final_rating": 54.1
-  },
-  {
-    "Player": "Youssouf Ndayishimiye",
-    "Squad": "Nice",
-    "sub_position": "Centre-Back",
-    "Min": 72,
-    "market_value_in_eur": 7000000,
-    "final_rating": 54.1
-  },
-  {
-    "Player": "Bafodé Diakité",
-    "Squad": "Bournemouth",
-    "sub_position": "Centre-Back",
-    "Min": 1277,
-    "market_value_in_eur": 25000000,
-    "final_rating": 53.8
-  },
-  {
-    "Player": "Kevin Diks",
-    "Squad": "Gladbach",
-    "sub_position": "Centre-Back",
-    "Min": 2464,
-    "market_value_in_eur": 5000000,
-    "final_rating": 53.6
-  },
-  {
-    "Player": "Giovanni Bonfanti",
-    "Squad": "Pisa",
-    "sub_position": "Centre-Back",
-    "Min": 494,
-    "market_value_in_eur": 1000000,
-    "final_rating": 53.2
-  },
-  {
-    "Player": "Santiago Bueno",
-    "Squad": "Wolves",
-    "sub_position": "Centre-Back",
-    "Min": 2553,
-    "market_value_in_eur": 10000000,
-    "final_rating": 53.2
-  },
-  {
-    "Player": "Mattia Viti",
-    "Squad": "Fiorentina",
-    "sub_position": "Centre-Back",
-    "Min": 265,
-    "market_value_in_eur": 5000000,
-    "final_rating": 52.7
-  },
-  {
-    "Player": "Rafa Marín",
-    "Squad": "Villarreal",
-    "sub_position": "Centre-Back",
-    "Min": 1979,
-    "market_value_in_eur": 12000000,
-    "final_rating": 52.7
-  },
-  {
-    "Player": "Aymeric Laporte",
-    "Squad": "Athletic Club",
-    "sub_position": "Centre-Back",
-    "Min": 2058,
-    "market_value_in_eur": 8000000,
-    "final_rating": 52.5
-  },
-  {
-    "Player": "Fernando Calero",
-    "Squad": "Espanyol",
-    "sub_position": "Centre-Back",
-    "Min": 2148,
-    "market_value_in_eur": 2000000,
-    "final_rating": 52
-  },
-  {
-    "Player": "Ousmane Toure",
-    "Squad": "Lille",
-    "sub_position": "Centre-Back",
-    "Min": 51,
-    "market_value_in_eur": 500000,
-    "final_rating": 52
-  },
-  {
-    "Player": "Ayden Heaven",
-    "Squad": "Manchester Utd",
-    "sub_position": "Centre-Back",
-    "Min": 924,
-    "market_value_in_eur": 30000000,
-    "final_rating": 51.6
-  },
-  {
-    "Player": "Sékou Doucoure",
-    "Squad": "Nantes",
-    "sub_position": "Centre-Back",
-    "Min": 135,
-    "market_value_in_eur": 150000,
-    "final_rating": 51.6
-  },
-  {
-    "Player": "Kevin Akpoguma",
-    "Squad": "Hoffenheim",
-    "sub_position": "Centre-Back",
-    "Min": 61,
-    "market_value_in_eur": 1500000,
-    "final_rating": 51.4
-  },
-  {
-    "Player": "Ayumu Seko",
-    "Squad": "Le Havre",
-    "sub_position": "Centre-Back",
-    "Min": 2625,
-    "market_value_in_eur": 5000000,
-    "final_rating": 51.1
-  },
-  {
-    "Player": "Cedric Zesiger",
-    "Squad": "Augsburg",
-    "sub_position": "Centre-Back",
-    "Min": 1816,
-    "market_value_in_eur": 5000000,
-    "final_rating": 50.7
-  },
-  {
-    "Player": "Jair Cunha",
-    "Squad": "Nottingham Forest",
-    "sub_position": "Centre-Back",
-    "Min": 517,
-    "market_value_in_eur": 15000000,
-    "final_rating": 50.7
-  },
-  {
-    "Player": "Sinaly Diomande",
-    "Squad": "Auxerre",
-    "sub_position": "Centre-Back",
-    "Min": 2131,
-    "market_value_in_eur": 6000000,
-    "final_rating": 50.5
-  },
-  {
-    "Player": "Léo Pétrot",
-    "Squad": "Elche",
-    "sub_position": "Centre-Back",
-    "Min": 1572,
-    "market_value_in_eur": 1500000,
-    "final_rating": 50.2
-  },
-  {
-    "Player": "Dávid Hancko",
-    "Squad": "Atlético Madrid",
-    "sub_position": "Centre-Back",
-    "Min": 2432,
-    "market_value_in_eur": 35000000,
-    "final_rating": 50
-  },
-  {
-    "Player": "Aritz Elustondo",
-    "Squad": "Real Sociedad",
-    "sub_position": "Centre-Back",
-    "Min": 720,
-    "market_value_in_eur": 1500000,
-    "final_rating": 49.5
-  },
-  {
-    "Player": "Julien Le Cardinal",
-    "Squad": "Brest",
-    "sub_position": "Centre-Back",
-    "Min": 328,
-    "market_value_in_eur": 1500000,
-    "final_rating": 49.5
-  },
-  {
-    "Player": "Vitor Reis",
-    "Squad": "Girona",
-    "sub_position": "Centre-Back",
-    "Min": 3138,
-    "market_value_in_eur": 30000000,
-    "final_rating": 49.3
-  },
-  {
-    "Player": "David Odogu",
-    "Squad": "Milan",
-    "sub_position": "Centre-Back",
-    "Min": 6,
-    "market_value_in_eur": 5000000,
-    "final_rating": 48.9
-  },
-  {
-    "Player": "Morato",
-    "Squad": "Nottingham Forest",
-    "sub_position": "Centre-Back",
-    "Min": 1345,
-    "market_value_in_eur": 14000000,
-    "final_rating": 48.9
-  },
-  {
-    "Player": "Karol Mets",
-    "Squad": "St Pauli",
-    "sub_position": "Centre-Back",
-    "Min": 1932,
-    "market_value_in_eur": 600000,
-    "final_rating": 48.6
-  },
-  {
-    "Player": "Niklas Süle",
-    "Squad": "Dortmund",
-    "sub_position": "Centre-Back",
-    "Min": 486,
+    "Min": 1502,
     "market_value_in_eur": 4000000,
-    "final_rating": 48.4
-  },
-  {
-    "Player": "Jonathan Tah",
-    "Squad": "Bayern Munich",
-    "sub_position": "Centre-Back",
-    "Min": 2018,
-    "market_value_in_eur": 28000000,
-    "final_rating": 47.5
-  },
-  {
-    "Player": "Jorge Herrando",
-    "Squad": "Osasuna",
-    "sub_position": "Centre-Back",
-    "Min": 1600,
-    "market_value_in_eur": 3500000,
-    "final_rating": 47.5
-  },
-  {
-    "Player": "Koki Machida",
-    "Squad": "Hoffenheim",
-    "sub_position": "Centre-Back",
-    "Min": 44,
-    "market_value_in_eur": 6000000,
-    "final_rating": 47.5
-  },
-  {
-    "Player": "Max Rosenfelder",
-    "Squad": "Freiburg",
-    "sub_position": "Centre-Back",
-    "Min": 492,
-    "market_value_in_eur": 6000000,
-    "final_rating": 47.5
-  },
-  {
-    "Player": "Tobias Slotsager",
-    "Squad": "Hellas Verona",
-    "sub_position": "Centre-Back",
-    "Min": 446,
-    "market_value_in_eur": 3000000,
-    "final_rating": 47.3
-  },
-  {
-    "Player": "Matteo Palma",
-    "Squad": "Udinese",
-    "sub_position": "Centre-Back",
-    "Min": 120,
-    "market_value_in_eur": 5000000,
-    "final_rating": 47.1
-  },
-  {
-    "Player": "Tyler Fredricson",
-    "Squad": "Manchester Utd",
-    "sub_position": "Centre-Back",
-    "Min": 3,
-    "market_value_in_eur": 3000000,
-    "final_rating": 46.8
-  },
-  {
-    "Player": "Luca Jaquez",
-    "Squad": "Stuttgart",
-    "sub_position": "Centre-Back",
-    "Min": 898,
-    "market_value_in_eur": 10000000,
-    "final_rating": 46.6
-  },
-  {
-    "Player": "David Carmo",
-    "Squad": "Oviedo",
-    "sub_position": "Centre-Back",
-    "Min": 1786,
-    "market_value_in_eur": 5000000,
-    "final_rating": 46.2
-  },
-  {
-    "Player": "Logan Costa",
-    "Squad": "Villarreal",
-    "sub_position": "Centre-Back",
-    "Min": 30,
-    "market_value_in_eur": 15000000,
-    "final_rating": 46.2
-  },
-  {
-    "Player": "Ameen Al-Dakhil",
-    "Squad": "Stuttgart",
-    "sub_position": "Centre-Back",
-    "Min": 380,
-    "market_value_in_eur": 3000000,
-    "final_rating": 45.2
-  },
-  {
-    "Player": "Moïse Bombito",
-    "Squad": "Nice",
-    "sub_position": "Centre-Back",
-    "Min": 145,
-    "market_value_in_eur": 7000000,
-    "final_rating": 45.2
+    "final_rating": 74
   },
   {
     "Player": "Natan",
@@ -8538,29 +7522,1053 @@ const playerRatingsMaster = [
     "sub_position": "Centre-Back",
     "Min": 2807,
     "market_value_in_eur": 25000000,
-    "final_rating": 45.2
+    "final_rating": 74
   },
   {
-    "Player": "Nicolás Valentini",
-    "Squad": "Hellas Verona",
+    "Player": "Stefan de Vrij",
+    "Squad": "Inter",
     "sub_position": "Centre-Back",
-    "Min": 1409,
+    "Min": 670,
     "market_value_in_eur": 3000000,
-    "final_rating": 45.2
+    "final_rating": 74
   },
   {
-    "Player": "Cassiano Kiala",
-    "Squad": "Bayern Munich",
+    "Player": "Juan Jesus",
+    "Squad": "Napoli",
     "sub_position": "Centre-Back",
-    "Min": 1,
-    "market_value_in_eur": 2000000,
-    "final_rating": 44.3
+    "Min": 1675,
+    "market_value_in_eur": 1500000,
+    "final_rating": 73.8
   },
   {
-    "Player": "Julián Malatini",
+    "Player": "Emre Can",
+    "Squad": "Dortmund",
+    "sub_position": "Centre-Back",
+    "Min": 621,
+    "market_value_in_eur": 3000000,
+    "final_rating": 73.3
+  },
+  {
+    "Player": "José María Giménez",
+    "Squad": "Atlético Madrid",
+    "sub_position": "Centre-Back",
+    "Min": 1178,
+    "market_value_in_eur": 9000000,
+    "final_rating": 73.3
+  },
+  {
+    "Player": "Calvin Bassey",
+    "Squad": "Fulham",
+    "sub_position": "Centre-Back",
+    "Min": 2534,
+    "market_value_in_eur": 28000000,
+    "final_rating": 72.9
+  },
+  {
+    "Player": "Nidal Celik",
+    "Squad": "Lens",
+    "sub_position": "Centre-Back",
+    "Min": 616,
+    "market_value_in_eur": 7000000,
+    "final_rating": 72.9
+  },
+  {
+    "Player": "Jair Cunha",
+    "Squad": "Nottingham Forest",
+    "sub_position": "Centre-Back",
+    "Min": 517,
+    "market_value_in_eur": 15000000,
+    "final_rating": 72.4
+  },
+  {
+    "Player": "Nathan Collins",
+    "Squad": "Brentford",
+    "sub_position": "Centre-Back",
+    "Min": 2975,
+    "market_value_in_eur": 30000000,
+    "final_rating": 72.4
+  },
+  {
+    "Player": "Aïssa Mandi",
+    "Squad": "Lille",
+    "sub_position": "Centre-Back",
+    "Min": 2424,
+    "market_value_in_eur": 1000000,
+    "final_rating": 71.5
+  },
+  {
+    "Player": "César Azpilicueta",
+    "Squad": "Sevilla",
+    "sub_position": "Centre-Back",
+    "Min": 1213,
+    "market_value_in_eur": 1000000,
+    "final_rating": 71.5
+  },
+  {
+    "Player": "Filippo Terracciano",
+    "Squad": "Cremonese",
+    "sub_position": "Centre-Back",
+    "Min": 3011,
+    "market_value_in_eur": 4500000,
+    "final_rating": 71.5
+  },
+  {
+    "Player": "Nico Elvedi",
+    "Squad": "Gladbach",
+    "sub_position": "Centre-Back",
+    "Min": 2966,
+    "market_value_in_eur": 8000000,
+    "final_rating": 71.5
+  },
+  {
+    "Player": "Branimir Mlacic",
+    "Squad": "Udinese",
+    "sub_position": "Centre-Back",
+    "Min": 166,
+    "market_value_in_eur": 5000000,
+    "final_rating": 71
+  },
+  {
+    "Player": "Malick Thiaw",
+    "Squad": "Newcastle United",
+    "sub_position": "Centre-Back",
+    "Min": 2965,
+    "market_value_in_eur": 45000000,
+    "final_rating": 71
+  },
+  {
+    "Player": "Ayden Heaven",
+    "Squad": "Manchester Utd",
+    "sub_position": "Centre-Back",
+    "Min": 924,
+    "market_value_in_eur": 30000000,
+    "final_rating": 70.4
+  },
+  {
+    "Player": "Matthijs de Ligt",
+    "Squad": "Manchester Utd",
+    "sub_position": "Centre-Back",
+    "Min": 1170,
+    "market_value_in_eur": 30000000,
+    "final_rating": 70.4
+  },
+  {
+    "Player": "Vitor Reis",
+    "Squad": "Girona",
+    "sub_position": "Centre-Back",
+    "Min": 3138,
+    "market_value_in_eur": 30000000,
+    "final_rating": 70.4
+  },
+  {
+    "Player": "Clément Akpa",
+    "Squad": "Auxerre",
+    "sub_position": "Centre-Back",
+    "Min": 1944,
+    "market_value_in_eur": 9000000,
+    "final_rating": 69.5
+  },
+  {
+    "Player": "Koni De Winter",
+    "Squad": "Milan",
+    "sub_position": "Centre-Back",
+    "Min": 1800,
+    "market_value_in_eur": 23000000,
+    "final_rating": 69.5
+  },
+  {
+    "Player": "Luca Reggiani",
+    "Squad": "Dortmund",
+    "sub_position": "Centre-Back",
+    "Min": 511,
+    "market_value_in_eur": 10000000,
+    "final_rating": 69.5
+  },
+  {
+    "Player": "Sebastiaan Bornauw",
+    "Squad": "Leeds United",
+    "sub_position": "Centre-Back",
+    "Min": 429,
+    "market_value_in_eur": 8000000,
+    "final_rating": 69.5
+  },
+  {
+    "Player": "Saba Goglichidze",
+    "Squad": "Udinese",
+    "sub_position": "Centre-Back",
+    "Min": 424,
+    "market_value_in_eur": 3500000,
+    "final_rating": 69.2
+  },
+  {
+    "Player": "Pau Torres",
+    "Squad": "Aston Villa",
+    "sub_position": "Centre-Back",
+    "Min": 1676,
+    "market_value_in_eur": 20000000,
+    "final_rating": 68.8
+  },
+  {
+    "Player": "Sadibou Sané",
+    "Squad": "Metz",
+    "sub_position": "Centre-Back",
+    "Min": 1940,
+    "market_value_in_eur": 7000000,
+    "final_rating": 68.8
+  },
+  {
+    "Player": "Nayef Aguerd",
+    "Squad": "Marseille",
+    "sub_position": "Centre-Back",
+    "Min": 1576,
+    "market_value_in_eur": 15000000,
+    "final_rating": 68.6
+  },
+  {
+    "Player": "Amir Rrahmani",
+    "Squad": "Napoli",
+    "sub_position": "Centre-Back",
+    "Min": 1795,
+    "market_value_in_eur": 10000000,
+    "final_rating": 68.3
+  },
+  {
+    "Player": "Daniele Rugani",
+    "Squad": "Fiorentina",
+    "sub_position": "Centre-Back",
+    "Min": 577,
+    "market_value_in_eur": 2000000,
+    "final_rating": 68.1
+  },
+  {
+    "Player": "Benjamin Pavard",
+    "Squad": "Marseille",
+    "sub_position": "Centre-Back",
+    "Min": 2018,
+    "market_value_in_eur": 12000000,
+    "final_rating": 67.6
+  },
+  {
+    "Player": "Martin Vitík",
+    "Squad": "Bologna",
+    "sub_position": "Centre-Back",
+    "Min": 1325,
+    "market_value_in_eur": 13000000,
+    "final_rating": 67.6
+  },
+  {
+    "Player": "Warmed Omari",
+    "Squad": "Hamburger SV",
+    "sub_position": "Centre-Back",
+    "Min": 1605,
+    "market_value_in_eur": 4000000,
+    "final_rating": 67.4
+  },
+  {
+    "Player": "Alberto Dossena",
+    "Squad": "Cagliari",
+    "sub_position": "Centre-Back",
+    "Min": 859,
+    "market_value_in_eur": 6000000,
+    "final_rating": 67
+  },
+  {
+    "Player": "Jaka Bijol",
+    "Squad": "Leeds United",
+    "sub_position": "Centre-Back",
+    "Min": 1890,
+    "market_value_in_eur": 20000000,
+    "final_rating": 67
+  },
+  {
+    "Player": "Javi Rodríguez",
+    "Squad": "Celta Vigo",
+    "sub_position": "Centre-Back",
+    "Min": 2558,
+    "market_value_in_eur": 18000000,
+    "final_rating": 66.7
+  },
+  {
+    "Player": "Ethan Pinnock",
+    "Squad": "Brentford",
+    "sub_position": "Centre-Back",
+    "Min": 318,
+    "market_value_in_eur": 3000000,
+    "final_rating": 66.5
+  },
+  {
+    "Player": "Keven Schlotterbeck",
+    "Squad": "Augsburg",
+    "sub_position": "Centre-Back",
+    "Min": 2031,
+    "market_value_in_eur": 6000000,
+    "final_rating": 66.3
+  },
+  {
+    "Player": "Harry Maguire",
+    "Squad": "Manchester Utd",
+    "sub_position": "Centre-Back",
+    "Min": 1653,
+    "market_value_in_eur": 8000000,
+    "final_rating": 66.1
+  },
+  {
+    "Player": "Ardian Ismajli",
+    "Squad": "Torino",
+    "sub_position": "Centre-Back",
+    "Min": 1906,
+    "market_value_in_eur": 5000000,
+    "final_rating": 65.8
+  },
+  {
+    "Player": "Federico Gatti",
+    "Squad": "Juventus",
+    "sub_position": "Centre-Back",
+    "Min": 1093,
+    "market_value_in_eur": 14000000,
+    "final_rating": 65.4
+  },
+  {
+    "Player": "Joachim Andersen",
+    "Squad": "Fulham",
+    "sub_position": "Centre-Back",
+    "Min": 2875,
+    "market_value_in_eur": 20000000,
+    "final_rating": 65.4
+  },
+  {
+    "Player": "Axel Disasi",
+    "Squad": "West Ham United",
+    "sub_position": "Centre-Back",
+    "Min": 1254,
+    "market_value_in_eur": 15000000,
+    "final_rating": 65.2
+  },
+  {
+    "Player": "Bryan Okoh",
+    "Squad": "Auxerre",
+    "sub_position": "Centre-Back",
+    "Min": 1005,
+    "market_value_in_eur": 4000000,
+    "final_rating": 64.5
+  },
+  {
+    "Player": "Charlie Cresswell",
+    "Squad": "Toulouse",
+    "sub_position": "Centre-Back",
+    "Min": 2533,
+    "market_value_in_eur": 25000000,
+    "final_rating": 64.5
+  },
+  {
+    "Player": "Luca Jaquez",
+    "Squad": "Stuttgart",
+    "sub_position": "Centre-Back",
+    "Min": 898,
+    "market_value_in_eur": 10000000,
+    "final_rating": 64.5
+  },
+  {
+    "Player": "Alessandro Circati",
+    "Squad": "Parma",
+    "sub_position": "Centre-Back",
+    "Min": 2664,
+    "market_value_in_eur": 12000000,
+    "final_rating": 63.8
+  },
+  {
+    "Player": "Jay Idzes",
+    "Squad": "Sassuolo",
+    "sub_position": "Centre-Back",
+    "Min": 3061,
+    "market_value_in_eur": 14000000,
+    "final_rating": 63.8
+  },
+  {
+    "Player": "Lautaro Valenti",
+    "Squad": "Parma",
+    "sub_position": "Centre-Back",
+    "Min": 2252,
+    "market_value_in_eur": 2000000,
+    "final_rating": 63.8
+  },
+  {
+    "Player": "Sinaly Diomande",
+    "Squad": "Auxerre",
+    "sub_position": "Centre-Back",
+    "Min": 2131,
+    "market_value_in_eur": 6000000,
+    "final_rating": 63.6
+  },
+  {
+    "Player": "Benoît Badiashile",
+    "Squad": "Chelsea",
+    "sub_position": "Centre-Back",
+    "Min": 471,
+    "market_value_in_eur": 15000000,
+    "final_rating": 63.1
+  },
+  {
+    "Player": "Eray Cömert",
+    "Squad": "Valencia",
+    "sub_position": "Centre-Back",
+    "Min": 1337,
+    "market_value_in_eur": 2500000,
+    "final_rating": 63.1
+  },
+  {
+    "Player": "Alessio Romagnoli",
+    "Squad": "Lazio",
+    "sub_position": "Centre-Back",
+    "Min": 2666,
+    "market_value_in_eur": 6000000,
+    "final_rating": 62.2
+  },
+  {
+    "Player": "Arthur Theate",
+    "Squad": "Eintracht Frankfurt",
+    "sub_position": "Centre-Back",
+    "Min": 2141,
+    "market_value_in_eur": 17000000,
+    "final_rating": 62.2
+  },
+  {
+    "Player": "Jordan Lefort",
+    "Squad": "Angers",
+    "sub_position": "Centre-Back",
+    "Min": 3060,
+    "market_value_in_eur": 1000000,
+    "final_rating": 62.2
+  },
+  {
+    "Player": "Pietro Comuzzo",
+    "Squad": "Fiorentina",
+    "sub_position": "Centre-Back",
+    "Min": 1696,
+    "market_value_in_eur": 18000000,
+    "final_rating": 62.2
+  },
+  {
+    "Player": "Diogo Leite",
+    "Squad": "Union Berlin",
+    "sub_position": "Centre-Back",
+    "Min": 1963,
+    "market_value_in_eur": 12000000,
+    "final_rating": 62
+  },
+  {
+    "Player": "Chrislain Matsima",
+    "Squad": "Augsburg",
+    "sub_position": "Centre-Back",
+    "Min": 1489,
+    "market_value_in_eur": 22000000,
+    "final_rating": 61.5
+  },
+  {
+    "Player": "Moussa Niakhate",
+    "Squad": "Lyon",
+    "sub_position": "Centre-Back",
+    "Min": 2759,
+    "market_value_in_eur": 15000000,
+    "final_rating": 61.5
+  },
+  {
+    "Player": "Carl Starfelt",
+    "Squad": "Celta Vigo",
+    "sub_position": "Centre-Back",
+    "Min": 1491,
+    "market_value_in_eur": 4500000,
+    "final_rating": 61.1
+  },
+  {
+    "Player": "Enzo Boyomo",
+    "Squad": "Osasuna",
+    "sub_position": "Centre-Back",
+    "Min": 2542,
+    "market_value_in_eur": 15000000,
+    "final_rating": 61.1
+  },
+  {
+    "Player": "Ayumu Seko",
+    "Squad": "Le Havre",
+    "sub_position": "Centre-Back",
+    "Min": 2625,
+    "market_value_in_eur": 5000000,
+    "final_rating": 60.6
+  },
+  {
+    "Player": "Kevin Danso",
+    "Squad": "Tottenham Hotspur",
+    "sub_position": "Centre-Back",
+    "Min": 1494,
+    "market_value_in_eur": 20000000,
+    "final_rating": 60.6
+  },
+  {
+    "Player": "Ramy Bensebaini",
+    "Squad": "Dortmund",
+    "sub_position": "Centre-Back",
+    "Min": 1530,
+    "market_value_in_eur": 7000000,
+    "final_rating": 60.4
+  },
+  {
+    "Player": "Eivind Helland",
+    "Squad": "Bologna",
+    "sub_position": "Centre-Back",
+    "Min": 484,
+    "market_value_in_eur": 8000000,
+    "final_rating": 60.2
+  },
+  {
+    "Player": "Formose Mendy",
+    "Squad": "Lorient",
+    "sub_position": "Centre-Back",
+    "Min": 135,
+    "market_value_in_eur": 4500000,
+    "final_rating": 59.7
+  },
+  {
+    "Player": "Telli Siwe",
+    "Squad": "Auxerre",
+    "sub_position": "Centre-Back",
+    "Min": 315,
+    "market_value_in_eur": 1000000,
+    "final_rating": 59.7
+  },
+  {
+    "Player": "Lilian Brassier",
+    "Squad": "Rennes",
+    "sub_position": "Centre-Back",
+    "Min": 2250,
+    "market_value_in_eur": 12000000,
+    "final_rating": 59.5
+  },
+  {
+    "Player": "Danilho Doekhi",
+    "Squad": "Union Berlin",
+    "sub_position": "Centre-Back",
+    "Min": 3060,
+    "market_value_in_eur": 13000000,
+    "final_rating": 59.3
+  },
+  {
+    "Player": "Nathan Aké",
+    "Squad": "Manchester City",
+    "sub_position": "Centre-Back",
+    "Min": 695,
+    "market_value_in_eur": 12000000,
+    "final_rating": 59
+  },
+  {
+    "Player": "Raúl Asencio",
+    "Squad": "Real Madrid",
+    "sub_position": "Centre-Back",
+    "Min": 1708,
+    "market_value_in_eur": 20000000,
+    "final_rating": 58.8
+  },
+  {
+    "Player": "Jean-Clair Todibo",
+    "Squad": "West Ham United",
+    "sub_position": "Centre-Back",
+    "Min": 1814,
+    "market_value_in_eur": 22000000,
+    "final_rating": 58.4
+  },
+  {
+    "Player": "Omar Alderete",
+    "Squad": "Sunderland",
+    "sub_position": "Centre-Back",
+    "Min": 2798,
+    "market_value_in_eur": 13000000,
+    "final_rating": 58.4
+  },
+  {
+    "Player": "Sepp van den Berg",
+    "Squad": "Brentford",
+    "sub_position": "Centre-Back",
+    "Min": 2763,
+    "market_value_in_eur": 32000000,
+    "final_rating": 57.9
+  },
+  {
+    "Player": "Thomas Kristensen",
+    "Squad": "Udinese",
+    "sub_position": "Centre-Back",
+    "Min": 2472,
+    "market_value_in_eur": 12000000,
+    "final_rating": 57.9
+  },
+  {
+    "Player": "Fabian Schär",
+    "Squad": "Newcastle United",
+    "sub_position": "Centre-Back",
+    "Min": 1091,
+    "market_value_in_eur": 4000000,
+    "final_rating": 57.5
+  },
+  {
+    "Player": "Jordan Torunarigha",
+    "Squad": "Hamburger SV",
+    "sub_position": "Centre-Back",
+    "Min": 1962,
+    "market_value_in_eur": 4000000,
+    "final_rating": 57.5
+  },
+  {
+    "Player": "Daley Blind",
+    "Squad": "Girona",
+    "sub_position": "Centre-Back",
+    "Min": 2606,
+    "market_value_in_eur": 1200000,
+    "final_rating": 56.8
+  },
+  {
+    "Player": "Dominik Kohr",
+    "Squad": "Mainz 05",
+    "sub_position": "Centre-Back",
+    "Min": 2338,
+    "market_value_in_eur": 2000000,
+    "final_rating": 56.8
+  },
+  {
+    "Player": "Luca Ranieri",
+    "Squad": "Fiorentina",
+    "sub_position": "Centre-Back",
+    "Min": 2458,
+    "market_value_in_eur": 6000000,
+    "final_rating": 56.8
+  },
+  {
+    "Player": "Ezri Konsa",
+    "Squad": "Aston Villa",
+    "sub_position": "Centre-Back",
+    "Min": 3035,
+    "market_value_in_eur": 40000000,
+    "final_rating": 55.9
+  },
+  {
+    "Player": "Jon Martin",
+    "Squad": "Real Sociedad",
+    "sub_position": "Centre-Back",
+    "Min": 2250,
+    "market_value_in_eur": 25000000,
+    "final_rating": 55.9
+  },
+  {
+    "Player": "Mamadou Sarr",
+    "Squad": "Strasbourg",
+    "sub_position": "Centre-Back",
+    "Min": 1407,
+    "market_value_in_eur": 22000000,
+    "final_rating": 55.9
+  },
+  {
+    "Player": "Noahkai Banks",
+    "Squad": "Augsburg",
+    "sub_position": "Centre-Back",
+    "Min": 1725,
+    "market_value_in_eur": 20000000,
+    "final_rating": 55.9
+  },
+  {
+    "Player": "Alessandro Marcandalli",
+    "Squad": "Genoa",
+    "sub_position": "Centre-Back",
+    "Min": 2597,
+    "market_value_in_eur": 14000000,
+    "final_rating": 55.4
+  },
+  {
+    "Player": "Alidu Seidu",
+    "Squad": "Rennes",
+    "sub_position": "Centre-Back",
+    "Min": 1186,
+    "market_value_in_eur": 6000000,
+    "final_rating": 55.4
+  },
+  {
+    "Player": "Maximilian Wöber",
     "Squad": "Werder Bremen",
     "sub_position": "Centre-Back",
-    "Min": 516,
+    "Min": 37,
+    "market_value_in_eur": 3000000,
+    "final_rating": 55.2
+  },
+  {
+    "Player": "Hiroki Ito",
+    "Squad": "Bayern Munich",
+    "sub_position": "Centre-Back",
+    "Min": 920,
+    "market_value_in_eur": 18000000,
+    "final_rating": 55
+  },
+  {
+    "Player": "Konstantinos Koulierakis",
+    "Squad": "Wolfsburg",
+    "sub_position": "Centre-Back",
+    "Min": 2482,
+    "market_value_in_eur": 25000000,
+    "final_rating": 54.8
+  },
+  {
+    "Player": "Abdoulaye Faye",
+    "Squad": "Lorient",
+    "sub_position": "Centre-Back",
+    "Min": 1444,
+    "market_value_in_eur": 4500000,
+    "final_rating": 54.3
+  },
+  {
+    "Player": "Logan Costa",
+    "Squad": "Villarreal",
+    "sub_position": "Centre-Back",
+    "Min": 30,
+    "market_value_in_eur": 15000000,
+    "final_rating": 54.3
+  },
+  {
+    "Player": "Sead Kolašinac",
+    "Squad": "Atalanta",
+    "sub_position": "Centre-Back",
+    "Min": 1212,
+    "market_value_in_eur": 4000000,
+    "final_rating": 53.8
+  },
+  {
+    "Player": "Torbjørn Heggem",
+    "Squad": "Bologna",
+    "sub_position": "Centre-Back",
+    "Min": 2113,
+    "market_value_in_eur": 13000000,
+    "final_rating": 53.8
+  },
+  {
+    "Player": "El Chadaille Bitshiabu",
+    "Squad": "RB Leipzig",
+    "sub_position": "Centre-Back",
+    "Min": 655,
+    "market_value_in_eur": 18000000,
+    "final_rating": 53.6
+  },
+  {
+    "Player": "Diego Carlos",
+    "Squad": "Como",
+    "sub_position": "Centre-Back",
+    "Min": 1949,
+    "market_value_in_eur": 5000000,
+    "final_rating": 53.2
+  },
+  {
+    "Player": "Unai Núñez",
+    "Squad": "Hellas Verona",
+    "sub_position": "Centre-Back",
+    "Min": 2176,
+    "market_value_in_eur": 3500000,
+    "final_rating": 53.2
+  },
+  {
+    "Player": "Diego Coppola",
+    "Squad": "Paris FC",
+    "sub_position": "Centre-Back",
+    "Min": 1364,
+    "market_value_in_eur": 18000000,
+    "final_rating": 52
+  },
+  {
+    "Player": "Ismaël Doukouré",
+    "Squad": "Strasbourg",
+    "sub_position": "Centre-Back",
+    "Min": 2072,
+    "market_value_in_eur": 20000000,
+    "final_rating": 52
+  },
+  {
+    "Player": "Mark McKenzie",
+    "Squad": "Toulouse",
+    "sub_position": "Centre-Back",
+    "Min": 2494,
+    "market_value_in_eur": 7000000,
+    "final_rating": 52
+  },
+  {
+    "Player": "Matteo Gabbia",
+    "Squad": "Milan",
+    "sub_position": "Centre-Back",
+    "Min": 2530,
+    "market_value_in_eur": 17000000,
+    "final_rating": 52
+  },
+  {
+    "Player": "Timo Hübers",
+    "Squad": "Köln",
+    "sub_position": "Centre-Back",
+    "Min": 675,
+    "market_value_in_eur": 1500000,
+    "final_rating": 52
+  },
+  {
+    "Player": "Chadi Riad",
+    "Squad": "Crystal Palace",
+    "sub_position": "Centre-Back",
+    "Min": 552,
+    "market_value_in_eur": 15000000,
+    "final_rating": 51.8
+  },
+  {
+    "Player": "Maxime Estève",
+    "Squad": "Burnley",
+    "sub_position": "Centre-Back",
+    "Min": 2932,
+    "market_value_in_eur": 28000000,
+    "final_rating": 51.6
+  },
+  {
+    "Player": "Marco Friedl",
+    "Squad": "Werder Bremen",
+    "sub_position": "Centre-Back",
+    "Min": 2546,
+    "market_value_in_eur": 10000000,
+    "final_rating": 50.7
+  },
+  {
+    "Player": "Michael Keane",
+    "Squad": "Everton",
+    "sub_position": "Centre-Back",
+    "Min": 2591,
+    "market_value_in_eur": 3000000,
+    "final_rating": 50.7
+  },
+  {
+    "Player": "Mohammed Salisu",
+    "Squad": "Monaco",
+    "sub_position": "Centre-Back",
+    "Min": 1080,
+    "market_value_in_eur": 10000000,
+    "final_rating": 50.7
+  },
+  {
+    "Player": "Nikola Milenković",
+    "Squad": "Nottingham Forest",
+    "sub_position": "Centre-Back",
+    "Min": 3375,
+    "market_value_in_eur": 28000000,
+    "final_rating": 50.7
+  },
+  {
+    "Player": "Fabio Chiarodia",
+    "Squad": "Gladbach",
+    "sub_position": "Centre-Back",
+    "Min": 674,
+    "market_value_in_eur": 3000000,
+    "final_rating": 50.2
+  },
+  {
+    "Player": "Renato Veiga",
+    "Squad": "Villarreal",
+    "sub_position": "Centre-Back",
+    "Min": 2481,
+    "market_value_in_eur": 25000000,
+    "final_rating": 50.2
+  },
+  {
+    "Player": "Cenk Özkacar",
+    "Squad": "Köln",
+    "sub_position": "Centre-Back",
+    "Min": 1791,
+    "market_value_in_eur": 4000000,
+    "final_rating": 49.8
+  },
+  {
+    "Player": "Eddy Kouadio",
+    "Squad": "Fiorentina",
+    "sub_position": "Centre-Back",
+    "Min": 72,
+    "market_value_in_eur": 2500000,
+    "final_rating": 49.8
+  },
+  {
+    "Player": "Kojo Peprah Oppong",
+    "Squad": "Nice",
+    "sub_position": "Centre-Back",
+    "Min": 2425,
+    "market_value_in_eur": 10000000,
+    "final_rating": 49.3
+  },
+  {
+    "Player": "Yerson Mosquera",
+    "Squad": "Wolves",
+    "sub_position": "Centre-Back",
+    "Min": 2136,
+    "market_value_in_eur": 12000000,
+    "final_rating": 49.3
+  },
+  {
+    "Player": "Sebastián Boselli",
+    "Squad": "Getafe",
+    "sub_position": "Centre-Back",
+    "Min": 380,
+    "market_value_in_eur": 1500000,
+    "final_rating": 49.1
+  },
+  {
+    "Player": "CJ Egan-Riley",
+    "Squad": "Marseille",
+    "sub_position": "Centre-Back",
+    "Min": 624,
+    "market_value_in_eur": 9000000,
+    "final_rating": 48.6
+  },
+  {
+    "Player": "Morato",
+    "Squad": "Nottingham Forest",
+    "sub_position": "Centre-Back",
+    "Min": 1345,
+    "market_value_in_eur": 14000000,
+    "final_rating": 48.6
+  },
+  {
+    "Player": "Marc Bartra",
+    "Squad": "Real Betis",
+    "sub_position": "Centre-Back",
+    "Min": 1978,
+    "market_value_in_eur": 900000,
+    "final_rating": 48.2
+  },
+  {
+    "Player": "Philipp Lienhart",
+    "Squad": "Freiburg",
+    "sub_position": "Centre-Back",
+    "Min": 1302,
+    "market_value_in_eur": 10000000,
+    "final_rating": 48.2
+  },
+  {
+    "Player": "Alejandro Francés",
+    "Squad": "Girona",
+    "sub_position": "Centre-Back",
+    "Min": 1116,
+    "market_value_in_eur": 3000000,
+    "final_rating": 48
+  },
+  {
+    "Player": "Aymeric Laporte",
+    "Squad": "Athletic Club",
+    "sub_position": "Centre-Back",
+    "Min": 2058,
+    "market_value_in_eur": 8000000,
+    "final_rating": 47.7
+  },
+  {
+    "Player": "Gaby Jean",
+    "Squad": "Lecce",
+    "sub_position": "Centre-Back",
+    "Min": 197,
+    "market_value_in_eur": 1500000,
+    "final_rating": 47.3
+  },
+  {
+    "Player": "Max Rosenfelder",
+    "Squad": "Freiburg",
+    "sub_position": "Centre-Back",
+    "Min": 492,
+    "market_value_in_eur": 6000000,
+    "final_rating": 47.3
+  },
+  {
+    "Player": "Bafodé Diakité",
+    "Squad": "Bournemouth",
+    "sub_position": "Centre-Back",
+    "Min": 1277,
+    "market_value_in_eur": 25000000,
+    "final_rating": 46.6
+  },
+  {
+    "Player": "Niklas Stark",
+    "Squad": "Werder Bremen",
+    "sub_position": "Centre-Back",
+    "Min": 697,
+    "market_value_in_eur": 2500000,
+    "final_rating": 46.6
+  },
+  {
+    "Player": "Pedro Bigas",
+    "Squad": "Elche",
+    "sub_position": "Centre-Back",
+    "Min": 2063,
+    "market_value_in_eur": 300000,
+    "final_rating": 46.6
+  },
+  {
+    "Player": "Robin Koch",
+    "Squad": "Eintracht Frankfurt",
+    "sub_position": "Centre-Back",
+    "Min": 2833,
+    "market_value_in_eur": 10000000,
+    "final_rating": 46.2
+  },
+  {
+    "Player": "Uroš Radaković",
+    "Squad": "Nantes",
+    "sub_position": "Centre-Back",
+    "Min": 101,
+    "market_value_in_eur": 400000,
+    "final_rating": 46.2
+  },
+  {
+    "Player": "Sékou Doucoure",
+    "Squad": "Nantes",
+    "sub_position": "Centre-Back",
+    "Min": 135,
+    "market_value_in_eur": 150000,
+    "final_rating": 45.9
+  },
+  {
+    "Player": "Micky van de Ven",
+    "Squad": "Tottenham Hotspur",
+    "sub_position": "Centre-Back",
+    "Min": 3041,
+    "market_value_in_eur": 50000000,
+    "final_rating": 45.2
+  },
+  {
+    "Player": "Ozan Kabak",
+    "Squad": "Hoffenheim",
+    "sub_position": "Centre-Back",
+    "Min": 1751,
+    "market_value_in_eur": 15000000,
+    "final_rating": 45.2
+  },
+  {
+    "Player": "Pascal Struijk",
+    "Squad": "Leeds United",
+    "sub_position": "Centre-Back",
+    "Min": 2936,
+    "market_value_in_eur": 22000000,
+    "final_rating": 45.2
+  },
+  {
+    "Player": "Adam Dźwigała",
+    "Squad": "St Pauli",
+    "sub_position": "Centre-Back",
+    "Min": 1288,
+    "market_value_in_eur": 800000,
+    "final_rating": 45
+  },
+  {
+    "Player": "Rasmus Nicolaisen",
+    "Squad": "Toulouse",
+    "sub_position": "Centre-Back",
+    "Min": 2654,
+    "market_value_in_eur": 5000000,
+    "final_rating": 44.8
+  },
+  {
+    "Player": "Fernando Calero",
+    "Squad": "Espanyol",
+    "sub_position": "Centre-Back",
+    "Min": 2148,
     "market_value_in_eur": 2000000,
     "final_rating": 44.3
   },
@@ -8573,572 +8581,20 @@ const playerRatingsMaster = [
     "final_rating": 44.3
   },
   {
-    "Player": "Marvin Friedrich",
-    "Squad": "Gladbach",
+    "Player": "Aitor Paredes",
+    "Squad": "Athletic Club",
     "sub_position": "Centre-Back",
-    "Min": 152,
-    "market_value_in_eur": 1800000,
-    "final_rating": 44.3
+    "Min": 1630,
+    "market_value_in_eur": 7500000,
+    "final_rating": 43.7
   },
   {
-    "Player": "Rasmus Nicolaisen",
-    "Squad": "Toulouse",
-    "sub_position": "Centre-Back",
-    "Min": 2654,
-    "market_value_in_eur": 5000000,
-    "final_rating": 44.1
-  },
-  {
-    "Player": "Fabian Schär",
-    "Squad": "Newcastle United",
-    "sub_position": "Centre-Back",
-    "Min": 1091,
-    "market_value_in_eur": 4000000,
-    "final_rating": 43.9
-  },
-  {
-    "Player": "Abdul Mumin",
-    "Squad": "Rayo Vallecano",
-    "sub_position": "Centre-Back",
-    "Min": 79,
-    "market_value_in_eur": 3000000,
-    "final_rating": 43.2
-  },
-  {
-    "Player": "Ladislav Krejčí",
-    "Squad": "Wolves",
-    "sub_position": "Centre-Back",
-    "Min": 2536,
-    "market_value_in_eur": 22000000,
-    "final_rating": 43.2
-  },
-  {
-    "Player": "Martin Vitík",
-    "Squad": "Bologna",
-    "sub_position": "Centre-Back",
-    "Min": 1325,
-    "market_value_in_eur": 13000000,
-    "final_rating": 43.2
-  },
-  {
-    "Player": "Cas Odenthal",
-    "Squad": "Sassuolo",
-    "sub_position": "Centre-Back",
-    "Min": 1,
-    "market_value_in_eur": 1500000,
-    "final_rating": 42.1
-  },
-  {
-    "Player": "Mark McKenzie",
-    "Squad": "Toulouse",
-    "sub_position": "Centre-Back",
-    "Min": 2494,
-    "market_value_in_eur": 7000000,
-    "final_rating": 42.1
-  },
-  {
-    "Player": "Noham Kamara",
-    "Squad": "Lyon",
-    "sub_position": "Centre-Back",
-    "Min": 7,
-    "market_value_in_eur": 3000000,
-    "final_rating": 42.1
-  },
-  {
-    "Player": "Philipp Lienhart",
-    "Squad": "Freiburg",
-    "sub_position": "Centre-Back",
-    "Min": 1302,
-    "market_value_in_eur": 10000000,
-    "final_rating": 42.1
-  },
-  {
-    "Player": "Víctor Chust",
-    "Squad": "Elche",
-    "sub_position": "Centre-Back",
-    "Min": 2166,
-    "market_value_in_eur": 3500000,
-    "final_rating": 42.1
-  },
-  {
-    "Player": "Enzo Boyomo",
-    "Squad": "Osasuna",
-    "sub_position": "Centre-Back",
-    "Min": 2542,
-    "market_value_in_eur": 15000000,
-    "final_rating": 41.9
-  },
-  {
-    "Player": "Patrick Mainka",
-    "Squad": "Heidenheim",
-    "sub_position": "Centre-Back",
-    "Min": 3060,
-    "market_value_in_eur": 2500000,
-    "final_rating": 41.6
-  },
-  {
-    "Player": "Mick Schmetgens",
-    "Squad": "Werder Bremen",
-    "sub_position": "Centre-Back",
-    "Min": 37,
-    "market_value_in_eur": 700000,
-    "final_rating": 41.2
-  },
-  {
-    "Player": "Sead Kolašinac",
-    "Squad": "Atalanta",
-    "sub_position": "Centre-Back",
-    "Min": 1212,
-    "market_value_in_eur": 4000000,
-    "final_rating": 41.2
-  },
-  {
-    "Player": "Abdelhamid Ait Boudlal",
-    "Squad": "Rennes",
-    "sub_position": "Centre-Back",
-    "Min": 1403,
-    "market_value_in_eur": 12000000,
-    "final_rating": 41
-  },
-  {
-    "Player": "Benedikt Gimber",
-    "Squad": "Heidenheim",
-    "sub_position": "Centre-Back",
-    "Min": 1436,
-    "market_value_in_eur": 1500000,
-    "final_rating": 40.7
-  },
-  {
-    "Player": "Derek Cornelius",
-    "Squad": "Marseille",
-    "sub_position": "Centre-Back",
-    "Min": 58,
-    "market_value_in_eur": 2500000,
-    "final_rating": 40.5
-  },
-  {
-    "Player": "Joachim Andersen",
-    "Squad": "Fulham",
-    "sub_position": "Centre-Back",
-    "Min": 2875,
-    "market_value_in_eur": 20000000,
-    "final_rating": 40.3
-  },
-  {
-    "Player": "Pedro Felipe",
-    "Squad": "Sassuolo",
-    "sub_position": "Centre-Back",
-    "Min": 129,
-    "market_value_in_eur": 1500000,
-    "final_rating": 40
-  },
-  {
-    "Player": "Hiroki Ito",
-    "Squad": "Bayern Munich",
-    "sub_position": "Centre-Back",
-    "Min": 920,
-    "market_value_in_eur": 18000000,
-    "final_rating": 39.8
-  },
-  {
-    "Player": "Alan Matturro",
-    "Squad": "Levante",
-    "sub_position": "Centre-Back",
-    "Min": 947,
-    "market_value_in_eur": 4000000,
-    "final_rating": 39.4
-  },
-  {
-    "Player": "El Chadaille Bitshiabu",
-    "Squad": "RB Leipzig",
-    "sub_position": "Centre-Back",
-    "Min": 655,
-    "market_value_in_eur": 18000000,
-    "final_rating": 39.4
-  },
-  {
-    "Player": "Anthony Jung",
-    "Squad": "Freiburg",
-    "sub_position": "Centre-Back",
-    "Min": 526,
-    "market_value_in_eur": 600000,
-    "final_rating": 39.1
-  },
-  {
-    "Player": "Lisandro Martínez",
-    "Squad": "Manchester Utd",
-    "sub_position": "Centre-Back",
-    "Min": 1233,
-    "market_value_in_eur": 40000000,
-    "final_rating": 38.9
-  },
-  {
-    "Player": "Gabriel Osho",
-    "Squad": "Auxerre",
-    "sub_position": "Centre-Back",
-    "Min": 134,
-    "market_value_in_eur": 3000000,
-    "final_rating": 38.5
-  },
-  {
-    "Player": "Seny Koumbassa",
-    "Squad": "Toulouse",
-    "sub_position": "Centre-Back",
-    "Min": 534,
-    "market_value_in_eur": 5000000,
-    "final_rating": 38.5
-  },
-  {
-    "Player": "Chancel Mbemba",
-    "Squad": "Lille",
-    "sub_position": "Centre-Back",
-    "Min": 954,
-    "market_value_in_eur": 2000000,
-    "final_rating": 37.8
-  },
-  {
-    "Player": "Francesco Coppola",
-    "Squad": "Pisa",
-    "sub_position": "Centre-Back",
-    "Min": 458,
-    "market_value_in_eur": 3500000,
-    "final_rating": 37.8
-  },
-  {
-    "Player": "Fábio Cardoso",
-    "Squad": "Sevilla",
-    "sub_position": "Centre-Back",
-    "Min": 295,
-    "market_value_in_eur": 1500000,
-    "final_rating": 37.8
-  },
-  {
-    "Player": "Gaby Jean",
-    "Squad": "Lecce",
-    "sub_position": "Centre-Back",
-    "Min": 197,
-    "market_value_in_eur": 1500000,
-    "final_rating": 37.6
-  },
-  {
-    "Player": "Stefan Bell",
-    "Squad": "Mainz 05",
-    "sub_position": "Centre-Back",
-    "Min": 1039,
-    "market_value_in_eur": 600000,
-    "final_rating": 37.3
-  },
-  {
-    "Player": "Jean-Philippe Gbamin",
-    "Squad": "Metz",
-    "sub_position": "Centre-Back",
-    "Min": 2485,
-    "market_value_in_eur": 2000000,
-    "final_rating": 36.9
-  },
-  {
-    "Player": "Samir Chergui",
-    "Squad": "Paris FC",
-    "sub_position": "Centre-Back",
-    "Min": 1154,
-    "market_value_in_eur": 3000000,
-    "final_rating": 36.9
-  },
-  {
-    "Player": "Filippo Romagna",
-    "Squad": "Sassuolo",
-    "sub_position": "Centre-Back",
-    "Min": 313,
-    "market_value_in_eur": 800000,
-    "final_rating": 36.4
-  },
-  {
-    "Player": "Tosin Adarabioyo",
-    "Squad": "Chelsea",
-    "sub_position": "Centre-Back",
-    "Min": 795,
-    "market_value_in_eur": 16000000,
-    "final_rating": 36.4
-  },
-  {
-    "Player": "Carlos Dominguez",
-    "Squad": "Celta Vigo",
-    "sub_position": "Centre-Back",
-    "Min": 610,
-    "market_value_in_eur": 2000000,
-    "final_rating": 36.2
-  },
-  {
-    "Player": "Edoardo Goldaniga",
-    "Squad": "Como",
-    "sub_position": "Centre-Back",
-    "Min": 15,
-    "market_value_in_eur": 2000000,
-    "final_rating": 35.7
-  },
-  {
-    "Player": "Eric Smith",
-    "Squad": "St Pauli",
-    "sub_position": "Centre-Back",
-    "Min": 2311,
-    "market_value_in_eur": 5000000,
-    "final_rating": 35.7
-  },
-  {
-    "Player": "Carl Starfelt",
-    "Squad": "Celta Vigo",
-    "sub_position": "Centre-Back",
-    "Min": 1491,
-    "market_value_in_eur": 4500000,
-    "final_rating": 35.5
-  },
-  {
-    "Player": "Eric Bailly",
-    "Squad": "Oviedo",
-    "sub_position": "Centre-Back",
-    "Min": 1234,
-    "market_value_in_eur": 1200000,
-    "final_rating": 35.1
-  },
-  {
-    "Player": "Rav van den Berg",
+    "Player": "Jahmai Simpson-Pusey",
     "Squad": "Köln",
     "sub_position": "Centre-Back",
-    "Min": 1131,
-    "market_value_in_eur": 7000000,
-    "final_rating": 35.1
-  },
-  {
-    "Player": "Pierre Kalulu",
-    "Squad": "Juventus",
-    "sub_position": "Centre-Back",
-    "Min": 3281,
-    "market_value_in_eur": 32000000,
-    "final_rating": 34.8
-  },
-  {
-    "Player": "Ibrahima Konaté",
-    "Squad": "Liverpool",
-    "sub_position": "Centre-Back",
-    "Min": 3090,
-    "market_value_in_eur": 45000000,
-    "final_rating": 34.6
-  },
-  {
-    "Player": "Federico Gattoni",
-    "Squad": "Sevilla",
-    "sub_position": "Centre-Back",
-    "Min": 10,
-    "market_value_in_eur": 800000,
-    "final_rating": 33.9
-  },
-  {
-    "Player": "Joseph Aidoo",
-    "Squad": "Celta Vigo",
-    "sub_position": "Centre-Back",
-    "Min": 639,
-    "market_value_in_eur": 1000000,
-    "final_rating": 33.9
-  },
-  {
-    "Player": "Sebastián Boselli",
-    "Squad": "Getafe",
-    "sub_position": "Centre-Back",
-    "Min": 380,
-    "market_value_in_eur": 1500000,
-    "final_rating": 33.9
-  },
-  {
-    "Player": "Nathan Collins",
-    "Squad": "Brentford",
-    "sub_position": "Centre-Back",
-    "Min": 2975,
-    "market_value_in_eur": 30000000,
-    "final_rating": 33.7
-  },
-  {
-    "Player": "Hjalmar Ekdal",
-    "Squad": "Burnley",
-    "sub_position": "Centre-Back",
-    "Min": 1539,
-    "market_value_in_eur": 5000000,
-    "final_rating": 33.3
-  },
-  {
-    "Player": "Jamaal Lascelles",
-    "Squad": "Newcastle United",
-    "sub_position": "Centre-Back",
-    "Min": 21,
-    "market_value_in_eur": 2000000,
-    "final_rating": 33.3
-  },
-  {
-    "Player": "Andreas Hanche-Olsen",
-    "Squad": "Mainz 05",
-    "sub_position": "Centre-Back",
-    "Min": 851,
-    "market_value_in_eur": 3500000,
-    "final_rating": 33
-  },
-  {
-    "Player": "Clément Lenglet",
-    "Squad": "Atlético Madrid",
-    "sub_position": "Centre-Back",
-    "Min": 1391,
-    "market_value_in_eur": 4000000,
-    "final_rating": 32.6
-  },
-  {
-    "Player": "Mariano Troilo",
-    "Squad": "Parma",
-    "sub_position": "Centre-Back",
-    "Min": 1625,
-    "market_value_in_eur": 10000000,
-    "final_rating": 32.6
-  },
-  {
-    "Player": "Raúl Albiol",
-    "Squad": "Pisa",
-    "sub_position": "Centre-Back",
-    "Min": 500,
-    "market_value_in_eur": 700000,
-    "final_rating": 32.4
-  },
-  {
-    "Player": "Manu Fernández",
-    "Squad": "Celta Vigo",
-    "sub_position": "Centre-Back",
-    "Min": 758,
-    "market_value_in_eur": 1500000,
-    "final_rating": 32.1
-  },
-  {
-    "Player": "Benjamin Pavard",
-    "Squad": "Marseille",
-    "sub_position": "Centre-Back",
-    "Min": 2018,
-    "market_value_in_eur": 12000000,
-    "final_rating": 31.7
-  },
-  {
-    "Player": "Daniel Denoon",
-    "Squad": "Pisa",
-    "sub_position": "Centre-Back",
-    "Min": 122,
-    "market_value_in_eur": 500000,
-    "final_rating": 31.7
-  },
-  {
-    "Player": "Fali Candé",
-    "Squad": "Sassuolo",
-    "sub_position": "Centre-Back",
-    "Min": 509,
-    "market_value_in_eur": 3000000,
-    "final_rating": 31.4
-  },
-  {
-    "Player": "Adam Kölle",
-    "Squad": "Heidenheim",
-    "sub_position": "Centre-Back",
-    "Min": 93,
-    "market_value_in_eur": 1000000,
-    "final_rating": 30.5
-  },
-  {
-    "Player": "Brendan Chardonnet",
-    "Squad": "Brest",
-    "sub_position": "Centre-Back",
-    "Min": 2546,
-    "market_value_in_eur": 4000000,
-    "final_rating": 30.5
-  },
-  {
-    "Player": "Omar Alderete",
-    "Squad": "Sunderland",
-    "sub_position": "Centre-Back",
-    "Min": 2798,
-    "market_value_in_eur": 13000000,
-    "final_rating": 30.5
-  },
-  {
-    "Player": "Torbjørn Heggem",
-    "Squad": "Bologna",
-    "sub_position": "Centre-Back",
-    "Min": 2113,
-    "market_value_in_eur": 13000000,
-    "final_rating": 30.5
-  },
-  {
-    "Player": "Lukas Klostermann",
-    "Squad": "RB Leipzig",
-    "sub_position": "Centre-Back",
-    "Min": 95,
-    "market_value_in_eur": 3500000,
-    "final_rating": 30.1
-  },
-  {
-    "Player": "Nicolas Cozza",
-    "Squad": "Nantes",
-    "sub_position": "Centre-Back",
-    "Min": 2391,
-    "market_value_in_eur": 2500000,
-    "final_rating": 30.1
-  },
-  {
-    "Player": "Bashir Humphreys",
-    "Squad": "Burnley",
-    "sub_position": "Centre-Back",
-    "Min": 1578,
-    "market_value_in_eur": 12000000,
-    "final_rating": 29.4
-  },
-  {
-    "Player": "Federico Gatti",
-    "Squad": "Juventus",
-    "sub_position": "Centre-Back",
-    "Min": 1093,
-    "market_value_in_eur": 14000000,
-    "final_rating": 29.4
-  },
-  {
-    "Player": "Shafiq Nandja",
-    "Squad": "Hamburger SV",
-    "sub_position": "Centre-Back",
-    "Min": 15,
-    "market_value_in_eur": 500000,
-    "final_rating": 29.4
-  },
-  {
-    "Player": "Sam Beukema",
-    "Squad": "Napoli",
-    "sub_position": "Centre-Back",
-    "Min": 1681,
-    "market_value_in_eur": 22000000,
-    "final_rating": 29.2
-  },
-  {
-    "Player": "Filippo Mane",
-    "Squad": "Dortmund",
-    "sub_position": "Centre-Back",
-    "Min": 131,
-    "market_value_in_eur": 2500000,
-    "final_rating": 29
-  },
-  {
-    "Player": "Matteo Bianchetti",
-    "Squad": "Cremonese",
-    "sub_position": "Centre-Back",
-    "Min": 2192,
-    "market_value_in_eur": 800000,
-    "final_rating": 28.7
-  },
-  {
-    "Player": "Luke O'Nien",
-    "Squad": "Sunderland",
-    "sub_position": "Centre-Back",
-    "Min": 569,
-    "market_value_in_eur": 700000,
-    "final_rating": 28.3
+    "Min": 863,
+    "market_value_in_eur": 9000000,
+    "final_rating": 43.7
   },
   {
     "Player": "Nobel Mendy",
@@ -9146,615 +8602,31 @@ const playerRatingsMaster = [
     "sub_position": "Centre-Back",
     "Min": 1797,
     "market_value_in_eur": 7500000,
-    "final_rating": 28.3
+    "final_rating": 43.7
   },
   {
-    "Player": "CJ Egan-Riley",
-    "Squad": "Marseille",
+    "Player": "Tosin Adarabioyo",
+    "Squad": "Chelsea",
     "sub_position": "Centre-Back",
-    "Min": 624,
-    "market_value_in_eur": 9000000,
-    "final_rating": 27.8
+    "Min": 795,
+    "market_value_in_eur": 16000000,
+    "final_rating": 43.4
   },
   {
-    "Player": "Chadi Riad",
-    "Squad": "Crystal Palace",
+    "Player": "Daniel Elfadli",
+    "Squad": "Hamburger SV",
     "sub_position": "Centre-Back",
-    "Min": 552,
-    "market_value_in_eur": 15000000,
-    "final_rating": 27.8
-  },
-  {
-    "Player": "Jaka Bijol",
-    "Squad": "Leeds United",
-    "sub_position": "Centre-Back",
-    "Min": 1890,
-    "market_value_in_eur": 20000000,
-    "final_rating": 27.6
-  },
-  {
-    "Player": "Jenson Seelt",
-    "Squad": "Wolfsburg",
-    "sub_position": "Centre-Back",
-    "Min": 815,
-    "market_value_in_eur": 5000000,
-    "final_rating": 27.1
-  },
-  {
-    "Player": "Ramon Hendriks",
-    "Squad": "Stuttgart",
-    "sub_position": "Centre-Back",
-    "Min": 2025,
-    "market_value_in_eur": 25000000,
-    "final_rating": 27.1
-  },
-  {
-    "Player": "Luca Ranieri",
-    "Squad": "Fiorentina",
-    "sub_position": "Centre-Back",
-    "Min": 2458,
-    "market_value_in_eur": 6000000,
-    "final_rating": 26.9
-  },
-  {
-    "Player": "Igor Zubeldia",
-    "Squad": "Real Sociedad",
-    "sub_position": "Centre-Back",
-    "Min": 2082,
-    "market_value_in_eur": 6000000,
-    "final_rating": 26.7
-  },
-  {
-    "Player": "Danny da Costa",
-    "Squad": "Mainz 05",
-    "sub_position": "Centre-Back",
-    "Min": 2695,
-    "market_value_in_eur": 1200000,
-    "final_rating": 25.6
-  },
-  {
-    "Player": "Eric Dier",
-    "Squad": "Monaco",
-    "sub_position": "Centre-Back",
-    "Min": 688,
-    "market_value_in_eur": 4000000,
-    "final_rating": 25.6
-  },
-  {
-    "Player": "Jay Idzes",
-    "Squad": "Sassuolo",
-    "sub_position": "Centre-Back",
-    "Min": 3061,
-    "market_value_in_eur": 14000000,
-    "final_rating": 25.6
-  },
-  {
-    "Player": "Matías Pérez",
-    "Squad": "Lecce",
-    "sub_position": "Centre-Back",
-    "Min": 31,
-    "market_value_in_eur": 500000,
-    "final_rating": 25.6
-  },
-  {
-    "Player": "Ramy Bensebaini",
-    "Squad": "Dortmund",
-    "sub_position": "Centre-Back",
-    "Min": 1530,
-    "market_value_in_eur": 7000000,
-    "final_rating": 25.6
-  },
-  {
-    "Player": "Amir Rrahmani",
-    "Squad": "Napoli",
-    "sub_position": "Centre-Back",
-    "Min": 1795,
-    "market_value_in_eur": 10000000,
-    "final_rating": 25.3
-  },
-  {
-    "Player": "Dan Burn",
-    "Squad": "Newcastle United",
-    "sub_position": "Centre-Back",
-    "Min": 2199,
-    "market_value_in_eur": 4000000,
-    "final_rating": 24.7
-  },
-  {
-    "Player": "Javi Rodríguez",
-    "Squad": "Celta Vigo",
-    "sub_position": "Centre-Back",
-    "Min": 2558,
-    "market_value_in_eur": 18000000,
-    "final_rating": 24.7
-  },
-  {
-    "Player": "Nathan Aké",
-    "Squad": "Manchester City",
-    "sub_position": "Centre-Back",
-    "Min": 695,
-    "market_value_in_eur": 12000000,
-    "final_rating": 24.7
-  },
-  {
-    "Player": "Axel Disasi",
-    "Squad": "West Ham United",
-    "sub_position": "Centre-Back",
-    "Min": 1254,
-    "market_value_in_eur": 15000000,
-    "final_rating": 24.4
-  },
-  {
-    "Player": "Harry Maguire",
-    "Squad": "Manchester Utd",
-    "sub_position": "Centre-Back",
-    "Min": 1653,
-    "market_value_in_eur": 8000000,
-    "final_rating": 24.2
-  },
-  {
-    "Player": "Dean Huijsen",
-    "Squad": "Real Madrid",
-    "sub_position": "Centre-Back",
-    "Min": 2034,
-    "market_value_in_eur": 60000000,
-    "final_rating": 23.8
-  },
-  {
-    "Player": "Koni De Winter",
-    "Squad": "Milan",
-    "sub_position": "Centre-Back",
-    "Min": 1800,
-    "market_value_in_eur": 23000000,
-    "final_rating": 23.8
-  },
-  {
-    "Player": "Christopher Wooh",
-    "Squad": "Rennes",
-    "sub_position": "Centre-Back",
-    "Min": 64,
-    "market_value_in_eur": 5000000,
-    "final_rating": 23.5
-  },
-  {
-    "Player": "Alessandro Circati",
-    "Squad": "Parma",
-    "sub_position": "Centre-Back",
-    "Min": 2664,
-    "market_value_in_eur": 12000000,
-    "final_rating": 23.1
-  },
-  {
-    "Player": "Lloyd Kelly",
-    "Squad": "Juventus",
-    "sub_position": "Centre-Back",
-    "Min": 2996,
-    "market_value_in_eur": 23000000,
-    "final_rating": 23.1
-  },
-  {
-    "Player": "Pascal Struijk",
-    "Squad": "Leeds United",
-    "sub_position": "Centre-Back",
-    "Min": 2936,
-    "market_value_in_eur": 22000000,
-    "final_rating": 22.9
-  },
-  {
-    "Player": "Tanguy Nianzou",
-    "Squad": "Sevilla",
-    "sub_position": "Centre-Back",
-    "Min": 655,
-    "market_value_in_eur": 1200000,
-    "final_rating": 22.6
-  },
-  {
-    "Player": "Charlie Cresswell",
-    "Squad": "Toulouse",
-    "sub_position": "Centre-Back",
-    "Min": 2533,
-    "market_value_in_eur": 25000000,
-    "final_rating": 21.9
-  },
-  {
-    "Player": "Duje Ćaleta-Car",
-    "Squad": "Real Sociedad",
-    "sub_position": "Centre-Back",
-    "Min": 2150,
-    "market_value_in_eur": 2800000,
-    "final_rating": 21.9
-  },
-  {
-    "Player": "Moussa Niakhate",
-    "Squad": "Lyon",
-    "sub_position": "Centre-Back",
-    "Min": 2759,
-    "market_value_in_eur": 15000000,
-    "final_rating": 21.9
-  },
-  {
-    "Player": "Christian Kabasele",
-    "Squad": "Udinese",
-    "sub_position": "Centre-Back",
-    "Min": 2247,
-    "market_value_in_eur": 750000,
-    "final_rating": 21.5
-  },
-  {
-    "Player": "Ismaël Doukouré",
-    "Squad": "Strasbourg",
-    "sub_position": "Centre-Back",
-    "Min": 2072,
-    "market_value_in_eur": 20000000,
-    "final_rating": 21.5
-  },
-  {
-    "Player": "Emmanuel Biumla",
-    "Squad": "Angers",
-    "sub_position": "Centre-Back",
-    "Min": 387,
-    "market_value_in_eur": 2500000,
-    "final_rating": 21.3
-  },
-  {
-    "Player": "Alessio Romagnoli",
-    "Squad": "Lazio",
-    "sub_position": "Centre-Back",
-    "Min": 2666,
-    "market_value_in_eur": 6000000,
-    "final_rating": 20.4
-  },
-  {
-    "Player": "Marquinhos",
-    "Squad": "Paris Saint-Germain",
-    "sub_position": "Centre-Back",
-    "Min": 1052,
-    "market_value_in_eur": 28000000,
-    "final_rating": 20.4
-  },
-  {
-    "Player": "Moritz Jenz",
-    "Squad": "Wolfsburg",
-    "sub_position": "Centre-Back",
-    "Min": 1787,
-    "market_value_in_eur": 5000000,
-    "final_rating": 20.4
-  },
-  {
-    "Player": "Rúben Dias",
-    "Squad": "Manchester City",
-    "sub_position": "Centre-Back",
-    "Min": 2141,
-    "market_value_in_eur": 55000000,
-    "final_rating": 20.4
-  },
-  {
-    "Player": "Ezra Mayers",
-    "Squad": "West Ham United",
-    "sub_position": "Centre-Back",
-    "Min": 117,
-    "market_value_in_eur": 2000000,
-    "final_rating": 20.1
-  },
-  {
-    "Player": "Francesco Acerbi",
-    "Squad": "Inter",
-    "sub_position": "Centre-Back",
-    "Min": 1378,
-    "market_value_in_eur": 2000000,
-    "final_rating": 19.9
-  },
-  {
-    "Player": "Dominique Heintz",
-    "Squad": "Köln",
-    "sub_position": "Centre-Back",
-    "Min": 382,
-    "market_value_in_eur": 600000,
-    "final_rating": 19.7
-  },
-  {
-    "Player": "Diego Carlos",
-    "Squad": "Como",
-    "sub_position": "Centre-Back",
-    "Min": 1949,
-    "market_value_in_eur": 5000000,
-    "final_rating": 19.2
-  },
-  {
-    "Player": "Yerry Mina",
-    "Squad": "Cagliari",
-    "sub_position": "Centre-Back",
-    "Min": 2150,
-    "market_value_in_eur": 2500000,
-    "final_rating": 19.2
-  },
-  {
-    "Player": "Denis Vavro",
-    "Squad": "Wolfsburg",
-    "sub_position": "Centre-Back",
-    "Min": 1176,
-    "market_value_in_eur": 5000000,
-    "final_rating": 19
-  },
-  {
-    "Player": "Dante",
-    "Squad": "Nice",
-    "sub_position": "Centre-Back",
-    "Min": 849,
-    "market_value_in_eur": 500000,
-    "final_rating": 18.6
-  },
-  {
-    "Player": "Ramón Martínez",
-    "Squad": "Sevilla",
-    "sub_position": "Centre-Back",
-    "Min": 102,
-    "market_value_in_eur": 1000000,
-    "final_rating": 18.6
-  },
-  {
-    "Player": "Joe Worrall",
-    "Squad": "Burnley",
-    "sub_position": "Centre-Back",
-    "Min": 500,
-    "market_value_in_eur": 2000000,
-    "final_rating": 18.1
-  },
-  {
-    "Player": "Nathaniel Adjei",
-    "Squad": "Lorient",
-    "sub_position": "Centre-Back",
-    "Min": 835,
-    "market_value_in_eur": 1500000,
-    "final_rating": 18.1
-  },
-  {
-    "Player": "Nils Zätterström",
-    "Squad": "Genoa",
-    "sub_position": "Centre-Back",
-    "Min": 181,
-    "market_value_in_eur": 3500000,
-    "final_rating": 17.9
-  },
-  {
-    "Player": "Andrew Omobamidele",
-    "Squad": "Strasbourg",
-    "sub_position": "Centre-Back",
-    "Min": 1357,
-    "market_value_in_eur": 8000000,
-    "final_rating": 17.6
-  },
-  {
-    "Player": "Timothée Kolodziejczak",
-    "Squad": "Paris FC",
-    "sub_position": "Centre-Back",
-    "Min": 662,
-    "market_value_in_eur": 150000,
-    "final_rating": 17.4
-  },
-  {
-    "Player": "Montassar Talbi",
-    "Squad": "Lorient",
-    "sub_position": "Centre-Back",
-    "Min": 2610,
-    "market_value_in_eur": 8000000,
-    "final_rating": 17
-  },
-  {
-    "Player": "Willy Kambwala",
-    "Squad": "Villarreal",
-    "sub_position": "Centre-Back",
-    "Min": 86,
+    "Min": 1253,
     "market_value_in_eur": 3000000,
-    "final_rating": 17
+    "final_rating": 43
   },
   {
-    "Player": "Strahinja Pavlović",
-    "Squad": "Milan",
+    "Player": "Saúl Coco",
+    "Squad": "Torino",
     "sub_position": "Centre-Back",
-    "Min": 2869,
-    "market_value_in_eur": 40000000,
-    "final_rating": 16.7
-  },
-  {
-    "Player": "Federico Ceccherini",
-    "Squad": "Cremonese",
-    "sub_position": "Centre-Back",
-    "Min": 476,
-    "market_value_in_eur": 400000,
-    "final_rating": 16.1
-  },
-  {
-    "Player": "Joe Rodon",
-    "Squad": "Leeds United",
-    "sub_position": "Centre-Back",
-    "Min": 2951,
-    "market_value_in_eur": 18000000,
-    "final_rating": 16.1
-  },
-  {
-    "Player": "William Saliba",
-    "Squad": "Arsenal",
-    "sub_position": "Centre-Back",
-    "Min": 2614,
-    "market_value_in_eur": 100000000,
-    "final_rating": 16.1
-  },
-  {
-    "Player": "Arturo Calabresi",
-    "Squad": "Pisa",
-    "sub_position": "Centre-Back",
-    "Min": 1514,
-    "market_value_in_eur": 800000,
-    "final_rating": 15.6
-  },
-  {
-    "Player": "Pau Torres",
-    "Squad": "Aston Villa",
-    "sub_position": "Centre-Back",
-    "Min": 1676,
-    "market_value_in_eur": 20000000,
-    "final_rating": 15.6
-  },
-  {
-    "Player": "Abakar Sylla",
-    "Squad": "Nantes",
-    "sub_position": "Centre-Back",
-    "Min": 67,
-    "market_value_in_eur": 2500000,
-    "final_rating": 15.2
-  },
-  {
-    "Player": "Yoel Lago",
-    "Squad": "Celta Vigo",
-    "sub_position": "Centre-Back",
-    "Min": 938,
-    "market_value_in_eur": 4000000,
-    "final_rating": 15.2
-  },
-  {
-    "Player": "Thomas Kristensen",
-    "Squad": "Udinese",
-    "sub_position": "Centre-Back",
-    "Min": 2472,
-    "market_value_in_eur": 12000000,
-    "final_rating": 14.9
-  },
-  {
-    "Player": "Lewis Dunk",
-    "Squad": "Brighton",
-    "sub_position": "Centre-Back",
-    "Min": 2838,
-    "market_value_in_eur": 3500000,
-    "final_rating": 14.7
-  },
-  {
-    "Player": "Alessandro Marcandalli",
-    "Squad": "Genoa",
-    "sub_position": "Centre-Back",
-    "Min": 2597,
-    "market_value_in_eur": 14000000,
-    "final_rating": 14.5
-  },
-  {
-    "Player": "Gabriel Magalhães",
-    "Squad": "Arsenal",
-    "sub_position": "Centre-Back",
-    "Min": 2751,
-    "market_value_in_eur": 75000000,
-    "final_rating": 14
-  },
-  {
-    "Player": "Luken Beitia",
-    "Squad": "Real Sociedad",
-    "sub_position": "Centre-Back",
-    "Min": 95,
-    "market_value_in_eur": 300000,
-    "final_rating": 14
-  },
-  {
-    "Player": "John Stones",
-    "Squad": "Manchester City",
-    "sub_position": "Centre-Back",
-    "Min": 439,
-    "market_value_in_eur": 12000000,
-    "final_rating": 13.6
-  },
-  {
-    "Player": "Mamadou Sarr",
-    "Squad": "Strasbourg",
-    "sub_position": "Centre-Back",
-    "Min": 1407,
-    "market_value_in_eur": 22000000,
-    "final_rating": 13.6
-  },
-  {
-    "Player": "Marcos Alonso",
-    "Squad": "Celta Vigo",
-    "sub_position": "Centre-Back",
-    "Min": 2768,
-    "market_value_in_eur": 1200000,
-    "final_rating": 13.3
-  },
-  {
-    "Player": "Renato Veiga",
-    "Squad": "Villarreal",
-    "sub_position": "Centre-Back",
-    "Min": 2481,
-    "market_value_in_eur": 25000000,
-    "final_rating": 13.1
-  },
-  {
-    "Player": "Sepp van den Berg",
-    "Squad": "Brentford",
-    "sub_position": "Centre-Back",
-    "Min": 2763,
-    "market_value_in_eur": 32000000,
-    "final_rating": 12.9
-  },
-  {
-    "Player": "David Alaba",
-    "Squad": "Real Madrid",
-    "sub_position": "Centre-Back",
-    "Min": 424,
-    "market_value_in_eur": 3000000,
-    "final_rating": 12.7
-  },
-  {
-    "Player": "Facundo Garcés",
-    "Squad": "Alavés",
-    "sub_position": "Centre-Back",
-    "Min": 793,
-    "market_value_in_eur": 1000000,
-    "final_rating": 12.4
-  },
-  {
-    "Player": "Bambo Diaby",
-    "Squad": "Elche",
-    "sub_position": "Centre-Back",
-    "Min": 102,
-    "market_value_in_eur": 300000,
-    "final_rating": 12
-  },
-  {
-    "Player": "Marin Pongračić",
-    "Squad": "Fiorentina",
-    "sub_position": "Centre-Back",
-    "Min": 2918,
-    "market_value_in_eur": 6500000,
-    "final_rating": 12
-  },
-  {
-    "Player": "Diego Coppola",
-    "Squad": "Paris FC",
-    "sub_position": "Centre-Back",
-    "Min": 1364,
-    "market_value_in_eur": 18000000,
-    "final_rating": 11.8
-  },
-  {
-    "Player": "Soumaïla Coulibaly",
-    "Squad": "Brest",
-    "sub_position": "Centre-Back",
-    "Min": 1338,
-    "market_value_in_eur": 6000000,
-    "final_rating": 11.5
-  },
-  {
-    "Player": "David López",
-    "Squad": "Mallorca",
-    "sub_position": "Centre-Back",
-    "Min": 837,
-    "market_value_in_eur": 1200000,
-    "final_rating": 11.3
-  },
-  {
-    "Player": "Stephan Zagadou",
-    "Squad": "Le Havre",
-    "sub_position": "Centre-Back",
-    "Min": 495,
-    "market_value_in_eur": 4000000,
-    "final_rating": 11.1
+    "Min": 3088,
+    "market_value_in_eur": 7500000,
+    "final_rating": 43
   },
   {
     "Player": "Anthony Rouault",
@@ -9762,23 +8634,663 @@ const playerRatingsMaster = [
     "sub_position": "Centre-Back",
     "Min": 1724,
     "market_value_in_eur": 12000000,
-    "final_rating": 10.9
+    "final_rating": 42.5
   },
   {
-    "Player": "Francisco Sierralta",
+    "Player": "Arthur Chaves",
+    "Squad": "Augsburg",
+    "sub_position": "Centre-Back",
+    "Min": 1069,
+    "market_value_in_eur": 5000000,
+    "final_rating": 42.5
+  },
+  {
+    "Player": "Kevin Diks",
+    "Squad": "Gladbach",
+    "sub_position": "Centre-Back",
+    "Min": 2464,
+    "market_value_in_eur": 5000000,
+    "final_rating": 42.3
+  },
+  {
+    "Player": "Dan-Axel Zagadou",
+    "Squad": "Stuttgart",
+    "sub_position": "Centre-Back",
+    "Min": 209,
+    "market_value_in_eur": 2000000,
+    "final_rating": 42.1
+  },
+  {
+    "Player": "Edmond Tapsoba",
+    "Squad": "Leverkusen",
+    "sub_position": "Centre-Back",
+    "Min": 2575,
+    "market_value_in_eur": 35000000,
+    "final_rating": 41.4
+  },
+  {
+    "Player": "Michel Mboula",
+    "Squad": "Metz",
+    "sub_position": "Centre-Back",
+    "Min": 746,
+    "market_value_in_eur": 900000,
+    "final_rating": 41.4
+  },
+  {
+    "Player": "Niklas Süle",
+    "Squad": "Dortmund",
+    "sub_position": "Centre-Back",
+    "Min": 486,
+    "market_value_in_eur": 4000000,
+    "final_rating": 41.4
+  },
+  {
+    "Player": "Fali Candé",
+    "Squad": "Sassuolo",
+    "sub_position": "Centre-Back",
+    "Min": 509,
+    "market_value_in_eur": 3000000,
+    "final_rating": 41.2
+  },
+  {
+    "Player": "David Odogu",
+    "Squad": "Milan",
+    "sub_position": "Centre-Back",
+    "Min": 6,
+    "market_value_in_eur": 5000000,
+    "final_rating": 41
+  },
+  {
+    "Player": "Antoine Mendy",
+    "Squad": "Nice",
+    "sub_position": "Centre-Back",
+    "Min": 2097,
+    "market_value_in_eur": 10000000,
+    "final_rating": 40.7
+  },
+  {
+    "Player": "Mariano Troilo",
+    "Squad": "Parma",
+    "sub_position": "Centre-Back",
+    "Min": 1625,
+    "market_value_in_eur": 10000000,
+    "final_rating": 40.3
+  },
+  {
+    "Player": "Radu Drăgușin",
+    "Squad": "Tottenham Hotspur",
+    "sub_position": "Centre-Back",
+    "Min": 517,
+    "market_value_in_eur": 16000000,
+    "final_rating": 40.3
+  },
+  {
+    "Player": "Lewis Dunk",
+    "Squad": "Brighton",
+    "sub_position": "Centre-Back",
+    "Min": 2838,
+    "market_value_in_eur": 3500000,
+    "final_rating": 40
+  },
+  {
+    "Player": "Luca Marianucci",
+    "Squad": "Torino",
+    "sub_position": "Centre-Back",
+    "Min": 694,
+    "market_value_in_eur": 7000000,
+    "final_rating": 39.8
+  },
+  {
+    "Player": "Tim Siersleben",
+    "Squad": "Heidenheim",
+    "sub_position": "Centre-Back",
+    "Min": 1081,
+    "market_value_in_eur": 1800000,
+    "final_rating": 39.6
+  },
+  {
+    "Player": "Santiago Bueno",
+    "Squad": "Wolves",
+    "sub_position": "Centre-Back",
+    "Min": 2553,
+    "market_value_in_eur": 10000000,
+    "final_rating": 39.4
+  },
+  {
+    "Player": "David Costas",
+    "Squad": "Oviedo",
+    "sub_position": "Centre-Back",
+    "Min": 2066,
+    "market_value_in_eur": 1200000,
+    "final_rating": 38.9
+  },
+  {
+    "Player": "Zach Abbott",
+    "Squad": "Nottingham Forest",
+    "sub_position": "Centre-Back",
+    "Min": 164,
+    "market_value_in_eur": 4000000,
+    "final_rating": 38.9
+  },
+  {
+    "Player": "Abdoulaye Bamba",
+    "Squad": "Angers",
+    "sub_position": "Centre-Back",
+    "Min": 255,
+    "market_value_in_eur": 200000,
+    "final_rating": 38.7
+  },
+  {
+    "Player": "Antonio Caracciolo",
+    "Squad": "Pisa",
+    "sub_position": "Centre-Back",
+    "Min": 3073,
+    "market_value_in_eur": 800000,
+    "final_rating": 38.5
+  },
+  {
+    "Player": "Nicolas Cozza",
+    "Squad": "Nantes",
+    "sub_position": "Centre-Back",
+    "Min": 2391,
+    "market_value_in_eur": 2500000,
+    "final_rating": 38.2
+  },
+  {
+    "Player": "Christopher Wooh",
+    "Squad": "Rennes",
+    "sub_position": "Centre-Back",
+    "Min": 64,
+    "market_value_in_eur": 5000000,
+    "final_rating": 37.8
+  },
+  {
+    "Player": "Hauke Wahl",
+    "Squad": "St Pauli",
+    "sub_position": "Centre-Back",
+    "Min": 2592,
+    "market_value_in_eur": 1500000,
+    "final_rating": 37.8
+  },
+  {
+    "Player": "Joe Gomez",
+    "Squad": "Liverpool",
+    "sub_position": "Centre-Back",
+    "Min": 607,
+    "market_value_in_eur": 13000000,
+    "final_rating": 37.3
+  },
+  {
+    "Player": "Wout Faes",
+    "Squad": "Monaco",
+    "sub_position": "Centre-Back",
+    "Min": 1141,
+    "market_value_in_eur": 10000000,
+    "final_rating": 37.3
+  },
+  {
+    "Player": "Stephan Zagadou",
+    "Squad": "Le Havre",
+    "sub_position": "Centre-Back",
+    "Min": 495,
+    "market_value_in_eur": 4000000,
+    "final_rating": 37.1
+  },
+  {
+    "Player": "Guillermo Maripán",
+    "Squad": "Torino",
+    "sub_position": "Centre-Back",
+    "Min": 2145,
+    "market_value_in_eur": 2000000,
+    "final_rating": 36.2
+  },
+  {
+    "Player": "Leopold Querfeld",
+    "Squad": "Union Berlin",
+    "sub_position": "Centre-Back",
+    "Min": 2705,
+    "market_value_in_eur": 20000000,
+    "final_rating": 36.2
+  },
+  {
+    "Player": "Víctor Chust",
+    "Squad": "Elche",
+    "sub_position": "Centre-Back",
+    "Min": 2166,
+    "market_value_in_eur": 3500000,
+    "final_rating": 36.2
+  },
+  {
+    "Player": "Youssouf Ndayishimiye",
+    "Squad": "Nice",
+    "sub_position": "Centre-Back",
+    "Min": 72,
+    "market_value_in_eur": 7000000,
+    "final_rating": 36.2
+  },
+  {
+    "Player": "Koki Machida",
+    "Squad": "Hoffenheim",
+    "sub_position": "Centre-Back",
+    "Min": 44,
+    "market_value_in_eur": 6000000,
+    "final_rating": 35.5
+  },
+  {
+    "Player": "Ramon Hendriks",
+    "Squad": "Stuttgart",
+    "sub_position": "Centre-Back",
+    "Min": 2025,
+    "market_value_in_eur": 25000000,
+    "final_rating": 35.5
+  },
+  {
+    "Player": "Yerry Mina",
+    "Squad": "Cagliari",
+    "sub_position": "Centre-Back",
+    "Min": 2150,
+    "market_value_in_eur": 2500000,
+    "final_rating": 35.5
+  },
+  {
+    "Player": "James Tarkowski",
+    "Squad": "Everton",
+    "sub_position": "Centre-Back",
+    "Min": 3330,
+    "market_value_in_eur": 5000000,
+    "final_rating": 35.1
+  },
+  {
+    "Player": "Nils Zätterström",
+    "Squad": "Genoa",
+    "sub_position": "Centre-Back",
+    "Min": 181,
+    "market_value_in_eur": 3500000,
+    "final_rating": 35.1
+  },
+  {
+    "Player": "Ben Davies",
+    "Squad": "Tottenham Hotspur",
+    "sub_position": "Centre-Back",
+    "Min": 137,
+    "market_value_in_eur": 3000000,
+    "final_rating": 34.4
+  },
+  {
+    "Player": "Jorge Herrando",
+    "Squad": "Osasuna",
+    "sub_position": "Centre-Back",
+    "Min": 1600,
+    "market_value_in_eur": 3500000,
+    "final_rating": 34.4
+  },
+  {
+    "Player": "Marin Pongračić",
+    "Squad": "Fiorentina",
+    "sub_position": "Centre-Back",
+    "Min": 2918,
+    "market_value_in_eur": 6500000,
+    "final_rating": 34.4
+  },
+  {
+    "Player": "Antonio Rüdiger",
+    "Squad": "Real Madrid",
+    "sub_position": "Centre-Back",
+    "Min": 1490,
+    "market_value_in_eur": 6000000,
+    "final_rating": 34.2
+  },
+  {
+    "Player": "Andrew Omobamidele",
+    "Squad": "Strasbourg",
+    "sub_position": "Centre-Back",
+    "Min": 1357,
+    "market_value_in_eur": 8000000,
+    "final_rating": 33.9
+  },
+  {
+    "Player": "Virgil van Dijk",
+    "Squad": "Liverpool",
+    "sub_position": "Centre-Back",
+    "Min": 3420,
+    "market_value_in_eur": 15000000,
+    "final_rating": 33.7
+  },
+  {
+    "Player": "Clément Lenglet",
+    "Squad": "Atlético Madrid",
+    "sub_position": "Centre-Back",
+    "Min": 1391,
+    "market_value_in_eur": 4000000,
+    "final_rating": 33
+  },
+  {
+    "Player": "Lukas Klostermann",
+    "Squad": "RB Leipzig",
+    "sub_position": "Centre-Back",
+    "Min": 95,
+    "market_value_in_eur": 3500000,
+    "final_rating": 33
+  },
+  {
+    "Player": "Nicolás Valentini",
+    "Squad": "Hellas Verona",
+    "sub_position": "Centre-Back",
+    "Min": 1409,
+    "market_value_in_eur": 3000000,
+    "final_rating": 33
+  },
+  {
+    "Player": "Francesco Acerbi",
+    "Squad": "Inter",
+    "sub_position": "Centre-Back",
+    "Min": 1378,
+    "market_value_in_eur": 2000000,
+    "final_rating": 32.8
+  },
+  {
+    "Player": "David Alaba",
+    "Squad": "Real Madrid",
+    "sub_position": "Centre-Back",
+    "Min": 424,
+    "market_value_in_eur": 3000000,
+    "final_rating": 32.1
+  },
+  {
+    "Player": "Moïse Bombito",
+    "Squad": "Nice",
+    "sub_position": "Centre-Back",
+    "Min": 145,
+    "market_value_in_eur": 7000000,
+    "final_rating": 32.1
+  },
+  {
+    "Player": "Tyler Fredricson",
+    "Squad": "Manchester Utd",
+    "sub_position": "Centre-Back",
+    "Min": 3,
+    "market_value_in_eur": 3000000,
+    "final_rating": 32.1
+  },
+  {
+    "Player": "Marcos Alonso",
+    "Squad": "Celta Vigo",
+    "sub_position": "Centre-Back",
+    "Min": 2768,
+    "market_value_in_eur": 1200000,
+    "final_rating": 31.9
+  },
+  {
+    "Player": "Jeanuël Belocian",
+    "Squad": "Wolfsburg",
+    "sub_position": "Centre-Back",
+    "Min": 1546,
+    "market_value_in_eur": 12000000,
+    "final_rating": 31.7
+  },
+  {
+    "Player": "Aurele Amenda",
+    "Squad": "Eintracht Frankfurt",
+    "sub_position": "Centre-Back",
+    "Min": 1678,
+    "market_value_in_eur": 10000000,
+    "final_rating": 31.2
+  },
+  {
+    "Player": "Filippo Romagna",
+    "Squad": "Sassuolo",
+    "sub_position": "Centre-Back",
+    "Min": 313,
+    "market_value_in_eur": 800000,
+    "final_rating": 31.2
+  },
+  {
+    "Player": "Manu Fernández",
+    "Squad": "Celta Vigo",
+    "sub_position": "Centre-Back",
+    "Min": 758,
+    "market_value_in_eur": 1500000,
+    "final_rating": 31
+  },
+  {
+    "Player": "Abdul Mumin",
+    "Squad": "Rayo Vallecano",
+    "sub_position": "Centre-Back",
+    "Min": 79,
+    "market_value_in_eur": 3000000,
+    "final_rating": 30.8
+  },
+  {
+    "Player": "Gabriel Osho",
     "Squad": "Auxerre",
     "sub_position": "Centre-Back",
-    "Min": 861,
-    "market_value_in_eur": 1200000,
-    "final_rating": 10.6
+    "Min": 134,
+    "market_value_in_eur": 3000000,
+    "final_rating": 30.5
   },
   {
-    "Player": "Jon Pacheco",
-    "Squad": "Alavés",
+    "Player": "Luke O'Nien",
+    "Squad": "Sunderland",
     "sub_position": "Centre-Back",
-    "Min": 1735,
+    "Min": 569,
+    "market_value_in_eur": 700000,
+    "final_rating": 30.3
+  },
+  {
+    "Player": "Andreas Hanche-Olsen",
+    "Squad": "Mainz 05",
+    "sub_position": "Centre-Back",
+    "Min": 851,
+    "market_value_in_eur": 3500000,
+    "final_rating": 29.6
+  },
+  {
+    "Player": "Joe Rodon",
+    "Squad": "Leeds United",
+    "sub_position": "Centre-Back",
+    "Min": 2951,
+    "market_value_in_eur": 18000000,
+    "final_rating": 29.6
+  },
+  {
+    "Player": "Léo Pétrot",
+    "Squad": "Elche",
+    "sub_position": "Centre-Back",
+    "Min": 1572,
+    "market_value_in_eur": 1500000,
+    "final_rating": 29.6
+  },
+  {
+    "Player": "Dan Burn",
+    "Squad": "Newcastle United",
+    "sub_position": "Centre-Back",
+    "Min": 2199,
+    "market_value_in_eur": 4000000,
+    "final_rating": 29.4
+  },
+  {
+    "Player": "Chancel Mbemba",
+    "Squad": "Lille",
+    "sub_position": "Centre-Back",
+    "Min": 954,
+    "market_value_in_eur": 2000000,
+    "final_rating": 28.7
+  },
+  {
+    "Player": "Montassar Talbi",
+    "Squad": "Lorient",
+    "sub_position": "Centre-Back",
+    "Min": 2610,
+    "market_value_in_eur": 8000000,
+    "final_rating": 28.7
+  },
+  {
+    "Player": "Tomoya Ando",
+    "Squad": "St Pauli",
+    "sub_position": "Centre-Back",
+    "Min": 1260,
+    "market_value_in_eur": 3000000,
+    "final_rating": 28.7
+  },
+  {
+    "Player": "Abdelhamid Ait Boudlal",
+    "Squad": "Rennes",
+    "sub_position": "Centre-Back",
+    "Min": 1403,
+    "market_value_in_eur": 12000000,
+    "final_rating": 27.8
+  },
+  {
+    "Player": "Cassiano Kiala",
+    "Squad": "Bayern Munich",
+    "sub_position": "Centre-Back",
+    "Min": 1,
+    "market_value_in_eur": 2000000,
+    "final_rating": 27.8
+  },
+  {
+    "Player": "Christian Kabasele",
+    "Squad": "Udinese",
+    "sub_position": "Centre-Back",
+    "Min": 2247,
+    "market_value_in_eur": 750000,
+    "final_rating": 27.8
+  },
+  {
+    "Player": "Ladislav Krejčí",
+    "Squad": "Wolves",
+    "sub_position": "Centre-Back",
+    "Min": 2536,
+    "market_value_in_eur": 22000000,
+    "final_rating": 27.8
+  },
+  {
+    "Player": "Derek Cornelius",
+    "Squad": "Marseille",
+    "sub_position": "Centre-Back",
+    "Min": 58,
+    "market_value_in_eur": 2500000,
+    "final_rating": 27.4
+  },
+  {
+    "Player": "Rav van den Berg",
+    "Squad": "Köln",
+    "sub_position": "Centre-Back",
+    "Min": 1131,
+    "market_value_in_eur": 7000000,
+    "final_rating": 27.4
+  },
+  {
+    "Player": "Mick Schmetgens",
+    "Squad": "Werder Bremen",
+    "sub_position": "Centre-Back",
+    "Min": 37,
+    "market_value_in_eur": 700000,
+    "final_rating": 27.1
+  },
+  {
+    "Player": "Edoardo Goldaniga",
+    "Squad": "Como",
+    "sub_position": "Centre-Back",
+    "Min": 15,
+    "market_value_in_eur": 2000000,
+    "final_rating": 26.9
+  },
+  {
+    "Player": "Tobias Slotsager",
+    "Squad": "Hellas Verona",
+    "sub_position": "Centre-Back",
+    "Min": 446,
+    "market_value_in_eur": 3000000,
+    "final_rating": 26.7
+  },
+  {
+    "Player": "Eric Smith",
+    "Squad": "St Pauli",
+    "sub_position": "Centre-Back",
+    "Min": 2311,
     "market_value_in_eur": 5000000,
-    "final_rating": 10.4
+    "final_rating": 26.5
+  },
+  {
+    "Player": "Yeray Álvarez",
+    "Squad": "Athletic Club",
+    "sub_position": "Centre-Back",
+    "Min": 513,
+    "market_value_in_eur": 900000,
+    "final_rating": 26.2
+  },
+  {
+    "Player": "Cas Odenthal",
+    "Squad": "Sassuolo",
+    "sub_position": "Centre-Back",
+    "Min": 1,
+    "market_value_in_eur": 1500000,
+    "final_rating": 26
+  },
+  {
+    "Player": "Mattia Viti",
+    "Squad": "Fiorentina",
+    "sub_position": "Centre-Back",
+    "Min": 265,
+    "market_value_in_eur": 5000000,
+    "final_rating": 25.8
+  },
+  {
+    "Player": "Mouctar Diakhaby",
+    "Squad": "Valencia",
+    "sub_position": "Centre-Back",
+    "Min": 543,
+    "market_value_in_eur": 1500000,
+    "final_rating": 25.1
+  },
+  {
+    "Player": "Ruben Kluivert",
+    "Squad": "Lyon",
+    "sub_position": "Centre-Back",
+    "Min": 772,
+    "market_value_in_eur": 8000000,
+    "final_rating": 25.1
+  },
+  {
+    "Player": "Sebastian Otoa",
+    "Squad": "Genoa",
+    "sub_position": "Centre-Back",
+    "Min": 829,
+    "market_value_in_eur": 2500000,
+    "final_rating": 25.1
+  },
+  {
+    "Player": "Brendan Chardonnet",
+    "Squad": "Brest",
+    "sub_position": "Centre-Back",
+    "Min": 2546,
+    "market_value_in_eur": 4000000,
+    "final_rating": 24.2
+  },
+  {
+    "Player": "Jeffrey Gouweleeuw",
+    "Squad": "Augsburg",
+    "sub_position": "Centre-Back",
+    "Min": 848,
+    "market_value_in_eur": 1000000,
+    "final_rating": 24.2
+  },
+  {
+    "Player": "Kōta Takai",
+    "Squad": "Gladbach",
+    "sub_position": "Centre-Back",
+    "Min": 342,
+    "market_value_in_eur": 5000000,
+    "final_rating": 24.2
+  },
+  {
+    "Player": "Matteo Palma",
+    "Squad": "Udinese",
+    "sub_position": "Centre-Back",
+    "Min": 120,
+    "market_value_in_eur": 5000000,
+    "final_rating": 24.2
   },
   {
     "Player": "César Tárrega",
@@ -9786,7 +9298,223 @@ const playerRatingsMaster = [
     "sub_position": "Centre-Back",
     "Min": 2598,
     "market_value_in_eur": 9000000,
-    "final_rating": 10.2
+    "final_rating": 24
+  },
+  {
+    "Player": "Bashir Humphreys",
+    "Squad": "Burnley",
+    "sub_position": "Centre-Back",
+    "Min": 1578,
+    "market_value_in_eur": 12000000,
+    "final_rating": 23.8
+  },
+  {
+    "Player": "Ameen Al-Dakhil",
+    "Squad": "Stuttgart",
+    "sub_position": "Centre-Back",
+    "Min": 380,
+    "market_value_in_eur": 3000000,
+    "final_rating": 23.5
+  },
+  {
+    "Player": "Cedric Zesiger",
+    "Squad": "Augsburg",
+    "sub_position": "Centre-Back",
+    "Min": 1816,
+    "market_value_in_eur": 5000000,
+    "final_rating": 22.9
+  },
+  {
+    "Player": "Duje Ćaleta-Car",
+    "Squad": "Real Sociedad",
+    "sub_position": "Centre-Back",
+    "Min": 2150,
+    "market_value_in_eur": 2800000,
+    "final_rating": 22.9
+  },
+  {
+    "Player": "Filippo Mane",
+    "Squad": "Dortmund",
+    "sub_position": "Centre-Back",
+    "Min": 131,
+    "market_value_in_eur": 2500000,
+    "final_rating": 22.9
+  },
+  {
+    "Player": "Daniel Denoon",
+    "Squad": "Pisa",
+    "sub_position": "Centre-Back",
+    "Min": 122,
+    "market_value_in_eur": 500000,
+    "final_rating": 22.6
+  },
+  {
+    "Player": "David Carmo",
+    "Squad": "Oviedo",
+    "sub_position": "Centre-Back",
+    "Min": 1786,
+    "market_value_in_eur": 5000000,
+    "final_rating": 22.2
+  },
+  {
+    "Player": "Robin Hranáč",
+    "Squad": "Hoffenheim",
+    "sub_position": "Centre-Back",
+    "Min": 2251,
+    "market_value_in_eur": 10000000,
+    "final_rating": 22.2
+  },
+  {
+    "Player": "Seny Koumbassa",
+    "Squad": "Toulouse",
+    "sub_position": "Centre-Back",
+    "Min": 534,
+    "market_value_in_eur": 5000000,
+    "final_rating": 21.9
+  },
+  {
+    "Player": "Domingos Duarte",
+    "Squad": "Getafe",
+    "sub_position": "Centre-Back",
+    "Min": 2923,
+    "market_value_in_eur": 800000,
+    "final_rating": 21.5
+  },
+  {
+    "Player": "Noham Kamara",
+    "Squad": "Lyon",
+    "sub_position": "Centre-Back",
+    "Min": 7,
+    "market_value_in_eur": 3000000,
+    "final_rating": 21.5
+  },
+  {
+    "Player": "Federico Gattoni",
+    "Squad": "Sevilla",
+    "sub_position": "Centre-Back",
+    "Min": 10,
+    "market_value_in_eur": 800000,
+    "final_rating": 21
+  },
+  {
+    "Player": "Victor Lindelöf",
+    "Squad": "Aston Villa",
+    "sub_position": "Centre-Back",
+    "Min": 948,
+    "market_value_in_eur": 5000000,
+    "final_rating": 21
+  },
+  {
+    "Player": "Jon Pacheco",
+    "Squad": "Alavés",
+    "sub_position": "Centre-Back",
+    "Min": 1735,
+    "market_value_in_eur": 5000000,
+    "final_rating": 20.8
+  },
+  {
+    "Player": "Maxim Leitsch",
+    "Squad": "Mainz 05",
+    "sub_position": "Centre-Back",
+    "Min": 162,
+    "market_value_in_eur": 800000,
+    "final_rating": 20.4
+  },
+  {
+    "Player": "Raphael Le Guen",
+    "Squad": "Brest",
+    "sub_position": "Centre-Back",
+    "Min": 375,
+    "market_value_in_eur": 800000,
+    "final_rating": 20.4
+  },
+  {
+    "Player": "Yoel Lago",
+    "Squad": "Celta Vigo",
+    "sub_position": "Centre-Back",
+    "Min": 938,
+    "market_value_in_eur": 4000000,
+    "final_rating": 20.1
+  },
+  {
+    "Player": "Hjalmar Ekdal",
+    "Squad": "Burnley",
+    "sub_position": "Centre-Back",
+    "Min": 1539,
+    "market_value_in_eur": 5000000,
+    "final_rating": 19.7
+  },
+  {
+    "Player": "Igor Zubeldia",
+    "Squad": "Real Sociedad",
+    "sub_position": "Centre-Back",
+    "Min": 2082,
+    "market_value_in_eur": 6000000,
+    "final_rating": 19.7
+  },
+  {
+    "Player": "Alan Matturro",
+    "Squad": "Levante",
+    "sub_position": "Centre-Back",
+    "Min": 947,
+    "market_value_in_eur": 4000000,
+    "final_rating": 19
+  },
+  {
+    "Player": "Fábio Cardoso",
+    "Squad": "Sevilla",
+    "sub_position": "Centre-Back",
+    "Min": 295,
+    "market_value_in_eur": 1500000,
+    "final_rating": 19
+  },
+  {
+    "Player": "Matías Pérez",
+    "Squad": "Lecce",
+    "sub_position": "Centre-Back",
+    "Min": 31,
+    "market_value_in_eur": 500000,
+    "final_rating": 19
+  },
+  {
+    "Player": "Nathaniel Adjei",
+    "Squad": "Lorient",
+    "sub_position": "Centre-Back",
+    "Min": 835,
+    "market_value_in_eur": 1500000,
+    "final_rating": 18.8
+  },
+  {
+    "Player": "Bamo Meïté",
+    "Squad": "Lorient",
+    "sub_position": "Centre-Back",
+    "Min": 1979,
+    "market_value_in_eur": 7000000,
+    "final_rating": 18.6
+  },
+  {
+    "Player": "Carlos Dominguez",
+    "Squad": "Celta Vigo",
+    "sub_position": "Centre-Back",
+    "Min": 610,
+    "market_value_in_eur": 2000000,
+    "final_rating": 18.3
+  },
+  {
+    "Player": "Facundo Garcés",
+    "Squad": "Alavés",
+    "sub_position": "Centre-Back",
+    "Min": 793,
+    "market_value_in_eur": 1000000,
+    "final_rating": 17.9
+  },
+  {
+    "Player": "John Stones",
+    "Squad": "Manchester City",
+    "sub_position": "Centre-Back",
+    "Min": 439,
+    "market_value_in_eur": 12000000,
+    "final_rating": 17.9
   },
   {
     "Player": "Clemens Riedel",
@@ -9794,6 +9522,278 @@ const playerRatingsMaster = [
     "sub_position": "Centre-Back",
     "Min": 1396,
     "market_value_in_eur": 4000000,
+    "final_rating": 17.2
+  },
+  {
+    "Player": "Dani Calvo",
+    "Squad": "Oviedo",
+    "sub_position": "Centre-Back",
+    "Min": 1611,
+    "market_value_in_eur": 900000,
+    "final_rating": 17.2
+  },
+  {
+    "Player": "Ousmane Toure",
+    "Squad": "Lille",
+    "sub_position": "Centre-Back",
+    "Min": 51,
+    "market_value_in_eur": 500000,
+    "final_rating": 17.2
+  },
+  {
+    "Player": "Eric Bailly",
+    "Squad": "Oviedo",
+    "sub_position": "Centre-Back",
+    "Min": 1234,
+    "market_value_in_eur": 1200000,
+    "final_rating": 17
+  },
+  {
+    "Player": "Issa Diop",
+    "Squad": "Fulham",
+    "sub_position": "Centre-Back",
+    "Min": 816,
+    "market_value_in_eur": 8000000,
+    "final_rating": 16.5
+  },
+  {
+    "Player": "Matteo Bianchetti",
+    "Squad": "Cremonese",
+    "sub_position": "Centre-Back",
+    "Min": 2192,
+    "market_value_in_eur": 800000,
+    "final_rating": 16.5
+  },
+  {
+    "Player": "Adam Masina",
+    "Squad": "Torino",
+    "sub_position": "Centre-Back",
+    "Min": 235,
+    "market_value_in_eur": 1000000,
+    "final_rating": 16.3
+  },
+  {
+    "Player": "Julien Le Cardinal",
+    "Squad": "Brest",
+    "sub_position": "Centre-Back",
+    "Min": 328,
+    "market_value_in_eur": 1500000,
+    "final_rating": 16.1
+  },
+  {
+    "Player": "Samir Chergui",
+    "Squad": "Paris FC",
+    "sub_position": "Centre-Back",
+    "Min": 1154,
+    "market_value_in_eur": 3000000,
+    "final_rating": 15.8
+  },
+  {
+    "Player": "Clinton Mata",
+    "Squad": "Lyon",
+    "sub_position": "Centre-Back",
+    "Min": 2833,
+    "market_value_in_eur": 2500000,
+    "final_rating": 15.6
+  },
+  {
+    "Player": "Axel Tapé",
+    "Squad": "Leverkusen",
+    "sub_position": "Centre-Back",
+    "Min": 222,
+    "market_value_in_eur": 8000000,
+    "final_rating": 15.4
+  },
+  {
+    "Player": "Jenson Seelt",
+    "Squad": "Wolfsburg",
+    "sub_position": "Centre-Back",
+    "Min": 815,
+    "market_value_in_eur": 5000000,
+    "final_rating": 15.2
+  },
+  {
+    "Player": "Dante",
+    "Squad": "Nice",
+    "sub_position": "Centre-Back",
+    "Min": 849,
+    "market_value_in_eur": 500000,
+    "final_rating": 14.7
+  },
+  {
+    "Player": "Dominique Heintz",
+    "Squad": "Köln",
+    "sub_position": "Centre-Back",
+    "Min": 382,
+    "market_value_in_eur": 600000,
+    "final_rating": 14.7
+  },
+  {
+    "Player": "Patrick Mainka",
+    "Squad": "Heidenheim",
+    "sub_position": "Centre-Back",
+    "Min": 3060,
+    "market_value_in_eur": 2500000,
+    "final_rating": 14.5
+  },
+  {
+    "Player": "Karol Mets",
+    "Squad": "St Pauli",
+    "sub_position": "Centre-Back",
+    "Min": 1932,
+    "market_value_in_eur": 600000,
+    "final_rating": 14
+  },
+  {
+    "Player": "Marvin Friedrich",
+    "Squad": "Gladbach",
+    "sub_position": "Centre-Back",
+    "Min": 152,
+    "market_value_in_eur": 1800000,
+    "final_rating": 14
+  },
+  {
+    "Player": "Willy Kambwala",
+    "Squad": "Villarreal",
+    "sub_position": "Centre-Back",
+    "Min": 86,
+    "market_value_in_eur": 3000000,
+    "final_rating": 13.8
+  },
+  {
+    "Player": "Sebastiano Luperto",
+    "Squad": "Cagliari",
+    "sub_position": "Centre-Back",
+    "Min": 3013,
+    "market_value_in_eur": 4000000,
+    "final_rating": 13.6
+  },
+  {
+    "Player": "Aritz Elustondo",
+    "Squad": "Real Sociedad",
+    "sub_position": "Centre-Back",
+    "Min": 720,
+    "market_value_in_eur": 1500000,
+    "final_rating": 12.9
+  },
+  {
+    "Player": "Giovanni Bonfanti",
+    "Squad": "Pisa",
+    "sub_position": "Centre-Back",
+    "Min": 494,
+    "market_value_in_eur": 1000000,
+    "final_rating": 12.9
+  },
+  {
+    "Player": "Julián Malatini",
+    "Squad": "Werder Bremen",
+    "sub_position": "Centre-Back",
+    "Min": 516,
+    "market_value_in_eur": 2000000,
+    "final_rating": 12.9
+  },
+  {
+    "Player": "Danny da Costa",
+    "Squad": "Mainz 05",
+    "sub_position": "Centre-Back",
+    "Min": 2695,
+    "market_value_in_eur": 1200000,
+    "final_rating": 12
+  },
+  {
+    "Player": "Jamaal Lascelles",
+    "Squad": "Newcastle United",
+    "sub_position": "Centre-Back",
+    "Min": 21,
+    "market_value_in_eur": 2000000,
+    "final_rating": 12
+  },
+  {
+    "Player": "Kevin Akpoguma",
+    "Squad": "Hoffenheim",
+    "sub_position": "Centre-Back",
+    "Min": 61,
+    "market_value_in_eur": 1500000,
+    "final_rating": 12
+  },
+  {
+    "Player": "Patric",
+    "Squad": "Lazio",
+    "sub_position": "Centre-Back",
+    "Min": 667,
+    "market_value_in_eur": 1500000,
+    "final_rating": 12
+  },
+  {
+    "Player": "Pedro Felipe",
+    "Squad": "Sassuolo",
+    "sub_position": "Centre-Back",
+    "Min": 129,
+    "market_value_in_eur": 1500000,
+    "final_rating": 11.8
+  },
+  {
+    "Player": "Martin Valjent",
+    "Squad": "Mallorca",
+    "sub_position": "Centre-Back",
+    "Min": 3308,
+    "market_value_in_eur": 3000000,
+    "final_rating": 11.5
+  },
+  {
+    "Player": "Jamil Siebert",
+    "Squad": "Lecce",
+    "sub_position": "Centre-Back",
+    "Min": 1701,
+    "market_value_in_eur": 4500000,
+    "final_rating": 11.3
+  },
+  {
+    "Player": "Joseph Aidoo",
+    "Squad": "Celta Vigo",
+    "sub_position": "Centre-Back",
+    "Min": 639,
+    "market_value_in_eur": 1000000,
+    "final_rating": 11.1
+  },
+  {
+    "Player": "Shafiq Nandja",
+    "Squad": "Hamburger SV",
+    "sub_position": "Centre-Back",
+    "Min": 15,
+    "market_value_in_eur": 500000,
+    "final_rating": 10.9
+  },
+  {
+    "Player": "Ezra Mayers",
+    "Squad": "West Ham United",
+    "sub_position": "Centre-Back",
+    "Min": 117,
+    "market_value_in_eur": 2000000,
+    "final_rating": 10.4
+  },
+  {
+    "Player": "John Donald",
+    "Squad": "Elche",
+    "sub_position": "Centre-Back",
+    "Min": 665,
+    "market_value_in_eur": 1000000,
+    "final_rating": 10.4
+  },
+  {
+    "Player": "Francesco Coppola",
+    "Squad": "Pisa",
+    "sub_position": "Centre-Back",
+    "Min": 458,
+    "market_value_in_eur": 3500000,
+    "final_rating": 10
+  },
+  {
+    "Player": "Tylel Tati",
+    "Squad": "Nantes",
+    "sub_position": "Centre-Back",
+    "Min": 1721,
+    "market_value_in_eur": 25000000,
     "final_rating": 10
   },
   {
@@ -9805,172 +9805,60 @@ const playerRatingsMaster = [
     "final_rating": 9.7
   },
   {
-    "Player": "Axel Tuanzebe",
-    "Squad": "Burnley",
+    "Player": "Eric Dier",
+    "Squad": "Monaco",
     "sub_position": "Centre-Back",
-    "Min": 1201,
-    "market_value_in_eur": 5000000,
+    "Min": 688,
+    "market_value_in_eur": 4000000,
     "final_rating": 9.5
   },
   {
-    "Player": "Mateus Lusuardi",
-    "Squad": "Pisa",
+    "Player": "Jean-Philippe Gbamin",
+    "Squad": "Metz",
     "sub_position": "Centre-Back",
-    "Min": 198,
-    "market_value_in_eur": 300000,
+    "Min": 2485,
+    "market_value_in_eur": 2000000,
     "final_rating": 9.3
   },
   {
-    "Player": "Axel Tapé",
-    "Squad": "Leverkusen",
+    "Player": "Anthony Jung",
+    "Squad": "Freiburg",
     "sub_position": "Centre-Back",
-    "Min": 222,
-    "market_value_in_eur": 8000000,
-    "final_rating": 8.8
+    "Min": 526,
+    "market_value_in_eur": 600000,
+    "final_rating": 9
   },
   {
-    "Player": "James Tarkowski",
-    "Squad": "Everton",
+    "Player": "Denis Vavro",
+    "Squad": "Wolfsburg",
     "sub_position": "Centre-Back",
-    "Min": 3330,
+    "Min": 1176,
     "market_value_in_eur": 5000000,
     "final_rating": 8.8
   },
   {
-    "Player": "Nikola Milenković",
-    "Squad": "Nottingham Forest",
+    "Player": "Adam Kölle",
+    "Squad": "Heidenheim",
     "sub_position": "Centre-Back",
-    "Min": 3375,
-    "market_value_in_eur": 28000000,
-    "final_rating": 8.6
+    "Min": 93,
+    "market_value_in_eur": 1000000,
+    "final_rating": 8.4
   },
   {
-    "Player": "Joël Schmied",
-    "Squad": "Köln",
+    "Player": "Francisco Sierralta",
+    "Squad": "Auxerre",
     "sub_position": "Centre-Back",
-    "Min": 1078,
-    "market_value_in_eur": 3000000,
-    "final_rating": 8.1
+    "Min": 861,
+    "market_value_in_eur": 1200000,
+    "final_rating": 8.4
   },
   {
-    "Player": "Martin Valjent",
-    "Squad": "Mallorca",
+    "Player": "Federico Baschirotto",
+    "Squad": "Cremonese",
     "sub_position": "Centre-Back",
-    "Min": 3308,
-    "market_value_in_eur": 3000000,
-    "final_rating": 8.1
-  },
-  {
-    "Player": "Jozhua Vertrouwd",
-    "Squad": "Rayo Vallecano",
-    "sub_position": "Centre-Back",
-    "Min": 446,
-    "market_value_in_eur": 2000000,
+    "Min": 2540,
+    "market_value_in_eur": 3500000,
     "final_rating": 7.9
-  },
-  {
-    "Player": "Jamil Siebert",
-    "Squad": "Lecce",
-    "sub_position": "Centre-Back",
-    "Min": 1701,
-    "market_value_in_eur": 4500000,
-    "final_rating": 7
-  },
-  {
-    "Player": "Micky van de Ven",
-    "Squad": "Tottenham Hotspur",
-    "sub_position": "Centre-Back",
-    "Min": 3041,
-    "market_value_in_eur": 50000000,
-    "final_rating": 7
-  },
-  {
-    "Player": "Terry Yegbe",
-    "Squad": "Metz",
-    "sub_position": "Centre-Back",
-    "Min": 1963,
-    "market_value_in_eur": 3000000,
-    "final_rating": 7
-  },
-  {
-    "Player": "Tylel Tati",
-    "Squad": "Nantes",
-    "sub_position": "Centre-Back",
-    "Min": 1721,
-    "market_value_in_eur": 25000000,
-    "final_rating": 7
-  },
-  {
-    "Player": "Dani Calvo",
-    "Squad": "Oviedo",
-    "sub_position": "Centre-Back",
-    "Min": 1611,
-    "market_value_in_eur": 900000,
-    "final_rating": 6.8
-  },
-  {
-    "Player": "Ezri Konsa",
-    "Squad": "Aston Villa",
-    "sub_position": "Centre-Back",
-    "Min": 3035,
-    "market_value_in_eur": 40000000,
-    "final_rating": 6.6
-  },
-  {
-    "Player": "Sebastiano Luperto",
-    "Squad": "Cagliari",
-    "sub_position": "Centre-Back",
-    "Min": 3013,
-    "market_value_in_eur": 4000000,
-    "final_rating": 6.3
-  },
-  {
-    "Player": "Victor Lindelöf",
-    "Squad": "Aston Villa",
-    "sub_position": "Centre-Back",
-    "Min": 948,
-    "market_value_in_eur": 5000000,
-    "final_rating": 6.1
-  },
-  {
-    "Player": "Simone Canestrelli",
-    "Squad": "Pisa",
-    "sub_position": "Centre-Back",
-    "Min": 3201,
-    "market_value_in_eur": 4500000,
-    "final_rating": 5.9
-  },
-  {
-    "Player": "Chidozie Awaziem",
-    "Squad": "Nantes",
-    "sub_position": "Centre-Back",
-    "Min": 2321,
-    "market_value_in_eur": 2500000,
-    "final_rating": 5.7
-  },
-  {
-    "Player": "Raúl Asencio",
-    "Squad": "Real Madrid",
-    "sub_position": "Centre-Back",
-    "Min": 1708,
-    "market_value_in_eur": 20000000,
-    "final_rating": 5.4
-  },
-  {
-    "Player": "Etienne Youte Kinkoue",
-    "Squad": "Le Havre",
-    "sub_position": "Centre-Back",
-    "Min": 419,
-    "market_value_in_eur": 2500000,
-    "final_rating": 5.2
-  },
-  {
-    "Player": "Domingos Duarte",
-    "Squad": "Getafe",
-    "sub_position": "Centre-Back",
-    "Min": 2923,
-    "market_value_in_eur": 800000,
-    "final_rating": 4.5
   },
   {
     "Player": "Marash Kumbulla",
@@ -9978,31 +9866,127 @@ const playerRatingsMaster = [
     "sub_position": "Centre-Back",
     "Min": 439,
     "market_value_in_eur": 3000000,
+    "final_rating": 7.9
+  },
+  {
+    "Player": "Chidozie Awaziem",
+    "Squad": "Nantes",
+    "sub_position": "Centre-Back",
+    "Min": 2321,
+    "market_value_in_eur": 2500000,
+    "final_rating": 7.5
+  },
+  {
+    "Player": "Raúl Albiol",
+    "Squad": "Pisa",
+    "sub_position": "Centre-Back",
+    "Min": 500,
+    "market_value_in_eur": 700000,
+    "final_rating": 7.5
+  },
+  {
+    "Player": "Matthias Ginter",
+    "Squad": "Freiburg",
+    "sub_position": "Centre-Back",
+    "Min": 2833,
+    "market_value_in_eur": 5000000,
+    "final_rating": 7.2
+  },
+  {
+    "Player": "Moritz Jenz",
+    "Squad": "Wolfsburg",
+    "sub_position": "Centre-Back",
+    "Min": 1787,
+    "market_value_in_eur": 5000000,
+    "final_rating": 7
+  },
+  {
+    "Player": "Joe Worrall",
+    "Squad": "Burnley",
+    "sub_position": "Centre-Back",
+    "Min": 500,
+    "market_value_in_eur": 2000000,
+    "final_rating": 6.6
+  },
+  {
+    "Player": "Stefan Bell",
+    "Squad": "Mainz 05",
+    "sub_position": "Centre-Back",
+    "Min": 1039,
+    "market_value_in_eur": 600000,
+    "final_rating": 6.6
+  },
+  {
+    "Player": "Benedikt Gimber",
+    "Squad": "Heidenheim",
+    "sub_position": "Centre-Back",
+    "Min": 1436,
+    "market_value_in_eur": 1500000,
+    "final_rating": 6.1
+  },
+  {
+    "Player": "Emmanuel Biumla",
+    "Squad": "Angers",
+    "sub_position": "Centre-Back",
+    "Min": 387,
+    "market_value_in_eur": 2500000,
+    "final_rating": 6.1
+  },
+  {
+    "Player": "Etienne Youte Kinkoue",
+    "Squad": "Le Havre",
+    "sub_position": "Centre-Back",
+    "Min": 419,
+    "market_value_in_eur": 2500000,
+    "final_rating": 5.7
+  },
+  {
+    "Player": "Ramón Martínez",
+    "Squad": "Sevilla",
+    "sub_position": "Centre-Back",
+    "Min": 102,
+    "market_value_in_eur": 1000000,
+    "final_rating": 5.7
+  },
+  {
+    "Player": "Soumaïla Coulibaly",
+    "Squad": "Brest",
+    "sub_position": "Centre-Back",
+    "Min": 1338,
+    "market_value_in_eur": 6000000,
+    "final_rating": 5.4
+  },
+  {
+    "Player": "Axel Tuanzebe",
+    "Squad": "Burnley",
+    "sub_position": "Centre-Back",
+    "Min": 1201,
+    "market_value_in_eur": 5000000,
+    "final_rating": 5.2
+  },
+  {
+    "Player": "Tyrone Mings",
+    "Squad": "Aston Villa",
+    "sub_position": "Centre-Back",
+    "Min": 1324,
+    "market_value_in_eur": 3000000,
+    "final_rating": 5
+  },
+  {
+    "Player": "Luken Beitia",
+    "Squad": "Real Sociedad",
+    "sub_position": "Centre-Back",
+    "Min": 95,
+    "market_value_in_eur": 300000,
+    "final_rating": 4.8
+  },
+  {
+    "Player": "Abakar Sylla",
+    "Squad": "Nantes",
+    "sub_position": "Centre-Back",
+    "Min": 67,
+    "market_value_in_eur": 2500000,
     "final_rating": 4.5
-  },
-  {
-    "Player": "Robin Hranáč",
-    "Squad": "Hoffenheim",
-    "sub_position": "Centre-Back",
-    "Min": 2251,
-    "market_value_in_eur": 10000000,
-    "final_rating": 4.5
-  },
-  {
-    "Player": "Edmond Tapsoba",
-    "Squad": "Leverkusen",
-    "sub_position": "Centre-Back",
-    "Min": 2575,
-    "market_value_in_eur": 35000000,
-    "final_rating": 4.3
-  },
-  {
-    "Player": "Virgil van Dijk",
-    "Squad": "Liverpool",
-    "sub_position": "Centre-Back",
-    "Min": 3420,
-    "market_value_in_eur": 15000000,
-    "final_rating": 4.1
   },
   {
     "Player": "Thomas Keller",
@@ -10010,14 +9994,30 @@ const playerRatingsMaster = [
     "sub_position": "Centre-Back",
     "Min": 188,
     "market_value_in_eur": 600000,
+    "final_rating": 4.3
+  },
+  {
+    "Player": "Jozhua Vertrouwd",
+    "Squad": "Rayo Vallecano",
+    "sub_position": "Centre-Back",
+    "Min": 446,
+    "market_value_in_eur": 2000000,
+    "final_rating": 4.1
+  },
+  {
+    "Player": "Tanguy Nianzou",
+    "Squad": "Sevilla",
+    "sub_position": "Centre-Back",
+    "Min": 655,
+    "market_value_in_eur": 1200000,
     "final_rating": 3.8
   },
   {
-    "Player": "David López",
-    "Squad": "Girona",
+    "Player": "Timothée Kolodziejczak",
+    "Squad": "Paris FC",
     "sub_position": "Centre-Back",
-    "Min": 293,
-    "market_value_in_eur": 600000,
+    "Min": 662,
+    "market_value_in_eur": 150000,
     "final_rating": 3.6
   },
   {
@@ -10029,92 +10029,68 @@ const playerRatingsMaster = [
     "final_rating": 3.4
   },
   {
-    "Player": "Issa Diop",
-    "Squad": "Fulham",
-    "sub_position": "Centre-Back",
-    "Min": 816,
-    "market_value_in_eur": 8000000,
-    "final_rating": 3.2
-  },
-  {
-    "Player": "Matteo Gabbia",
-    "Squad": "Milan",
-    "sub_position": "Centre-Back",
-    "Min": 2530,
-    "market_value_in_eur": 17000000,
-    "final_rating": 2.9
-  },
-  {
-    "Player": "Matthias Ginter",
-    "Squad": "Freiburg",
-    "sub_position": "Centre-Back",
-    "Min": 2833,
-    "market_value_in_eur": 5000000,
-    "final_rating": 2.7
-  },
-  {
-    "Player": "Clinton Mata",
-    "Squad": "Lyon",
-    "sub_position": "Centre-Back",
-    "Min": 2833,
-    "market_value_in_eur": 2500000,
-    "final_rating": 2.5
-  },
-  {
-    "Player": "Tyrone Mings",
-    "Squad": "Aston Villa",
-    "sub_position": "Centre-Back",
-    "Min": 1324,
-    "market_value_in_eur": 3000000,
-    "final_rating": 2.3
-  },
-  {
-    "Player": "Bamo Meïté",
-    "Squad": "Lorient",
-    "sub_position": "Centre-Back",
-    "Min": 1979,
-    "market_value_in_eur": 7000000,
-    "final_rating": 2
-  },
-  {
-    "Player": "Antonio Rüdiger",
-    "Squad": "Real Madrid",
-    "sub_position": "Centre-Back",
-    "Min": 1490,
-    "market_value_in_eur": 6000000,
-    "final_rating": 1.8
-  },
-  {
-    "Player": "Federico Baschirotto",
-    "Squad": "Cremonese",
-    "sub_position": "Centre-Back",
-    "Min": 2540,
-    "market_value_in_eur": 3500000,
-    "final_rating": 1.6
-  },
-  {
-    "Player": "Patric",
-    "Squad": "Lazio",
-    "sub_position": "Centre-Back",
-    "Min": 667,
-    "market_value_in_eur": 1500000,
-    "final_rating": 1.4
-  },
-  {
-    "Player": "Enzo Ebosse",
-    "Squad": "Torino",
-    "sub_position": "Centre-Back",
-    "Min": 1329,
-    "market_value_in_eur": 2800000,
-    "final_rating": 1.1
-  },
-  {
     "Player": "Antonio Raillo",
     "Squad": "Mallorca",
     "sub_position": "Centre-Back",
     "Min": 2070,
     "market_value_in_eur": 1000000,
-    "final_rating": 0.9
+    "final_rating": 3.2
+  },
+  {
+    "Player": "Simone Canestrelli",
+    "Squad": "Pisa",
+    "sub_position": "Centre-Back",
+    "Min": 3201,
+    "market_value_in_eur": 4500000,
+    "final_rating": 2.9
+  },
+  {
+    "Player": "Mateus Lusuardi",
+    "Squad": "Pisa",
+    "sub_position": "Centre-Back",
+    "Min": 198,
+    "market_value_in_eur": 300000,
+    "final_rating": 2.7
+  },
+  {
+    "Player": "Arturo Calabresi",
+    "Squad": "Pisa",
+    "sub_position": "Centre-Back",
+    "Min": 1514,
+    "market_value_in_eur": 800000,
+    "final_rating": 2.3
+  },
+  {
+    "Player": "Terry Yegbe",
+    "Squad": "Metz",
+    "sub_position": "Centre-Back",
+    "Min": 1963,
+    "market_value_in_eur": 3000000,
+    "final_rating": 2.3
+  },
+  {
+    "Player": "Joël Schmied",
+    "Squad": "Köln",
+    "sub_position": "Centre-Back",
+    "Min": 1078,
+    "market_value_in_eur": 3000000,
+    "final_rating": 2
+  },
+  {
+    "Player": "David López",
+    "Squad": "Mallorca",
+    "sub_position": "Centre-Back",
+    "Min": 837,
+    "market_value_in_eur": 1200000,
+    "final_rating": 1.8
+  },
+  {
+    "Player": "David López",
+    "Squad": "Girona",
+    "sub_position": "Centre-Back",
+    "Min": 293,
+    "market_value_in_eur": 600000,
+    "final_rating": 1.6
   },
   {
     "Player": "Leandro Cabrera",
@@ -10122,23 +10098,15 @@ const playerRatingsMaster = [
     "sub_position": "Centre-Back",
     "Min": 3330,
     "market_value_in_eur": 900000,
-    "final_rating": 0.7
+    "final_rating": 1.4
   },
   {
-    "Player": "Francesco Folino",
-    "Squad": "Cremonese",
+    "Player": "Bambo Diaby",
+    "Squad": "Elche",
     "sub_position": "Centre-Back",
-    "Min": 722,
-    "market_value_in_eur": 800000,
-    "final_rating": 0.5
-  },
-  {
-    "Player": "Unai Elgezabal",
-    "Squad": "Levante",
-    "sub_position": "Centre-Back",
-    "Min": 958,
-    "market_value_in_eur": 500000,
-    "final_rating": 0.2
+    "Min": 102,
+    "market_value_in_eur": 300000,
+    "final_rating": 0.9
   },
   {
     "Player": "Marcão",
@@ -10146,6 +10114,38 @@ const playerRatingsMaster = [
     "sub_position": "Centre-Back",
     "Min": 938,
     "market_value_in_eur": 2500000,
+    "final_rating": 0.9
+  },
+  {
+    "Player": "Enzo Ebosse",
+    "Squad": "Torino",
+    "sub_position": "Centre-Back",
+    "Min": 1329,
+    "market_value_in_eur": 2800000,
+    "final_rating": 0.7
+  },
+  {
+    "Player": "Federico Ceccherini",
+    "Squad": "Cremonese",
+    "sub_position": "Centre-Back",
+    "Min": 476,
+    "market_value_in_eur": 400000,
+    "final_rating": 0.5
+  },
+  {
+    "Player": "Francesco Folino",
+    "Squad": "Cremonese",
+    "sub_position": "Centre-Back",
+    "Min": 722,
+    "market_value_in_eur": 800000,
+    "final_rating": 0.2
+  },
+  {
+    "Player": "Unai Elgezabal",
+    "Squad": "Levante",
+    "sub_position": "Centre-Back",
+    "Min": 958,
+    "market_value_in_eur": 500000,
     "final_rating": 0
   },
   {
